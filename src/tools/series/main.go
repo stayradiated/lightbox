@@ -21,15 +21,10 @@ const (
 
 func main() {
 
-	// data, err := GetAllSeriesInCategory(COMEDY)
-	// if err != nil {
-	// 	panic(err)
-	// }
-
-	data, err := GetEpisodeInfo(356, 890, 12090)
-	if err != nil {
-		panic(err)
-	}
+	// data, _ := GetAllSeriesInCategory(COMEDY)
+	data, _ := GetSeriesInfo(356)
+	// data, _ := GetSeasonInfo(356, 890)
+	// data, _ := GetEpisodeInfo(356, 890, 12090)
 
 	j, _ := json.MarshalIndent(data, "", "  ")
 	fmt.Println(string(j))

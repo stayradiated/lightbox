@@ -23,6 +23,6 @@ func main() {
 	router := NewRouter(&Handlers{db})
 
 	// start http server
-	fmt.Println("Starting server on :8080")
-	log.Fatal(http.ListenAndServe(":8080", router))
+	fmt.Println("Starting server on :9000")
+	log.Fatal(http.ListenAndServe(":9000", router))
 }

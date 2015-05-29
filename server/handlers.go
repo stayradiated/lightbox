@@ -33,8 +33,8 @@ func (h Handlers) ReadSeries(w http.ResponseWriter, r *http.Request) {
 	}
 
 	rows, err := h.DB.Query(`select
-		id, series_name, overview, poster
-		from series_tvdb
+		id, series_name, poster
+		from series
 		where series_name like (?)
 		order by series_name
 		limit ? offset ?`, filter, limit, offset)
@@ -48,7 +48,7 @@ func (h Handlers) ReadSeries(w http.ResponseWriter, r *http.Request) {
 
 	for rows.Next() {
 		series := Series{}
-		err := rows.Scan(&series.ID, &series.Name, &series.Overview, &series.Poster)
+		err := rows.Scan(&series.ID, &series.Name, &series.Poster)
 		if err != nil {
 			fmt.Fprintln(w, err)
 			return
@@ -72,7 +72,6 @@ func (h Handlers) ReadSeriesWithID(w http.ResponseWriter, r *http.Request) {
 		overview,
 		rating,
 		rating_count,
-		genre,
 		actors,
 		poster,
 		banner,
@@ -81,14 +80,13 @@ func (h Handlers) ReadSeriesWithID(w http.ResponseWriter, r *http.Request) {
 		first_aired,
 		runtime,
 		imdb
-	from series_tvdb
+	from series
 	where id = (?)`, seriesID).Scan(
 		&series.ID,
 		&series.Name,
 		&series.Overview,
 		&series.Rating,
 		&series.RatingCount,
-		&series.Genre,
 		&series.Actors,
 		&series.Poster,
 		&series.Banner,
@@ -104,9 +102,36 @@ func (h Handlers) ReadSeriesWithID(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	rows, err := h.DB.Query(`select
-		id, series_id, number
-		from seasons_tvdb
+	rows, err := h.DB.Query(`
+		select categories.name
+		from categories, series_categories, series
+		where 
+			categories.id = series_categories.category_id and
+			series.id = series_categories.series_id and
+			series.id = ?
+	`, seriesID)
+
+	if err != nil {
+		fmt.Fprintln(w, err)
+		return
+	}
+
+	categories := make([]string, 0)
+
+	for rows.Next() {
+		var category string
+		if err := rows.Scan(&category); err != nil {
+			fmt.Fprintln(w, err)
+			return
+		}
+		categories = append(categories, category)
+	}
+
+	series.Categories = categories
+
+	rows, err = h.DB.Query(`select
+		id, series_id, number, banner
+		from seasons
 		where series_id = (?)`, seriesID)
 
 	if err != nil {
@@ -117,9 +142,8 @@ func (h Handlers) ReadSeriesWithID(w http.ResponseWriter, r *http.Request) {
 	seasons := make([]Season, 0)
 
 	for rows.Next() {
-		season := Season{}
-		err = rows.Scan(&season.ID, &season.SeriesID, &season.Number)
-		if err != nil {
+		var season Season
+		if err := rows.Scan(&season.ID, &season.SeriesID, &season.Number, &season.Banner); err != nil {
 			fmt.Fprintln(w, err)
 			return
 		}
@@ -138,9 +162,9 @@ func (h Handlers) ReadSeason(w http.ResponseWriter, r *http.Request) {
 	season := Season{}
 
 	err := h.DB.QueryRow(`select
-		id, series_id, number
-		from seasons_tvdb
-		where id = (?)`, seasonID).Scan(&season.ID, &season.SeriesID, &season.Number)
+		id, series_id, number, banner
+		from seasons
+		where id = (?)`, seasonID).Scan(&season.ID, &season.SeriesID, &season.Number, &season.Banner)
 
 	if err != nil {
 		fmt.Fprintln(w, err)
@@ -160,7 +184,7 @@ func (h Handlers) ReadSeason(w http.ResponseWriter, r *http.Request) {
 		writer,
 		guest_stars,
 		imdb
-	from episodes_tvdb where season_id = (?)`, seasonID)
+	from episodes where season_id = (?)`, seasonID)
 
 	if err != nil {
 		fmt.Fprintln(w, err)

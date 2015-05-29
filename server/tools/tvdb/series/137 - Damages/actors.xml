@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Actors>
+<Actor>
+  <id>73521</id>
+  <Image>actors/73521.jpg</Image>
+  <Name>Glenn Close</Name>
+  <Role>Patty Hewes</Role>
+  <SortOrder>0</SortOrder>
+</Actor>
+<Actor>
+  <id>73522</id>
+  <Image>actors/73522.jpg</Image>
+  <Name>Rose Byrne</Name>
+  <Role>Ellen Parsons</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>73523</id>
+  <Image>actors/73523.jpg</Image>
+  <Name>Ted Danson</Name>
+  <Role>Arthur Frobisher</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>80874</id>
+  <Image>actors/80874.jpg</Image>
+  <Name>William Hurt</Name>
+  <Role>Daniel Purcell</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>80873</id>
+  <Image>actors/80873.jpg</Image>
+  <Name>Marcia Gay Harden</Name>
+  <Role>Claire Maddox</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>80872</id>
+  <Image>actors/80872.jpg</Image>
+  <Name>Timothy Olyphant</Name>
+  <Role>Wes Krulik</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>73527</id>
+  <Image>actors/73527.jpg</Image>
+  <Name>Zeljko Ivanek</Name>
+  <Role>Ray Fiske</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>73526</id>
+  <Image>actors/73526.jpg</Image>
+  <Name>Noah Bean</Name>
+  <Role>David Connor</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>73525</id>
+  <Image>actors/73525.jpg</Image>
+  <Name>Anastasia Griffith</Name>
+  <Role>Katie Connor</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>73524</id>
+  <Image>actors/73524.jpg</Image>
+  <Name>Tate Donovan</Name>
+  <Role>Thomas Shayes</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>306630</id>
+  <Image>actors/306630.jpg</Image>
+  <Name>Ryan Phillippe</Name>
+  <Role>Channing McClaren</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>100831</id>
+  <Image></Image>
+  <Name>Michael Nouri</Name>
+  <Role>Phil Gray</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+</Actors>

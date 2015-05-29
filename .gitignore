@@ -1,3 +1,2 @@
 /server/bin/*.json
 /client/node_modules
-/server/tools/tvdb/series

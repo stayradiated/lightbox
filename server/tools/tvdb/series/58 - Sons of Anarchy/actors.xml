@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Actors>
+<Actor>
+  <id>338735</id>
+  <Image>actors/338735.jpg</Image>
+  <Name>Charlie Hunnam</Name>
+  <Role>Jax Teller</Role>
+  <SortOrder>0</SortOrder>
+</Actor>
+<Actor>
+  <id>78491</id>
+  <Image>actors/78491.jpg</Image>
+  <Name>Katey Sagal</Name>
+  <Role>Gemma Teller Morrow</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>78490</id>
+  <Image>actors/78490.jpg</Image>
+  <Name>Ron Perlman</Name>
+  <Role>Clay Morrow</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>78488</id>
+  <Image>actors/78488.jpg</Image>
+  <Name>Mark Boone Junior</Name>
+  <Role>Robert  'Bobby Elvis' Munson</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>291070</id>
+  <Image>actors/291070.jpg</Image>
+  <Name>Ryan Hurst</Name>
+  <Role>Harry &quot;Opie&quot; Winston</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>291069</id>
+  <Image>actors/291069.jpg</Image>
+  <Name>Theo Rossi</Name>
+  <Role>Juan Carlos &quot;Juice&quot; Ortiz</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>291067</id>
+  <Image>actors/291067.jpg</Image>
+  <Name>Tommy Flanagan</Name>
+  <Role>Filip &quot;Chibs&quot; Telford</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>210881</id>
+  <Image>actors/210881.jpg</Image>
+  <Name>Kim Coates</Name>
+  <Role>Alex 'Tig' Trager</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>78487</id>
+  <Image>actors/78487.jpg</Image>
+  <Name>Maggie Siff</Name>
+  <Role>Tara Knowles</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>335083</id>
+  <Image>actors/335083.jpg</Image>
+  <Name>Niko Nicotera</Name>
+  <Role>Ratboy</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>335082</id>
+  <Image>actors/335082.jpg</Image>
+  <Name>Drea de Matteo</Name>
+  <Role>Wendy Teller</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>335058</id>
+  <Image>actors/335058.jpg</Image>
+  <Name>Jimmy Smits</Name>
+  <Role>Nero Padilla</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>326612</id>
+  <Image>actors/326612.jpg</Image>
+  <Name>William Lucking</Name>
+  <Role>Piermont 'Piney' Winston</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>326611</id>
+  <Image>actors/326611.jpg</Image>
+  <Name>David Labrava</Name>
+  <Role>Happy</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>291071</id>
+  <Image>actors/291071.jpg</Image>
+  <Name>Dayton Callie</Name>
+  <Role>Chief Wayne Unser</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>78492</id>
+  <Image>actors/78492.jpg</Image>
+  <Name>Johnny Lewis</Name>
+  <Role>Kip 'Half Sack' Epps</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>338733</id>
+  <Image>actors/338733.jpg</Image>
+  <Name>Taylor Sheridan</Name>
+  <Role>Deputy Chief David Hale</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>338732</id>
+  <Image>actors/338732.jpg</Image>
+  <Name>Donal Logue</Name>
+  <Role>Lee Toric</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>338731</id>
+  <Image>actors/338731.jpg</Image>
+  <Name>Ally Walker</Name>
+  <Role>Agent June Stahl</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>338730</id>
+  <Image>actors/338730.jpg</Image>
+  <Name>Ray McKinnon</Name>
+  <Role>Lincoln 'Linc' Potter</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>338729</id>
+  <Image>actors/338729.jpg</Image>
+  <Name>Luis Torres</Name>
+  <Role>Benito Martinez</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>338728</id>
+  <Image>actors/338728.jpg</Image>
+  <Name>Danny Trejo</Name>
+  <Role>Romero 'Romeo' Parada</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>338727</id>
+  <Image>actors/338727.jpg</Image>
+  <Name>Christopher Douglas Reed</Name>
+  <Role>Filthy Phil</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>338726</id>
+  <Image>actors/338726.jpg</Image>
+  <Name>Timothy V. Murphy</Name>
+  <Role>Galen</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>338723</id>
+  <Image>actors/338723.jpg</Image>
+  <Name>Kenneth Choi</Name>
+  <Role>Henry Lin</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>338721</id>
+  <Image>actors/338721.jpg</Image>
+  <Name>Rockmond Dunbar</Name>
+  <Role>Eli Roosevelt</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>338720</id>
+  <Image>actors/338720.jpg</Image>
+  <Name>Emilio Rivera</Name>
+  <Role>Marcus Alvarez</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>336427</id>
+  <Image>actors/336427.jpg</Image>
+  <Name>Kurt Sutter</Name>
+  <Role>Otto</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>336423</id>
+  <Image>actors/336423.jpg</Image>
+  <Name>Winter Ave Zoli</Name>
+  <Role>Lyla</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>326613</id>
+  <Image>actors/326613.jpg</Image>
+  <Name>Michael Ornstein</Name>
+  <Role>Chucky Marstein</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>286037</id>
+  <Image>actors/286037.jpg</Image>
+  <Name>Titus Welliver</Name>
+  <Role>Jimmy O'Phelan</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>210891</id>
+  <Image>actors/210891.jpg</Image>
+  <Name>Adam Arkin</Name>
+  <Role>Ethan Zobell</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+</Actors>

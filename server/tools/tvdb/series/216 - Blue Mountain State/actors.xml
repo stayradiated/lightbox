@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Actors>
+<Actor>
+  <id>143351</id>
+  <Image>actors/143351.jpg</Image>
+  <Name>Darin Brooks</Name>
+  <Role>Alex Moran</Role>
+  <SortOrder>0</SortOrder>
+</Actor>
+<Actor>
+  <id>143371</id>
+  <Image>actors/143371.jpg</Image>
+  <Name>Alan Ritchson</Name>
+  <Role>Thad Castle</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>143381</id>
+  <Image>actors/143381.jpg</Image>
+  <Name>Chris Romano</Name>
+  <Role>Sammy Cacciatore</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>143391</id>
+  <Image>actors/143391.jpg</Image>
+  <Name>Gabrielle Dennis</Name>
+  <Role>Denise Roy</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>143361</id>
+  <Image>actors/143361.jpg</Image>
+  <Name>Samuel L. Jones</Name>
+  <Role>Craig Shilo</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>143341</id>
+  <Image>actors/143341.jpg</Image>
+  <Name>Ed Marinaro</Name>
+  <Role>Coach Marty Daniels</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+</Actors>

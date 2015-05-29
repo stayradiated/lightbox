@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Banners>
+<Banner>
+  <id>957562</id>
+  <BannerPath>fanart/original/269866-1.jpg</BannerPath>
+  <BannerType>fanart</BannerType>
+  <BannerType2>1280x720</BannerType2>
+  <Colors></Colors>
+  <Language>en</Language>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeriesName>false</SeriesName>
+  <ThumbnailPath>_cache/fanart/original/269866-1.jpg</ThumbnailPath>
+  <VignettePath>fanart/vignette/269866-1.jpg</VignettePath>
+</Banner>
+<Banner>
+  <id>957563</id>
+  <BannerPath>fanart/original/269866-2.jpg</BannerPath>
+  <BannerType>fanart</BannerType>
+  <BannerType2>1280x720</BannerType2>
+  <Colors></Colors>
+  <Language>en</Language>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeriesName>false</SeriesName>
+  <ThumbnailPath>_cache/fanart/original/269866-2.jpg</ThumbnailPath>
+  <VignettePath>fanart/vignette/269866-2.jpg</VignettePath>
+</Banner>
+</Banners>

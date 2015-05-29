@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Actors>
+<Actor>
+  <id>7</id>
+  <Image>actors/7.jpg</Image>
+  <Name>Sarah Michelle Gellar</Name>
+  <Role>Buffy Summers</Role>
+  <SortOrder>0</SortOrder>
+</Actor>
+<Actor>
+  <id>2</id>
+  <Image>actors/2.jpg</Image>
+  <Name>Nicholas Brendon</Name>
+  <Role>Xander Harris</Role>
+  <SortOrder>0</SortOrder>
+</Actor>
+<Actor>
+  <id>11</id>
+  <Image>actors/11.jpg</Image>
+  <Name>Alyson Hannigan</Name>
+  <Role>Willow Rosenberg</Role>
+  <SortOrder>0</SortOrder>
+</Actor>
+<Actor>
+  <id>5</id>
+  <Image>actors/5.jpg</Image>
+  <Name>Emma Caulfield</Name>
+  <Role>Anya</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>4</id>
+  <Image>actors/4.jpg</Image>
+  <Name>Michelle Trachtenberg</Name>
+  <Role>Dawn Summers</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>12</id>
+  <Image>actors/12.jpg</Image>
+  <Name>Anthony Head</Name>
+  <Role>Rupert Giles</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>10</id>
+  <Image>actors/10.jpg</Image>
+  <Name>James Marsters</Name>
+  <Role>Spike</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>91671</id>
+  <Image>actors/91671.jpg</Image>
+  <Name>Juliet Landau</Name>
+  <Role>Drusilla</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>9</id>
+  <Image>actors/9.jpg</Image>
+  <Name>Seth Green</Name>
+  <Role>Oz</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>8</id>
+  <Image>actors/8.jpg</Image>
+  <Name>David Boreanaz</Name>
+  <Role>Angel</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>79186</id>
+  <Image>actors/79186.jpg</Image>
+  <Name>Amber Benson</Name>
+  <Role>Tara Maclay</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>6</id>
+  <Image>actors/6.jpg</Image>
+  <Name>Marc Blucas</Name>
+  <Role>Riley Finn</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>286065</id>
+  <Image>actors/286065.jpg</Image>
+  <Name>Kristine Sutherland</Name>
+  <Role>Joyce Summers</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>244331</id>
+  <Image>actors/244331.jpg</Image>
+  <Name>Nathan Fillion</Name>
+  <Role>Caleb</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>179291</id>
+  <Image>actors/179291.jpg</Image>
+  <Name>Eliza Dushku</Name>
+  <Role>Faith</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>3</id>
+  <Image>actors/3.jpg</Image>
+  <Name>Charisma Carpenter</Name>
+  <Role>Cordelia Chase</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>289946</id>
+  <Image>actors/289946.jpg</Image>
+  <Name>Danny Strong</Name>
+  <Role>Jonathan Levinson</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+</Actors>

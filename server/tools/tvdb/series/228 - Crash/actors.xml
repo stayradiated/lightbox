@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Actors>
+<Actor>
+  <id>79276</id>
+  <Image>actors/79276.jpg</Image>
+  <Name>Dennis Hopper</Name>
+  <Role>Ben Cendars</Role>
+  <SortOrder>0</SortOrder>
+</Actor>
+<Actor>
+  <id>79271</id>
+  <Image>actors/79271.jpg</Image>
+  <Name>Jocko Sims</Name>
+  <Role>Anthony Adams</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>79274</id>
+  <Image>actors/79274.jpg</Image>
+  <Name>Ross McCall</Name>
+  <Role>Kenny Battaglia</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>79275</id>
+  <Image>actors/79275.jpg</Image>
+  <Name>Clare Carey</Name>
+  <Role>Christine Emory</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>79273</id>
+  <Image>actors/79273.jpg</Image>
+  <Name>Brian Tee</Name>
+  <Role>Eddie Choi</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>79272</id>
+  <Image>actors/79272.jpg</Image>
+  <Name>Arlene Tur</Name>
+  <Role>Bebe Arcel</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>79270</id>
+  <Image>actors/79270.jpg</Image>
+  <Name>Luis Chavez</Name>
+  <Role>Cesar Uman</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>79269</id>
+  <Image>actors/79269.jpg</Image>
+  <Name>Nick E. Tarabay</Name>
+  <Role>Axel Finet</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>79268</id>
+  <Image>actors/79268.jpg</Image>
+  <Name>Moran Atias</Name>
+  <Role>Inez</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+</Actors>

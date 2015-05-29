@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data><Series>
+  <id>269866</id>
+  <Actors>|Ben Cross|John Glover|Bruce Greenwood|</Actors>
+  <Airs_DayOfWeek></Airs_DayOfWeek>
+  <Airs_Time></Airs_Time>
+  <ContentRating>TV-PG</ContentRating>
+  <FirstAired>1989-01-08</FirstAired>
+  <Genre>|Drama|Mini-Series|</Genre>
+  <IMDB_ID>tt0098540</IMDB_ID>
+  <Language>en</Language>
+  <Network>CBS</Network>
+  <NetworkID></NetworkID>
+  <Overview>An attempted assasination plot against Hitler sends one of his trusted SS officers into hiding as a Jew(thanks to plastic surgery and false papers)in a concentration camp. After the camp is liberated, he joins the Zionist army in their fight for Israel.</Overview>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <Runtime>180</Runtime>
+  <SeriesID></SeriesID>
+  <SeriesName>Twist of Fate</SeriesName>
+  <Status>Ended</Status>
+  <added>2013-05-16 09:28:51</added>
+  <addedBy>321221</addedBy>
+  <banner></banner>
+  <fanart>fanart/original/269866-1.jpg</fanart>
+  <lastupdated>1368723301</lastupdated>
+  <poster></poster>
+  <zap2it_id></zap2it_id>
+</Series>
+<Episode>
+  <id>4570175</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Ian Sharp</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Part 1</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>1989-01-08</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt0098540</IMDB_ID>
+  <Language>en</Language>
+  <Overview>SS-Lieutenant Colonel Helmut Von Schreader conceives an unusual plan to escape the aftermath of the Second World War by disguising himself as a Jewish Concentration Camp victim.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>William Bast|Paul Huson</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1368723301</lastupdated>
+  <seasonid>520161</seasonid>
+  <seriesid>269866</seriesid>
+</Episode>
+</Data>

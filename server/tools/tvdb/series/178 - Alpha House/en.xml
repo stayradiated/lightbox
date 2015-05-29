@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data><Series>
+  <id>269008</id>
+  <Actors>|John Goodman|Clark Johnson|Mark Consuelos|Matt Malloy|</Actors>
+  <Airs_DayOfWeek>Friday</Airs_DayOfWeek>
+  <Airs_Time></Airs_Time>
+  <ContentRating></ContentRating>
+  <FirstAired>2013-04-19</FirstAired>
+  <Genre>|Comedy|</Genre>
+  <IMDB_ID>tt3012160</IMDB_ID>
+  <Language>en</Language>
+  <Network>Amazon</Network>
+  <NetworkID></NetworkID>
+  <Overview>Alpha House follows four senators who live together in a rented house in Washington DC.
+Re-election battles, looming indictments, parties, their Party... these senators need a drink. And a new housemate.</Overview>
+  <Rating>7.0</Rating>
+  <RatingCount>6</RatingCount>
+  <Runtime>30</Runtime>
+  <SeriesID>182570</SeriesID>
+  <SeriesName>Alpha House</SeriesName>
+  <Status>Continuing</Status>
+  <added>2013-04-21 07:41:32</added>
+  <addedBy>4703</addedBy>
+  <banner>graphical/269008-g.jpg</banner>
+  <fanart>fanart/original/269008-2.jpg</fanart>
+  <lastupdated>1432654498</lastupdated>
+  <poster>posters/269008-3.jpg</poster>
+  <tms_wanted_old>0</tms_wanted_old>
+  <zap2it_id>EP01728502</zap2it_id>
+</Series>
+<Episode>
+  <id>4705165</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Preview</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2013-04-19</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Get a taste of Alpha House, the new Amazon Originals comedy series featuring John Goodman and created by Garry Trudeau. New episodes available exclusively for Amazon Prime members.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>1</airsbefore_episode>
+  <airsbefore_season>1</airsbefore_season>
+  <filename>episodes/269008/4705165.jpg</filename>
+  <lastupdated>1385003453</lastupdated>
+  <seasonid>559621</seasonid>
+  <seriesid>269008</seriesid>
+  <thumb_added>2013-11-20 19:15:11</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5225238</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Season 2: Behind-the-Scenes</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2014-10-24</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>From the set of the second season of Alpha House, the cast and crew talk about the controversies, mayhem and silliness the four senators stir up as they brace for the elections - and a few nights on the couch.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>2</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1431610350</lastupdated>
+  <seasonid>559621</seasonid>
+  <seriesid>269008</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4551356</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Adam Bernstein</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Pilot</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2013-04-19</FirstAired>
+  <GuestStars>|Bill Murray|Yara Martinez|Alicia Sable|Brooke Bloom|Kobi Libii|Ben Rameaka|Craig Waletzko|Ned Noyes|Ted King|Marvin Avila|Kenneth Tigar|William Thomas Evans|Andy Prosky|Haley Joel Osment|Julie White|</GuestStars>
+  <IMDB_ID>tt2584038</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Re-election battles, looming indictments, parties, their Party... these senators need a drink. And a new housemate.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>10</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Garry Trudeau</Writer>
+  <absolute_number>1</absolute_number>
+  <filename>episodes/269008/4551356.jpg</filename>
+  <lastupdated>1421477739</lastupdated>
+  <seasonid>518034</seasonid>
+  <seriesid>269008</seriesid>
+  <thumb_added>2013-11-20 19:11:19</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4705166</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Adam Bernstein</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>No Shame</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2013-11-15</FirstAired>
+  <GuestStars>|Yara Martinez|Cynthia Nixon|Amy Sedaris|Julie White|Chance Kelly|Alicia Sable|Brooke Bloom|Kobi Libii|Ben Rameaka|Bjorn Dupaty|Matty Blake|</GuestStars>
+  <IMDB_ID>tt3330820</IMDB_ID>
+  <Language>en</Language>
+  <Overview>The senators adjust to their new roommate, and his girlfriend, as preparations for the Congressional Delegation to Afghanistan continue.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>6</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Garry Trudeau</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/269008/4705166.jpg</filename>
+  <lastupdated>1421477930</lastupdated>
+  <seasonid>518034</seasonid>
+  <seriesid>269008</seriesid>
+  <thumb_added>2013-11-20 19:11:13</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4705167</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Adam Bernstein</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>All Weapons Red</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2013-11-15</FirstAired>
+  <GuestStars>|Yara Martinez|Wanda Sykes|Julie White|Haley Joel Osment|Chance Kelly|Alicia Sable|Brooke Bloom|Kobi Libii|Bjorn Dupaty|Matty Blake|Molly Kate Bernard|Natalie Gold|Andre Ware|Alex Hernandez|Tom Walker|Tyler McGee|Tracy Howe|Brent Langdon|Ben Sloane|</GuestStars>
+  <IMDB_ID>tt3331024</IMDB_ID>
+  <Language>en</Language>
+  <Overview>As the re-election battles heat up the four senators travel to Afghanistan as part of a Congressional Delegation.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>3</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Garry Trudeau</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/269008/4705167.jpg</filename>
+  <lastupdated>1421478069</lastupdated>
+  <seasonid>518034</seasonid>
+  <seriesid>269008</seriesid>
+  <thumb_added>2013-11-20 19:11:06</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4705169</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Jake Schreier</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Triggers</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2013-11-22</FirstAired>
+  <GuestStars>|Yara Martinez|Amy Sedaris|Wanda Sykes|Julie White|Haley Joel Osment|Alicia Sable|Kobi Libii|Brooke Bloom|Bjorn Dupaty|Molly Kate Bernard|Willa Fitzgerald|Tony Plana|Matthew Humphreys|Rachel Leslie|Kario Pereira-Bailey|Subhash Mandal|Fiona Choi|Rob Morris</GuestStars>
+  <IMDB_ID>tt3345620</IMDB_ID>
+  <Language>en</Language>
+  <Overview>After a surprise explosion in Afghanistan leaves Louis recovering from an injury, Adriana makes controversial private arrangements for the group to return home.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>9.0</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Garry Trudeau</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/269008/4705169.jpg</filename>
+  <lastupdated>1421478196</lastupdated>
+  <seasonid>518034</seasonid>
+  <seriesid>269008</seriesid>
+  <thumb_added>2013-12-02 06:41:36</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4717064</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Michael Mayer</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Hippo Issues</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2013-11-29</FirstAired>
+  <GuestStars>|Yara Martinez|Amy Sedaris|Wanda Sykes|Julie White|Haley Joel Osment|Alicia Sable|William Aukstik|Brooke Bloom|Charles Bradley|Thomas Brenneck|Dara Swisher Carman|Vincent Chiarito|Richard Cox|Frederick Deboe|Michael Deller|Joseph Dellger|Willa Fitzgerald|</GuestStars>
+  <IMDB_ID>tt3345624</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Tempers heat up as Gil John's wife Maddie arrives to help him prepare for his upcoming debate with Digger Mancusi. Meanwhile, Louis continues to recover in the hospital and Senator Armiston leads an ethics </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>9.0</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Garry Trudeau</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/269008/4717064.jpg</filename>
+  <lastupdated>1421478406</lastupdated>
+  <seasonid>518034</seasonid>
+  <seriesid>269008</seriesid>
+  <thumb_added>2013-12-02 06:31:55</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4717065</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Bob Balaban</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Zingers</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2013-12-06</FirstAired>
+  <GuestStars>|Chris Chasey|Yara Martinez|Amy Sedaris|Wanda Sykes|Julie White|Haley Joel Osment|Richard Cox|Matt Servitto|Alicia Sable|Bjorn Dupaty|Ben Rameaka|Willa Fitzgerald|Natalie Gold|William Thomas Evans|Frederick Weller|</GuestStars>
+  <IMDB_ID>tt3345628</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Louis continues to gain constituent support as Shelby chronicles his recovery. Gil John faces Digger Mancusi in a town hall where he struggles to keep up with his polished and well-liked opponent, despite much help and coaching from Robert and Andy.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>9.0</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Garry Trudeau</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/269008/4717065.jpg</filename>
+  <lastupdated>1421478560</lastupdated>
+  <seasonid>518034</seasonid>
+  <seriesid>269008</seriesid>
+  <thumb_added>2013-12-08 12:54:31</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4717066</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Bob Balaban</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Prayer Brunch</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2013-12-13</FirstAired>
+  <GuestStars>|Yara Martinez|Cynthia Nixon|Amy Sedaris|Wanda Sykes|Julie White|Haley Joel Osment|Brooke Bloom|Alicia Sable|Kobi Libii|Ben Rameaka|Willa Fitzgerald|Anita Petry|William Thomas Evans|Kenneth Tigar|Jack Gilpin|</GuestStars>
+  <IMDB_ID>tt3345630</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Rosalyn organizes a prayer brunch to celebrate Louis' homecoming from the hospital, but the Senators and their fellow Democrats find it difficult to set aside their differences. Aaron and Tammy's relationship continues to grow and Lola has a surprise in store for James.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>9.0</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Jared Gruszecki|Garry Trudeau|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/269008/4717066.jpg</filename>
+  <lastupdated>1421478713</lastupdated>
+  <seasonid>518034</seasonid>
+  <seriesid>269008</seriesid>
+  <thumb_added>2013-12-24 13:07:11</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4717067</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Michael Mayer</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Ruby Shoals</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2013-12-20</FirstAired>
+  <GuestStars>|Yara Martinez|Julie White|Richard Cox|Kobi Libii|Bjorn Dupaty|Alicia Sable|Molly Kate Bernard|Natalie Gold|Sue Jean Kim|Kevin Geer|Jan Leslie Harding|Nick Reynolds|Christina Sajous|Devon Diffenderfer|Gregory Porter Miller|Chuck Montgomery|Sofiya Akilova|</GuestStars>
+  <IMDB_ID>tt3345632</IMDB_ID>
+  <Language>en</Language>
+  <Overview>While on the campaign trail through North Carolina, Gil John blows off a meeting with the governor to visit Ruby Shoals where he becomes re-inspired about his campaign. Robert's pro-fracking visit to a constituent's home in Pennsylvania does not go as planned.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>9.0</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Peter Gwinn|Alison McDonald|Garry Trudeau|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/269008/4717067.jpg</filename>
+  <lastupdated>1421478928</lastupdated>
+  <seasonid>518034</seasonid>
+  <seriesid>269008</seriesid>
+  <thumb_added>2013-12-24 13:11:32</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4717068</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Jann Turner</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Rebuttal</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2013-12-27</FirstAired>
+  <GuestStars>|Yara Martinez|Cynthia Nixon|Amy Sedaris|Wanda Sykes|Julie White|Richard Cox|Haley Joel Osment|Alicia Sable|Brooke Bloom|Kobi Libii|Ben Rameaka|Willa Fitzgerald|Jonathan Fried|Kenneth Tigar|Joseph Dellger|Andy Powers|Mellini Kantayya|Owen Campbell|Natalie</GuestStars>
+  <IMDB_ID>tt3345634</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Robert proves to the ethics committee that he would never take a mohair suit while Andy prepares to deliver a rebuttal after the State of the Union. Louis is put in the spotlight on his first day back when James mistakenly tweets a photo intended for Lola from the wrong account.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>9.0</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Will Graham|Jared Gruszecki|Garry Trudeau|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/269008/4717068.jpg</filename>
+  <lastupdated>1421479148</lastupdated>
+  <seasonid>518034</seasonid>
+  <seriesid>269008</seriesid>
+  <thumb_added>2014-01-01 18:49:37</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4717069</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Andrew McCarthy</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Showgirls</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2014-01-03</FirstAired>
+  <GuestStars>|Yara Martinez|Cynthia Nixon|Amy Sedaris|Wanda Sykes|Julie White|Haley Joel Osment|Tony Plana|Alicia Sable|Brooke Bloom|Kobi Libii|Ben Rameaka|Bjorn Dupaty|Amy Hohn|Ted King|Simon Feil|Eli James|Ilana Becker|Joe Caniano|Lee Wilkof|Todd Susman|Jim Caulfiel</GuestStars>
+  <IMDB_ID>tt3345636</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Louis decides to help showgirls organize, but the Watt brothers stand in his way. A video of Gil John hitting a soldier with a chair in Afghanistan goes viral so Maddie looks for a way to humanize him and Andy's Vanity Fair cover shoot takes an unexpected direction.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Jared Gruszecki|Garry Trudeau|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/269008/4717069.jpg</filename>
+  <lastupdated>1421479318</lastupdated>
+  <seasonid>518034</seasonid>
+  <seriesid>269008</seriesid>
+  <thumb_added>2014-01-11 17:20:25</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4717070</id>
+  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Clark Johnson</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>In the Saddle</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2014-01-10</FirstAired>
+  <GuestStars>|Yara Martinez|Amy Sedaris|Wanda Sykes|Julie White|Haley Joel Osment|Alicia Sable|Cynthia Nixon|Richard Cox|Brooke Bloom|Kobi Libii|Ben Rameaka|Bjorn Dupaty|Amy Hohn|Ted King|Natalie Gold|Willa Fitzgerald|Bill Murray|Sofiya Akilova|William Thomas Evans|</GuestStars>
+  <IMDB_ID>tt3345640</IMDB_ID>
+  <Language>en</Language>
+  <Overview>When another senator dies unexpectedly, Gil John is asked to organize the funeral arrangements. Louis wins the Nevada primary but Robert has to face off in a Pennsylvania debate to cool the competition.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>9.0</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Jared Gruszecki|Garry Trudeau|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/269008/4717070.jpg</filename>
+  <lastupdated>1421479504</lastupdated>
+  <seasonid>518034</seasonid>
+  <seriesid>269008</seriesid>
+  <thumb_added>2014-01-11 17:09:33</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5004956</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Michael Mayer</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Love Doctor</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2014-10-24</FirstAired>
+  <GuestStars>|Yara Martinez|Alicia Sable|Brooke Bloom|Kobi Libii|Ben Rameaka|Amy Sedaris|Julie White|Richard Cox|Natalie Gold|Willa Fitzgerald|Matthew Humphreys|William Thomas Evans|Sofiya Akilova|Tamara Tunie|Bill Murray|Amy Hohn|Jeff Kim|Dillan Arrick|Jane Pauley|Ma</GuestStars>
+  <IMDB_ID>tt3636170</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Gil John helps a former player become a war hero, and quickly regrets it.  Robert hosts an engagement party for his latest matchmaking success, but isn't prepared for the surprise guest</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>9.0</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Garry Trudeau</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/269008/5004956.jpg</filename>
+  <lastupdated>1429998201</lastupdated>
+  <seasonid>598621</seasonid>
+  <seriesid>269008</seriesid>
+  <thumb_added>2014-11-03 15:07:22</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5007971</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Andrew McCarthy</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Gaffergate</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2014-10-24</FirstAired>
+  <GuestStars>|Yara Martinez|Alicia Sable|Brooke Bloom|Kobi Libii|Ben Rameaka|Amy Sedaris|Julie White|Haley Joel Osment|Richard Cox|Natalie Gold|Matthew Humphreys|Todd Susman|Lee Wilkof|Robert Stanton|Sofiya Akilova|Owen Campbell|Lucy DeVito|Lila Newman|Sean Donnelly|S</GuestStars>
+  <IMDB_ID>tt3967670</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Gil John pays a visit to the Watt brothers, Louis worries when an old college friend threatens to share stories, and Andy tries to talk his way out of &quot;Gaffergate,&quot; only to learn he's got bigger image problems.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>9.0</Rating>
+  <RatingCount>3</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Garry Trudeau</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/269008/5007971.jpg</filename>
+  <lastupdated>1429998207</lastupdated>
+  <seasonid>598621</seasonid>
+  <seriesid>269008</seriesid>
+  <thumb_added>2014-11-03 15:10:33</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5007972</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Michael Mayer</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Contest</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2014-10-24</FirstAired>
+  <GuestStars>|Yara Martinez|Alicia Sable|Brooke Bloom|Ben Rameaka|Willa Fitzgerald|Bob Balaban|Penn Jillette|Wanda Sykes|Julie White|Todd Susman|Lee Wilkof|Sofiya Akilova|Marylouise Burke|Lila Newman|Kate Jennings Grant|Lee Tergesen|Janel Moloney|Amy Hohn|Florence Fai</GuestStars>
+  <IMDB_ID>tt3967674</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Andy and Adriana start planning for a future worthy of a first family.  Louis preps for the &quot;Funniest Celebrity in Washington&quot; contest, while his opponent, Penn Jillette, preps for their senate race.  Back at the house, the Watt brothers find a new way to taunt Gil John.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>9.0</Rating>
+  <RatingCount>3</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Garry Trudeau</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/269008/5007972.jpg</filename>
+  <lastupdated>1429998220</lastupdated>
+  <seasonid>598621</seasonid>
+  <seriesid>269008</seriesid>
+  <thumb_added>2014-11-03 15:18:02</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5007973</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Andrew McCarthy</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Shelter in Place</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2014-10-24</FirstAired>
+  <GuestStars>|Alicia Sable|Brooke Bloom|Kobi Libii|Wanda Sykes|Julie White|Haley Joel Osment|Natalie Gold|Willa Fitzgerald|Sofiya Akilova|Marylouise Burke|Lila Newman|Lucy DeVito|Lee Tergesen|Janel Moloney|Amy Hohn|Abigail Marlowe|</GuestStars>
+  <IMDB_ID>tt3967676</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Cee Biggs brings her reality show cameras to her father's office just in time for gunshots that trigger a lockdown on Capitol Hill.  Rosalyn forces Robert to face the truth about his marriage, and Louis is forced to let go of a fantasy.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>9.0</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Garry Trudeau</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/269008/5007973.jpg</filename>
+  <lastupdated>1429998238</lastupdated>
+  <seasonid>598621</seasonid>
+  <seriesid>269008</seriesid>
+  <thumb_added>2014-11-03 15:18:14</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5007974</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Michael Pressman</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Apparition</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2014-10-24</FirstAired>
+  <GuestStars>|Yara Martinez|Alicia Sable|Brooke Bloom|Kobi Libii|Ben Rameaka|Penn Jillette|Amy Sedaris|Julie White|Haley Joel Osment|Matthew Humphreys|Natalie Gold|Sofiya Akilova|Abigail Marlowe|Lila Newman|Kate Jennings Grant|Tony Plana|Wendy Makkena|Kenneth Tigar|Br</GuestStars>
+  <IMDB_ID>tt3967678</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Gil John tries to right things after the Watts brothers &quot;Swift Boat&quot; his former player.  Julie shocks Louis and Louise by announcing she's pregnant from an anonymous donor, while Adriana confronts Marta the housekeeper about Andy.  Louis tries to debate Penn Jillette, but he's no match for what the magician has up his sleeves.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>9.0</Rating>
+  <RatingCount>3</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Garry Trudeau</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/269008/5007974.jpg</filename>
+  <lastupdated>1429998246</lastupdated>
+  <seasonid>598621</seasonid>
+  <seriesid>269008</seriesid>
+  <thumb_added>2014-11-03 15:18:29</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5007975</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Andrew McCarthy</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Retreat</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2014-10-24</FirstAired>
+  <GuestStars>|Yara Martinez|Amy Sedaris|Julie White|Bradley Whitford|Natalie Gold|Willa Fitzgerald|Wendy Makkena|Janel Moloney|William Thomas Evans|Amy Rutberg|Jim Morris|Jack Halpin|Gary Leimkuhler|</GuestStars>
+  <IMDB_ID>tt3967686</IMDB_ID>
+  <Language>en</Language>
+  <Overview>The senators head to a Republican retreat at a Virginia plantation, where they're haunted by the ghosts of slavery, Ronald Reagan and their exes.  After a soul-cleansing bonfire with the housemates, Gil John awakes with a new fire in his belly.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.3</Rating>
+  <RatingCount>3</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Garry Trudeau</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/269008/5007975.jpg</filename>
+  <lastupdated>1429998261</lastupdated>
+  <seasonid>598621</seasonid>
+  <seriesid>269008</seriesid>
+  <thumb_added>2014-11-03 15:18:44</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5007976</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Jann Turner</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Civility Zone</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2014-10-24</FirstAired>
+  <GuestStars>|Yara Martinez|Brooke Bloom|Ben Rameaka|Bob Balaban|Penn Jillette|Amy Sedaris|Wanda Sykes|Julie White|Todd Susman|Lee Wilkof|Natalie Gold|Lucy DeVito|Lila Newman|Tony Plana|Abigail Marlowe|Christine Renee Miller|Tamara Torres|Lucy Owen|</GuestStars>
+  <IMDB_ID>tt3967690</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Gil John finally breaks through to daughter Cee, then gets a lesson in civility from the women's caucus. Andy heads to Miami to try and win back Adriana, and gets some insights into his &quot;condition&quot; from a therapist. Meanwhile, Robert ignores his advisors and helps register black voters.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>9.0</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Garry Trudeau</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/269008/5007976.jpg</filename>
+  <lastupdated>1429998269</lastupdated>
+  <seasonid>598621</seasonid>
+  <seriesid>269008</seriesid>
+  <thumb_added>2014-11-03 15:11:37</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5007977</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Bob Balaban</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Bugged</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2014-10-24</FirstAired>
+  <GuestStars>|Yara Martinez|Alicia Sable|Brooke Bloom|Ben Rameaka|Penn Jillette|Wanda Sykes|Richard Cox|Natalie Gold|William Thomas Evans|Janel Moloney|Tony Plana|Marylouise Burke|Christopher McLinden|Bianca Amato|Amelia Campbell|Andy Schneeflock|Ptolemy Slocum|</GuestStars>
+  <IMDB_ID>tt4003864</IMDB_ID>
+  <Language>en</Language>
+  <Overview>After a break-in at the Alpha House, the NSA does a sweep, and gets suspicious -- which lands Robert a new covert mission.  Meanwhile, Gil John goes to bat for the women's caucus bill, earning him a whole new following.  And Louis's aides inspire him to publicly &quot;evolve&quot; on gay marriage, much to their chagrin.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>10.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|Will Graham|Garry Trudeau|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/269008/5007977.jpg</filename>
+  <lastupdated>1429998275</lastupdated>
+  <seasonid>598621</seasonid>
+  <seriesid>269008</seriesid>
+  <thumb_added>2014-11-03 15:11:53</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5007978</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Antoine Douaihy</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>There Will Be Water</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2014-10-24</FirstAired>
+  <GuestStars>|Yara Martinez|Alicia Sable|Kobi Libii|Brooke Bloom|Ben Rameaka|Wanda Sykes|Julie White|Richard Cox|Natalie Gold|Willa Fitzgerald|Matthew Humphreys|Tony Plana|Tamara Tunie|William Thomas Evans|Kate Jennings Grant|Lucy DeVito|Lila Newman|Amy Hohn|Nick Greg</GuestStars>
+  <IMDB_ID>tt4066428</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Gil John gets attacked by Sarah Palin and embraced by the media.  Pressured by the party chair, Louis nudges Julie to consider a big wedding. Robert is forced to kiss up to his ex-wife's new beau, but gets some help from Rosalyn (Wanda Sykes).</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>9.0</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Garry Trudeau</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/269008/5007978.jpg</filename>
+  <lastupdated>1429998342</lastupdated>
+  <seasonid>598621</seasonid>
+  <seriesid>269008</seriesid>
+  <thumb_added>2014-11-03 15:19:12</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5007979</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Adam Bernstein</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Nuptials</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2014-10-24</FirstAired>
+  <GuestStars>|Yara Martinez|Alicia Sable|Kobi Libii|Brooke Bloom|Ben Rameaka|Penn Jillette|Amy Sedaris|Wanda Sykes|Julie White|Bruce Altman|Josh Pais|Richard Cox|Natalie Gold|Willa Fitzgerald|Lee Tergesen|William Thomas Evans|Kate Jennings Grant|Molly Kate Bernard|Jak</GuestStars>
+  <IMDB_ID>tt4073738</IMDB_ID>
+  <Language>en</Language>
+  <Overview>As the election returns come in, Gil John meets with a presidential campaign advisor, while Robert wonders if he still has a job.  Katherine and Julie discover their wedding has been turned into a major political event -- after they arrive.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.3</Rating>
+  <RatingCount>3</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|Will Graham|Garry Trudeau|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/269008/5007979.jpg</filename>
+  <lastupdated>1429998348</lastupdated>
+  <seasonid>598621</seasonid>
+  <seriesid>269008</seriesid>
+  <thumb_added>2014-11-03 15:12:43</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+</Data>

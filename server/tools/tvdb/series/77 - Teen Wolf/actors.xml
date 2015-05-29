@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Actors>
+<Actor>
+  <id>330688</id>
+  <Image>actors/330688.jpg</Image>
+  <Name>Dylan O'Brien</Name>
+  <Role>Stiles Stilinski</Role>
+  <SortOrder>0</SortOrder>
+</Actor>
+<Actor>
+  <id>330687</id>
+  <Image>actors/330687.jpg</Image>
+  <Name>Tyler Posey</Name>
+  <Role>Scott McCall</Role>
+  <SortOrder>0</SortOrder>
+</Actor>
+<Actor>
+  <id>330690</id>
+  <Image>actors/330690.jpg</Image>
+  <Name>Tyler Hoechlin</Name>
+  <Role>Derek Hale</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>330689</id>
+  <Image>actors/330689.jpg</Image>
+  <Name>Holland Roden</Name>
+  <Role>Lydia Martin</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>322262</id>
+  <Image>actors/322262.jpg</Image>
+  <Name>Arden Cho</Name>
+  <Role>Kira Yukimura</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>322263</id>
+  <Image>actors/322263.jpg</Image>
+  <Name>Ian Bohen</Name>
+  <Role>Peter Hale</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>311795</id>
+  <Image>actors/311795.jpg</Image>
+  <Name>Charlie Carver</Name>
+  <Role>Ethan</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>311793</id>
+  <Image>actors/311793.jpg</Image>
+  <Name>Max Carver</Name>
+  <Role>Aiden</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>301159</id>
+  <Image>actors/301159.jpg</Image>
+  <Name>Daniel Sharman</Name>
+  <Role>Isaac Lahey</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>285254</id>
+  <Image>actors/285254.jpg</Image>
+  <Name>Colton Haynes</Name>
+  <Role>Jackson Whittemore</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>285251</id>
+  <Image>actors/285251.jpg</Image>
+  <Name>Crystal Reed</Name>
+  <Role>Allison Argent</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>330692</id>
+  <Image>actors/330692.jpg</Image>
+  <Name>Dylan Sprayberry</Name>
+  <Role>Liam Dunbar</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>330691</id>
+  <Image>actors/330691.jpg</Image>
+  <Name>Shelley Hennig</Name>
+  <Role>Malia Tate/Hale</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>311791</id>
+  <Image>actors/311791.jpg</Image>
+  <Name>Adelaide Kane</Name>
+  <Role>Cora Hale</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>301160</id>
+  <Image>actors/301160.jpg</Image>
+  <Name>Michael Hogan</Name>
+  <Role>Gerard Argent</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>301158</id>
+  <Image>actors/301158.jpg</Image>
+  <Name>Gage Golightly</Name>
+  <Role>Erica Reyes</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>301157</id>
+  <Image>actors/301157.jpg</Image>
+  <Name>Seth Gilliam</Name>
+  <Role>Dr. Alan Deaton</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>301155</id>
+  <Image>actors/301155.jpg</Image>
+  <Name>Orny Adams</Name>
+  <Role>Coach Bobby Finstock</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>301154</id>
+  <Image>actors/301154.jpg</Image>
+  <Name>Melissa Ponzio</Name>
+  <Role>Melissa McCall</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>301153</id>
+  <Image>actors/301153.jpg</Image>
+  <Name>Eaddy Mays</Name>
+  <Role>Victoria Argent</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>301152</id>
+  <Image>actors/301152.jpg</Image>
+  <Name>Linden Ashby</Name>
+  <Role>Sheriff Stilinski</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>285264</id>
+  <Image>actors/285264.jpg</Image>
+  <Name>JR Bourne</Name>
+  <Role>Chris Argent</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+</Actors>

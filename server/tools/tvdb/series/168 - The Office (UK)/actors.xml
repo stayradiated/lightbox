@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Actors>
+<Actor>
+  <id>61630</id>
+  <Image>actors/61630.jpg</Image>
+  <Name>Ricky Gervais</Name>
+  <Role>David Brent</Role>
+  <SortOrder>0</SortOrder>
+</Actor>
+<Actor>
+  <id>61642</id>
+  <Image>actors/61642.jpg</Image>
+  <Name>Lucy Davis</Name>
+  <Role>Dawn Tinsley</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>61628</id>
+  <Image>actors/61628.jpg</Image>
+  <Name>Martin Freeman</Name>
+  <Role>Tim Canterbury</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>61643</id>
+  <Image>actors/61643.jpg</Image>
+  <Name>Mackenzie Crook</Name>
+  <Role>Gareth Keenan</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>61641</id>
+  <Image>actors/61641.jpg</Image>
+  <Name>Ralph Ineson</Name>
+  <Role>Chris 'Finchy' Finch</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>61636</id>
+  <Image>actors/61636.jpg</Image>
+  <Name>Stacey Roca</Name>
+  <Role>Rachel</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>61634</id>
+  <Image>actors/61634.jpg</Image>
+  <Name>Ewen Macintosh</Name>
+  <Role>Keith</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>61633</id>
+  <Image>actors/61633.jpg</Image>
+  <Name>Patrick Baladi</Name>
+  <Role>Neil Godwin</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>61637</id>
+  <Image></Image>
+  <Name>Alexander Perkins</Name>
+  <Role>Ralph</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>61632</id>
+  <Image></Image>
+  <Name>Jamie Deeks</Name>
+  <Role>Jamie</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>61639</id>
+  <Image></Image>
+  <Name>Joel Beckett</Name>
+  <Role>Lee</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>61627</id>
+  <Image></Image>
+  <Name>Julie Fernandez</Name>
+  <Role>Brenda</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>61631</id>
+  <Image></Image>
+  <Name>Kiki Kendrick</Name>
+  <Role></Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>61638</id>
+  <Image></Image>
+  <Name>Oliver Chris</Name>
+  <Role>Ricky Howard</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>61635</id>
+  <Image></Image>
+  <Name>Rachel Isaac</Name>
+  <Role>Trudy</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>61640</id>
+  <Image></Image>
+  <Name>Sally Bretton</Name>
+  <Role>Donna</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>61629</id>
+  <Image></Image>
+  <Name>Stirling Gallacher</Name>
+  <Role>Jennifer Taylor-Clark</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+</Actors>

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Actors>
+<Actor>
+  <id>71947</id>
+  <Image>actors/71947.jpg</Image>
+  <Name>Sofie Gråbøl</Name>
+  <Role>Sarah Lund</Role>
+  <SortOrder>0</SortOrder>
+</Actor>
+<Actor>
+  <id>71948</id>
+  <Image>actors/71948.jpg</Image>
+  <Name>Lars Mikkelsen</Name>
+  <Role>Troels Hartmann</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>71949</id>
+  <Image>actors/71949.jpg</Image>
+  <Name>Bjarke Henriksen</Name>
+  <Role>Theis Birk Larsen</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>71955</id>
+  <Image>actors/71955.jpg</Image>
+  <Name>Michael Moritzen</Name>
+  <Role>Morten Weber</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>71954</id>
+  <Image>actors/71954.jpg</Image>
+  <Name>Nicolaj Kopernikus</Name>
+  <Role>Vagn </Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>71953</id>
+  <Image>actors/71953.jpg</Image>
+  <Name>Bent Mejding</Name>
+  <Role>Poul Bremer </Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>71952</id>
+  <Image>actors/71952.jpg</Image>
+  <Name>Marie Askehave</Name>
+  <Role> Rie Skovgaard </Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>71951</id>
+  <Image>actors/71951.jpg</Image>
+  <Name>Søren Malling</Name>
+  <Role>Jan Meyer</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>71950</id>
+  <Image>actors/71950.jpg</Image>
+  <Name>Ann Eleonora Jørgensen</Name>
+  <Role>Pernille Birk Larsen</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>326744</id>
+  <Image>actors/326744.jpg</Image>
+  <Name>Trine Pallesen</Name>
+  <Role>Karen Nebel</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>326743</id>
+  <Image>actors/326743.jpg</Image>
+  <Name>Stine Prætorius</Name>
+  <Role>Louise Raben</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>326742</id>
+  <Image>actors/326742.jpg</Image>
+  <Name>Stig Hoffmeyer</Name>
+  <Role>Niels Reinholdt</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>326741</id>
+  <Image>actors/326741.jpg</Image>
+  <Name>Sigurd Holmen Le Dous</Name>
+  <Role>Asbjørn Juncker</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>326740</id>
+  <Image>actors/326740.jpg</Image>
+  <Name>Preben Kristensen</Name>
+  <Role>Carsten Plough</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>326739</id>
+  <Image>actors/326739.jpg</Image>
+  <Name>Olaf Heine Johannessen</Name>
+  <Role>Kristian Kamper</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>326738</id>
+  <Image>actors/326738.jpg</Image>
+  <Name>Nikolaj Lie Kaas</Name>
+  <Role>Mathias Borch</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>326737</id>
+  <Image>actors/326737.jpg</Image>
+  <Name>Nicolas Bro</Name>
+  <Role>Thomas Buch</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>326736</id>
+  <Image>actors/326736.jpg</Image>
+  <Name>Morten Suurballe</Name>
+  <Role>Lennart Brix</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>326735</id>
+  <Image>actors/326735.jpg</Image>
+  <Name>Mikael Birkkjær</Name>
+  <Role>Ulrik Strange</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>326734</id>
+  <Image>actors/326734.jpg</Image>
+  <Name>Ken Vedsegaard</Name>
+  <Role>Jens Peter Raben</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>326733</id>
+  <Image>actors/326733.jpg</Image>
+  <Name>Jonatan Spang</Name>
+  <Role>Kristoffer Kamper</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>326732</id>
+  <Image>actors/326732.jpg</Image>
+  <Name>Helle Fagralid</Name>
+  <Role>Maja Zeuthen</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>326731</id>
+  <Image>actors/326731.jpg</Image>
+  <Name>Flemming Enevold</Name>
+  <Role>Torsten Jarnvig</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>326730</id>
+  <Image>actors/326730.jpg</Image>
+  <Name>Charlotte Guldberg</Name>
+  <Role>Karina Munk Jørgensen</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>326729</id>
+  <Image>actors/326729.jpg</Image>
+  <Name>Anders W. Berthelsen</Name>
+  <Role>Robert Zeuthen</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+</Actors>

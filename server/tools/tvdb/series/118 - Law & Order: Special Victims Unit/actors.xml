@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Actors>
+<Actor>
+  <id>40684</id>
+  <Image>actors/40684.jpg</Image>
+  <Name>Mariska Hargitay</Name>
+  <Role>Det. Olivia Benson</Role>
+  <SortOrder>0</SortOrder>
+</Actor>
+<Actor>
+  <id>40680</id>
+  <Image>actors/40680.jpg</Image>
+  <Name>Ice-T</Name>
+  <Role>Det. Odafin &quot;Fin&quot; Tutuola</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>40685</id>
+  <Image>actors/40685.jpg</Image>
+  <Name>Richard Belzer</Name>
+  <Role>Det./Sgt John Munch</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>40682</id>
+  <Image>actors/40682.jpg</Image>
+  <Name>Dann Florek</Name>
+  <Role>Cpt. Donald Cragen</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>40679</id>
+  <Image>actors/40679.jpg</Image>
+  <Name>Christopher Meloni</Name>
+  <Role>Det. Elliot Stabler</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>303282</id>
+  <Image>actors/303282.jpg</Image>
+  <Name>Danny Pino</Name>
+  <Role>Det. Nick Amaro</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>303281</id>
+  <Image>actors/303281.jpg</Image>
+  <Name>Kelli Giddish</Name>
+  <Role>Det. Amanda Rollins</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>95081</id>
+  <Image>actors/95081.jpg</Image>
+  <Name>Mary Stuart Masterson</Name>
+  <Role>Dr. Rebecca Hendrix</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>95051</id>
+  <Image>actors/95051.jpg</Image>
+  <Name>Dean Winters</Name>
+  <Role>Det. Brian Cassidy</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>95011</id>
+  <Image>actors/95011.jpg</Image>
+  <Name>Adam Beach</Name>
+  <Role>Det. Chester Lake</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>95001</id>
+  <Image>actors/95001.jpg</Image>
+  <Name>Tamara Tunie</Name>
+  <Role>Dr. Melinda Warner</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>94991</id>
+  <Image>actors/94991.jpg</Image>
+  <Name>Michaela Mcmanus</Name>
+  <Role>A.D.A. Kim Greylek</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>40687</id>
+  <Image>actors/40687.jpg</Image>
+  <Name>Michelle Hurd</Name>
+  <Role>Det. Monique Jefferies</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>40686</id>
+  <Image>actors/40686.jpg</Image>
+  <Name>Stephanie March</Name>
+  <Role>A.D.A. Alexandra Cabot</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>40683</id>
+  <Image>actors/40683.jpg</Image>
+  <Name>B.D. Wong</Name>
+  <Role>Dr. George Huang</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>40681</id>
+  <Image>actors/40681.jpg</Image>
+  <Name>Diane Neal</Name>
+  <Role>A.D.A. Casey Novak</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+</Actors>

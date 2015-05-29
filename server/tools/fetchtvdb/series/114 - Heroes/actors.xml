@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Actors>
+<Actor>
+  <id>71339</id>
+  <Image>actors/71339.jpg</Image>
+  <Name>Hayden Panettiere</Name>
+  <Role>Claire Bennet</Role>
+  <SortOrder>0</SortOrder>
+</Actor>
+<Actor>
+  <id>71334</id>
+  <Image>actors/71334.jpg</Image>
+  <Name>Milo Ventimiglia</Name>
+  <Role>Peter Petrelli</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>78589</id>
+  <Image>actors/78589.jpg</Image>
+  <Name>Zachary Quinto</Name>
+  <Role>Sylar | Gabriel Gray</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>84151</id>
+  <Image>actors/84151.jpg</Image>
+  <Name>James Kyson Lee</Name>
+  <Role>Ando Masahashi</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>80952</id>
+  <Image>actors/80952.jpg</Image>
+  <Name>Cristine Rose</Name>
+  <Role>Angela Petrelli</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>78590</id>
+  <Image>actors/78590.jpg</Image>
+  <Name>Malcolm McDowell</Name>
+  <Role>Linderman</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>78588</id>
+  <Image>actors/78588.jpg</Image>
+  <Name>Ali Larter</Name>
+  <Role>Tracy Strauss | Nicole &quot;Niki&quot; Sanders | Jessica Sanders</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>77771</id>
+  <Image>actors/77771.jpg</Image>
+  <Name>Jack Coleman</Name>
+  <Role>Noah Bennet</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>77767</id>
+  <Image>actors/77767.jpg</Image>
+  <Name>Jimmy Jean-Louis</Name>
+  <Role>The Haitian</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>77764</id>
+  <Image>actors/77764.jpg</Image>
+  <Name>Kristen Bell</Name>
+  <Role>Elle Bishop</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>77763</id>
+  <Image>actors/77763.jpg</Image>
+  <Name>Dania Ramirez</Name>
+  <Role>Maya Herrera</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>77762</id>
+  <Image>actors/77762.jpg</Image>
+  <Name>David Anders</Name>
+  <Role>Adam Monroe | Takezo Kensei</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>77754</id>
+  <Image>actors/77754.jpg</Image>
+  <Name>Dana Davis</Name>
+  <Role>Monica Dawson</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>71340</id>
+  <Image>actors/71340.jpg</Image>
+  <Name>Noah Gray-Cabey</Name>
+  <Role>Micah Sanders</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>71338</id>
+  <Image>actors/71338.jpg</Image>
+  <Name>Greg Grunberg</Name>
+  <Role>Matt Parkman</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>71336</id>
+  <Image>actors/71336.jpg</Image>
+  <Name>Adrian Pasdar</Name>
+  <Role>Nathan Petrelli</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>71335</id>
+  <Image>actors/71335.jpg</Image>
+  <Name>Leonard Roberts</Name>
+  <Role>D.L. Hawkins</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>71333</id>
+  <Image>actors/71333.jpg</Image>
+  <Name>Santiago Cabrera</Name>
+  <Role>Isaac Mendez</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>71332</id>
+  <Image>actors/71332.jpg</Image>
+  <Name>Tawny Cypress</Name>
+  <Role>Simone Deveaux</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>71331</id>
+  <Image>actors/71331.jpg</Image>
+  <Name>Sendhil Ramamurthy</Name>
+  <Role>Mohinder Suresh</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>71330</id>
+  <Image>actors/71330.jpg</Image>
+  <Name>Masi Oka</Name>
+  <Role>Hiro Nakamura</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>217571</id>
+  <Image>actors/217571.jpg</Image>
+  <Name>Robert Knepper</Name>
+  <Role>Samuel Sullivan</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>217481</id>
+  <Image>actors/217481.jpg</Image>
+  <Name>Eric Roberts</Name>
+  <Role>Thompson</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>216211</id>
+  <Image>actors/216211.jpg</Image>
+  <Name>Stephen Tobolowsky</Name>
+  <Role>Robert Bishop</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>216191</id>
+  <Image>actors/216191.jpg</Image>
+  <Name>Ashley Crow</Name>
+  <Role>Sandra Bennet</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>314182</id>
+  <Image></Image>
+  <Name>Jayma Mays</Name>
+  <Role>Charlie Andrews</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>324405</id>
+  <Image></Image>
+  <Name>Lyndsy Fonseca</Name>
+  <Role>April</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+</Actors>

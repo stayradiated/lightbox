@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Actors>
+<Actor>
+  <id>285243</id>
+  <Image>actors/285243.jpg</Image>
+  <Name>Mark-Paul Gosselaar</Name>
+  <Role>Peter Bash</Role>
+  <SortOrder>0</SortOrder>
+</Actor>
+<Actor>
+  <id>285242</id>
+  <Image>actors/285242.jpg</Image>
+  <Name>Breckin Meyer</Name>
+  <Role>Jared Franklin</Role>
+  <SortOrder>0</SortOrder>
+</Actor>
+<Actor>
+  <id>285244</id>
+  <Image>actors/285244.jpg</Image>
+  <Name>Malcolm McDowell</Name>
+  <Role>Stanton Infeld</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>285247</id>
+  <Image>actors/285247.jpg</Image>
+  <Name>Reed Diamond</Name>
+  <Role>Damien Karp</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>285245</id>
+  <Image>actors/285245.jpg</Image>
+  <Name>Dana Davis</Name>
+  <Role>Carmen Phillips</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>311134</id>
+  <Image>actors/311134.jpg</Image>
+  <Name>Heather Locklear</Name>
+  <Role>Rachel King</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>285248</id>
+  <Image>actors/285248.jpg</Image>
+  <Name>Garcelle Beauvais-Nilon</Name>
+  <Role>Hanna Linden</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>285246</id>
+  <Image>actors/285246.jpg</Image>
+  <Name>Kumail Nanjiani</Name>
+  <Role>Pindar Singh</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+</Actors>

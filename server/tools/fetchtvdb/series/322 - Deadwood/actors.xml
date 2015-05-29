@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Actors>
+<Actor>
+  <id>14195</id>
+  <Image>actors/14195.jpg</Image>
+  <Name>Timothy Olyphant</Name>
+  <Role>Seth Bullock</Role>
+  <SortOrder>0</SortOrder>
+</Actor>
+<Actor>
+  <id>14196</id>
+  <Image>actors/14196.jpg</Image>
+  <Name>Ian McShane</Name>
+  <Role>Al Swearengen</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>14194</id>
+  <Image>actors/14194.jpg</Image>
+  <Name>Brad Dourif</Name>
+  <Role>Doc Cochran</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>78304</id>
+  <Image>actors/78304.jpg</Image>
+  <Name>Leon Rippy</Name>
+  <Role>Tom Nuttall</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>78299</id>
+  <Image>actors/78299.jpg</Image>
+  <Name>Jim Beaver</Name>
+  <Role>Whitney Ellsworth</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>78298</id>
+  <Image>actors/78298.jpg</Image>
+  <Name>Robin Weigert</Name>
+  <Role>Calamity Jane</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>78297</id>
+  <Image>actors/78297.jpg</Image>
+  <Name>Dayton Callie</Name>
+  <Role>Charlie Utter</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>14208</id>
+  <Image>actors/14208.jpg</Image>
+  <Name>Earl Brown</Name>
+  <Role>Dan Dority</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>14207</id>
+  <Image>actors/14207.jpg</Image>
+  <Name>Paula Malcomson</Name>
+  <Role>Trixie</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>14204</id>
+  <Image>actors/14204.jpg</Image>
+  <Name>Molly Parker</Name>
+  <Role>Alma Garret</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>14201</id>
+  <Image>actors/14201.jpg</Image>
+  <Name>William Sanderson</Name>
+  <Role>E.B. Farnum</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>14198</id>
+  <Image>actors/14198.jpg</Image>
+  <Name>John Hawkes</Name>
+  <Role>Sol Star</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>78897</id>
+  <Image>actors/78897.jpg</Image>
+  <Name>Franklyn Ajaye</Name>
+  <Role>Samuel &quot;Nigger General&quot; Fields</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>78328</id>
+  <Image>actors/78328.jpg</Image>
+  <Name>Parisse Boothe </Name>
+  <Role>Tess</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>78326</id>
+  <Image>actors/78326.jpg</Image>
+  <Name>Stephen Tobolowsky</Name>
+  <Role>Hugo Jarry</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>78325</id>
+  <Image>actors/78325.jpg</Image>
+  <Name>Zach Grenier</Name>
+  <Role>Andy Cramed</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>78324</id>
+  <Image>actors/78324.jpg</Image>
+  <Name>Larry Cedar</Name>
+  <Role>Leon</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>78323</id>
+  <Image>actors/78323.jpg</Image>
+  <Name>Meghan Glennon</Name>
+  <Role>Lila</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>78322</id>
+  <Image>actors/78322.jpg</Image>
+  <Name>Izabella Miko</Name>
+  <Role>Carrie</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>78321</id>
+  <Image>actors/78321.jpg</Image>
+  <Name>Austin Nichols</Name>
+  <Role>Morgan Earp</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>78320</id>
+  <Image>actors/78320.jpg</Image>
+  <Name>Keith Carradine</Name>
+  <Role>Wild Bill Hickok</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>78319</id>
+  <Image>actors/78319.jpg</Image>
+  <Name>Philip Moon</Name>
+  <Role>Lee</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>78318</id>
+  <Image>actors/78318.jpg</Image>
+  <Name>Cleo King</Name>
+  <Role>Lucretia &quot;Aunt Lou&quot; Marchbanks</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>78317</id>
+  <Image>actors/78317.jpg</Image>
+  <Name>Sarah Paulson</Name>
+  <Role>Miss Isringhausen</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>78316</id>
+  <Image>actors/78316.jpg</Image>
+  <Name>Brian Cox</Name>
+  <Role>Jack Langrishe</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>78315</id>
+  <Image>actors/78315.jpg</Image>
+  <Name>Josh Eriksson</Name>
+  <Role>William Bullock</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>78314</id>
+  <Image>actors/78314.jpg</Image>
+  <Name>Ray McKinnon</Name>
+  <Role>Reverend H.W. Smith</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>78313</id>
+  <Image>actors/78313.jpg</Image>
+  <Name>Michael Harney</Name>
+  <Role>Steve</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>78312</id>
+  <Image>actors/78312.jpg</Image>
+  <Name>Gerald McRaney</Name>
+  <Role>George Hearst</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>78311</id>
+  <Image>actors/78311.jpg</Image>
+  <Name>Pavel Lychnikoff</Name>
+  <Role>Blazanov</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>78310</id>
+  <Image>actors/78310.jpg</Image>
+  <Name>Brent Sexton</Name>
+  <Role>Harry Manning</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>78309</id>
+  <Image>actors/78309.jpg</Image>
+  <Name>Ashleigh Kizer</Name>
+  <Role>Dolly</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>78308</id>
+  <Image>actors/78308.jpg</Image>
+  <Name>Ralph Richeson</Name>
+  <Role>Richardson </Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>78307</id>
+  <Image>actors/78307.jpg</Image>
+  <Name>Geri Jewell</Name>
+  <Role>Jewel</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>78306</id>
+  <Image>actors/78306.jpg</Image>
+  <Name>Peter Jason</Name>
+  <Role>Con Stapleton</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>78305</id>
+  <Image>actors/78305.jpg</Image>
+  <Name>Jeffrey Jones</Name>
+  <Role>A.W. Merrick</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>78303</id>
+  <Image>actors/78303.jpg</Image>
+  <Name>Keone Young</Name>
+  <Role>Mr. Wu</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>78301</id>
+  <Image>actors/78301.jpg</Image>
+  <Name>Anna Gunn</Name>
+  <Role>Martha Bullock</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>78300</id>
+  <Image>actors/78300.jpg</Image>
+  <Name>Kim Dickens</Name>
+  <Role>Joanie Stubbs</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>14210</id>
+  <Image>actors/14210.jpg</Image>
+  <Name>Garret Dillahunt</Name>
+  <Role>Francis Wolcott</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>14209</id>
+  <Image>actors/14209.jpg</Image>
+  <Name>Ricky Jay</Name>
+  <Role>Eddie Sawyer</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>14206</id>
+  <Image>actors/14206.jpg</Image>
+  <Name>Bree Wall</Name>
+  <Role>Sofia Metz</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>14203</id>
+  <Image>actors/14203.jpg</Image>
+  <Name>Titus Welliver</Name>
+  <Role>Silas Adams</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>14202</id>
+  <Image>actors/14202.jpg</Image>
+  <Name>Powers Boothe</Name>
+  <Role>Cy Tolliver</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>14199</id>
+  <Image>actors/14199.jpg</Image>
+  <Name>Alice Krige</Name>
+  <Role>Maddie</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>14197</id>
+  <Image>actors/14197.jpg</Image>
+  <Name>Sean Bridgers</Name>
+  <Role>Johnny Burns</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+</Actors>

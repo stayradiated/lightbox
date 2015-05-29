@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Actors>
+<Actor>
+  <id>344796</id>
+  <Image>actors/344796.jpg</Image>
+  <Name>Evelyne Brochu</Name>
+  <Role>Aurora Luft</Role>
+  <SortOrder>0</SortOrder>
+</Actor>
+<Actor>
+  <id>344797</id>
+  <Image>actors/344797.jpg</Image>
+  <Name>Jack Laskey</Name>
+  <Role>Alfred Graves</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>344798</id>
+  <Image>actors/344798.jpg</Image>
+  <Name>Hugh Dillon</Name>
+  <Role>Duncan Sinclair</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>344802</id>
+  <Image>actors/344802.jpg</Image>
+  <Name>Lara Jean Chorostecki</Name>
+  <Role>Krystina Breeland</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>344801</id>
+  <Image>actors/344801.jpg</Image>
+  <Name>Connor Price</Name>
+  <Role>Harry James</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>344800</id>
+  <Image>actors/344800.jpg</Image>
+  <Name>Dustin Milligan</Name>
+  <Role>Tom Cummings</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>344799</id>
+  <Image>actors/344799.jpg</Image>
+  <Name>Warren Brown</Name>
+  <Role>Neil MacKay</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+</Actors>

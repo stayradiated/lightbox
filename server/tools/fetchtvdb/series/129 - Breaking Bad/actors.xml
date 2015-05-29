@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Actors>
+<Actor>
+  <id>80112</id>
+  <Image>actors/80112.jpg</Image>
+  <Name>Bryan Cranston</Name>
+  <Role>Walter White</Role>
+  <SortOrder>0</SortOrder>
+</Actor>
+<Actor>
+  <id>75477</id>
+  <Image>actors/75477.jpg</Image>
+  <Name>Aaron Paul</Name>
+  <Role>Jesse Pinkman</Role>
+  <SortOrder>0</SortOrder>
+</Actor>
+<Actor>
+  <id>75478</id>
+  <Image>actors/75478.jpg</Image>
+  <Name>Dean Norris</Name>
+  <Role>Hank Schrader</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>289552</id>
+  <Image>actors/289552.jpg</Image>
+  <Name>Giancarlo Esposito</Name>
+  <Role>Gustavo Fring</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>75476</id>
+  <Image>actors/75476.jpg</Image>
+  <Name>Anna Gunn</Name>
+  <Role>Skyler White</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>289553</id>
+  <Image>actors/289553.jpg</Image>
+  <Name>Jonathan Banks</Name>
+  <Role>Mike Ehrmantraut</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>289551</id>
+  <Image>actors/289551.jpg</Image>
+  <Name>Bob Odenkirk</Name>
+  <Role>Saul Goodman</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>75480</id>
+  <Image>actors/75480.jpg</Image>
+  <Name>RJ Mitte</Name>
+  <Role>Walter White Jr.</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>75479</id>
+  <Image>actors/75479.jpg</Image>
+  <Name>Betsy Brandt</Name>
+  <Role>Marie Schrader</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>316679</id>
+  <Image>actors/316679.jpg</Image>
+  <Name>Laura Fraser</Name>
+  <Role>Lydia Rodarte-Quayle</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>316678</id>
+  <Image>actors/316678.jpg</Image>
+  <Name>Jesse Plemons</Name>
+  <Role>Todd</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>299671</id>
+  <Image>actors/299671.jpg</Image>
+  <Name>Christopher Cousins</Name>
+  <Role>Ted Beneke</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>299670</id>
+  <Image>actors/299670.jpg</Image>
+  <Name>Steven Michael Quezada</Name>
+  <Role>Steven Gomez</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+</Actors>

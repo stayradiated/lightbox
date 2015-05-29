@@ -1,7 +1,6 @@
 package main
 
 import (
-	"bitbucket.org/stayradiated/lightbox/server/xstream"
 	"encoding/json"
 	"flag"
 	"fmt"
@@ -9,6 +8,8 @@ import (
 	"net/url"
 	"os"
 	"strconv"
+
+	"bitbucket.org/stayradiated/lightbox/server/xstream"
 )
 
 const (

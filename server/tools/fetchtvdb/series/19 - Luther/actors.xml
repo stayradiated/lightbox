@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Actors>
+<Actor>
+  <id>168641</id>
+  <Image>actors/168641.jpg</Image>
+  <Name>Idris Elba</Name>
+  <Role>DCI John Luther</Role>
+  <SortOrder>0</SortOrder>
+</Actor>
+<Actor>
+  <id>168611</id>
+  <Image>actors/168611.jpg</Image>
+  <Name>Ruth Wilson</Name>
+  <Role>Alice</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>168581</id>
+  <Image>actors/168581.jpg</Image>
+  <Name>Warren Brown</Name>
+  <Role>DS Justin Ripley</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>168631</id>
+  <Image>actors/168631.jpg</Image>
+  <Name>Indira Varma</Name>
+  <Role>Zoe Luther</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>168621</id>
+  <Image>actors/168621.jpg</Image>
+  <Name>Paul McGann</Name>
+  <Role>Mark North</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>168601</id>
+  <Image>actors/168601.jpg</Image>
+  <Name>Saskia Reeves</Name>
+  <Role>DSU Rose Teller</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>168591</id>
+  <Image>actors/168591.jpg</Image>
+  <Name>Steven Mackintosh</Name>
+  <Role>DCI Ian Reed</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>168651</id>
+  <Image></Image>
+  <Name>Dermot Crowley</Name>
+  <Role>DSU Martin Schenk</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+</Actors>

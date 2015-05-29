@@ -1,0 +1,1392 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data><Series>
+  <id>82052</id>
+  <Actors>|Phil Crowley|Michael Carroll|</Actors>
+  <Airs_DayOfWeek></Airs_DayOfWeek>
+  <Airs_Time></Airs_Time>
+  <ContentRating>TV-PG</ContentRating>
+  <FirstAired>2003-12-21</FirstAired>
+  <Genre>|Documentary|</Genre>
+  <IMDB_ID>tt1034360</IMDB_ID>
+  <Language>en</Language>
+  <Network>History</Network>
+  <NetworkID></NetworkID>
+  <Overview>Ancient Discoveries unearths new clues that connect the present with the past in more startling ways than we had ever imagined and posits that famous innovative thinkers like Archimedes, Ctesibius, Galen, and Heron discovered or invented numerous technologies and procedures previously thought to have been first imagined in just the last few centuries.
+
+In the ancient texts of Homer and the walls of Egyptian tombs lie tantalizing clues that are causing historians to re-think just how sophisticated centuries-old societies were. Drawings show that the Egyptians may have unlocked the secret to flight with primitive helicopter designs, and that the Chinese had a “wind car” in the 6th century AD that could transport them over land at up to 30 miles per hour. Even more amazing are 600-year-old designs from Italy for a Batmobile-like “rocket car” that appeared to be fueled by gunpowder.
+
+Mechanical maids that could fetch water for people on their own were created by the inventor Philos in the Third century, a concept we still struggle to perfect today! And discoveries about ancient machines of warfare give a new vision of what truly defined the Egyptian empire...
+
+Ancient Discoveries first appeared on The History Channel in late 2003 as a three-part documentary series based around an intriguing premise: that many technologies assumed to have been discovered or invented in the modern age were actually known to ancient civilizations thousands of years ago and the knowledge effectively lost during the Middle Ages. The show returned in 2005 for three more segments and evolved into a weekly series that began airing in January of 2007 to 2009.</Overview>
+  <Rating>7.7</Rating>
+  <RatingCount>9</RatingCount>
+  <Runtime>60</Runtime>
+  <SeriesID>71396</SeriesID>
+  <SeriesName>Ancient Discoveries</SeriesName>
+  <Status>Ended</Status>
+  <added></added>
+  <addedBy></addedBy>
+  <banner>graphical/82052-g.jpg</banner>
+  <fanart>fanart/original/82052-7.jpg</fanart>
+  <lastupdated>1427923375</lastupdated>
+  <poster>posters/82052-3.jpg</poster>
+  <tms_wanted_old>1</tms_wanted_old>
+  <zap2it_id>EP00580427</zap2it_id>
+</Series>
+<Episode>
+  <id>367714</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Computing - Ancient Computer?</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2003-12-21</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1095543</IMDB_ID>
+  <Language>en</Language>
+  <Overview>&quot;Computing&quot; covers the advancement of time-keeping techniques, from the classic sundial to Ctesibius's use of constant water flow and primitive gear mechanisms, leading up to what is known as the Antikythera mechanism. An isolated artifact discovered in the wreckage of an ancient cargo vessel, the mechanism's origin and use are largely a mystery, but its elaborate system of gears suggest an advanced early device for calculating the positions of the heavenly bodies. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>10.0</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/82052/367714.jpg</filename>
+  <lastupdated>1382702258</lastupdated>
+  <seasonid>32579</seasonid>
+  <seriesid>82052</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>367715</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Medicine - Galen, Doctor to the Gladiators</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2003-12-21</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1095544</IMDB_ID>
+  <Language>en</Language>
+  <Overview>&quot;Medicine&quot; is mostly devoted to Galen, a Greek physician in the Roman Empire who pioneered numerous medical techniques, honing his craft on wounded gladiators and soldiers on the battlefield. The unique discovery in this episode is a human skull that implies an effort to perform a rudimentary type of brain surgery.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>10.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/82052/367715.jpg</filename>
+  <lastupdated>1382702274</lastupdated>
+  <seasonid>32579</seasonid>
+  <seriesid>82052</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>367716</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Robotics - Heron of Alexandria</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2003-12-21</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Robotics&quot; is all about the great Heron of Alexandria, a clever machinist who used principles of air compression, wind power, and basic mechanics to swindle religious worshipers and entertain the masses at the theater. He also essentially invented the steam engine!</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/82052/367716.jpg</filename>
+  <lastupdated>1382702286</lastupdated>
+  <seasonid>32579</seasonid>
+  <seriesid>82052</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>367701</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Warfare</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2005-08-21</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Warfare technology is examined, including the Helepolis, a square fortified tower on wheels; and “Greek Fire,” an incendiary liquid that stuck to people and objects and couldn't be extinguished with water.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/82052/367701.jpg</filename>
+  <lastupdated>1382702321</lastupdated>
+  <seasonid>32580</seasonid>
+  <seriesid>82052</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>367702</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Ships</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2005-08-21</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt0757969</IMDB_ID>
+  <Language>en</Language>
+  <Overview>The lake Nemi ships, large Roman vessels that were salvaged from the lake in the 1930s and burned in 1944, are discussed, including technological discoveries from the ships.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/82052/367702.jpg</filename>
+  <lastupdated>1382702336</lastupdated>
+  <seasonid>32580</seasonid>
+  <seriesid>82052</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>367703</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Power (Machines II)</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2005-12-11</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Ancient mechanical devices are examined: A jar that appears to be an electric battery, a flour mill in France that is run by waterwheels, and Archimedes use of solar power to defeat the Romans.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/82052/367703.jpg</filename>
+  <lastupdated>1382702355</lastupdated>
+  <seasonid>32580</seasonid>
+  <seriesid>82052</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>367717</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Siege of Troy</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2007-01-23</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>In this episode, journey to the site in Turkey believed to be the location of the real Troy as ANCIENT DISCOVERIES analyzes one of the world's greatest historical battlegrounds for new clues. Uncover fascinating evidence illuminating Achilles' duel against Hector, the sailing of the vast Mycenaean fleet and the great wooden ship of Troy. Watch as we apply modern technology, archaeology and engineering to uncover the real story behind this legendary war.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/82052/367717.jpg</filename>
+  <lastupdated>1373768133</lastupdated>
+  <seasonid>32581</seasonid>
+  <seriesid>82052</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>367718</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Ancient Cars and Planes</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2007-01-30</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Many ancient inventors imagined - and sometimes even constructed - machines for transport that would not be out of place today. This captivating episode reveals surprising new information about transportation technology invented by our distant ancestors.
+You will marvel at railway cars built in Greece in the 6th century BC and at the fantastic thirty-passenger wind-car designed in 6th Century AD China. You will trace the strings of evidence that hint at flying machines in ancient Greece, Egypt and China thousands of years before the Jet Age. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/82052/367718.jpg</filename>
+  <lastupdated>1374002974</lastupdated>
+  <seasonid>32581</seasonid>
+  <seriesid>82052</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>367719</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Machines of the Gods</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2007-02-06</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>With so many gods to choose from and so many temples vying for the average worshiper's fidelity, Ancient Greece and Rome was a buyer's market for religions. Priests were desperate to demonstrate the supremacy of their particular god and his or her personal involvement in their temple. To that end, Wonders of the Ancient World were constructed, iron chariots were suspended in mid-air, and automatic soap dispensers were installed.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/82052/367719.jpg</filename>
+  <lastupdated>1374004128</lastupdated>
+  <seasonid>32581</seasonid>
+  <seriesid>82052</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>367720</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Superships</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2007-02-13</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview> SUPERSHIPS reveals recent, extraordinary discoveries of ships from the ancient world. New scholarship and breakthroughs in underwater archaeology have vastly increased our store of knowledge regarding ancient navies.
+But with new information comes many questions. What do these finds say about the societies which created them, and the techniques they used in their construction? Who could have mustered the resources and know-how to construct such impressive nautical marvels? How did they build such remarkable ships? And, most intriguingly, why?
+Travel back to ancient Egypt and learn about the &quot;Khufu Boat&quot; which had not one metal nail in its construction, and uncover huge sailing vessels, dating from 3000 B.C., in Abydos near the Nile. Some of the most exciting discoveries that have been made include ancient warships, some massive enough to carry a crew of 7000. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/82052/367720.jpg</filename>
+  <lastupdated>1374003259</lastupdated>
+  <seasonid>32581</seasonid>
+  <seriesid>82052</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>367721</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Ancient Mega Machines</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2007-02-20</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Today, when you have to move a three-ton limestone sarcophagus you just grab a heavy-duty forklift. But what options did ancient engineers have in an age when the only sources of power were humans and animals? What ingenious methods and machines were utilized to move phenomenally heavy objects and to create structures that would put even today’s machines to the test?
+From the Pharos Lighthouse of Alexandria to the Parthenon on the Acropolis, this episode reveals the ingenuity of the ancient heavy engineers and shows how their machines built and transported some of the most amazing structures in Antiquity. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/82052/367721.jpg</filename>
+  <lastupdated>1374034604</lastupdated>
+  <seasonid>32581</seasonid>
+  <seriesid>82052</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>367722</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Egyptian Warfare (Warfare II)</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2007-02-27</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Egyptian monuments and great works of art still astound us today. But ANCIENT DISCOVERIES strives to reveal another surprising aspect of Egyptian life: their sophisticated weapons of war and their great might on the battlefield.
+A common perception of the Egyptians is of a cultured and civil people, yet there is fascinating evidence which reveals they were also an accomplished war-faring people. Visit the great tombs and search the ancient archives to discover the secrets to their military might. Discover how Ancient Egyptians pioneered weapons technology that is still put to use to this day, and experience their absolutely epic battles.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/82052/367722.jpg</filename>
+  <lastupdated>1363959134</lastupdated>
+  <seasonid>32581</seasonid>
+  <seriesid>82052</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>367723</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Chinese Warfare (Warfare III)</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2007-03-06</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Exploring the military innovations of ancient China, including gunpowder, flame throwers, rockets, automated crossbows, siege machines, and the grand scale of their battles</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/82052/367723.jpg</filename>
+  <lastupdated>1373768339</lastupdated>
+  <seasonid>32581</seasonid>
+  <seriesid>82052</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>367726</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Machines III (China)</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2007-03-27</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>For the first time, this program unveils the remarkable story of how China created a myriad of ingenious devices including cosmic machines able to collect data on the stars, hydraulic hammers, water-controlled clocks and even paper.
+We discover that ancient China was an industrial superpower, armed with devices such as heaven carts' able to drill down deep underground, geared milling machines and mass production plants powered by water. Incredibly, unlike the ancient Egyptians, the Chinese developed their inventions with an eye for safety. Sophisticated mining props were designed to prevent cave-ins; ancient &quot;carburetors&quot; to control volatile natural gas; they even managed to design the world's first earthquake detector.
+Setting out on an epic journey across all of China, we meet leading historians and model-makers who keep tales of ancient China alive. We visit a reconstruction of an ancient Chinese iron furnace to unravel insights into how the Chinese created a forty-ton iron artefact five centuries before the West discovered cast-iron technology. Most impressive of all, we meet the leading clay expert Professor Ye Hongming who has spent a lifetime seeking to discover the secrets of how the ancient Chinese created their vast terracotta army.
+This pioneering documentary seeks to lift the centuries-old veil on China's greatest inventions, revealing how many of the West's modern-day inventions owe an extraordinary debt to ancient China's greatest minds.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/82052/367726.jpg</filename>
+  <lastupdated>1374036715</lastupdated>
+  <seasonid>32581</seasonid>
+  <seriesid>82052</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>367727</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Ancient Robots</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2007-04-17</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>In this scintillating programme, we delve into the mysteries of ancient robots. The ancient world is littered with more references to automatic robotic machines than you might think.
+The mythical golden robot built by Hephaistos was fabled to roam the island of Crete three times a day, protecting its wealth. Its name was Talos, and it was famously depicted in the 1960s film ‘Jason and the Argonauts’. The gods were also supposed to have been surrounded by self moving ‘tripods’, doors which opened with acoustical signals and anthropomorphic robots.
+We ask if there is any truth in the amazing and sensational idea that the ancients had robotic devices. We examine the robotic inventions found in the texts of Homer, and compare them with machines known in the ancient world.
+In antiquity, Heron and Philon were the undisputed champions of robotic invention. We look at three of Philon’s most important automata inventions: the drinking horse machine, the automatic mechanism for supplying water and the automatic serving girl. Philon was working in the third century BC. We ask how he was able to create such marvels over 2000 years ago.
+We also look at automatic devices masterminded by Heron of Alexandria, such as robotic temple doors and the self-automated theatre. We also scrutinise the Hydraulis, an automatic water organ which was the favoured musical instrument of Emperor Nero. In an amazing discovery in Dion at the foot of Mount Olympia in Greece, the remains of a Hydraulis were found in 1992.
+Recently, a reconstruction was made of the instrument. It provided music for theatres, festivals and even amphitheatres. Yet the Hydraulis needed somebody to pump a bellows in order to provide an air supply. An automatic air supply was added to the machine in the shape of a small wind mill. A fully automated instrument had been created centuries before its time.
+For the first time in television history, we attempt to reconstruct the robotic machines of the ceremonial halls of the Byzantine Emperor of 830 AD. A variety of mechanisms were created in order to entertain visiting ambassadors and guests. There are stories of a gold pear tree with singing birds, two lions which roared while twisting their heads, griffins spreading their wings, and several wild animals that surrounded the throne roaring.
+It is thought these mechanical objects were commissioned by Emperor Theophiles from an unknown goldsmith. These craftsmen worked in the tradition of Heron of Alexandria, carefully crafting a mechanical scene which also contained singing and drinking birds. When the birds drank from a fountain, an owl turned its head towards the birds. There is still conjecture concerning whether these mechanisms operated by hydraulic power, water pressure or steam.
+Although no robotic human forms are thought to have been created, the ancient world did have self moving mechanical devices. We attempt to reconstruct some of these awe inspiring machines, decisively proving that the ancient engineers and inventors knew how to harness robotic technology 2000 years ago.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/82052/367727.jpg</filename>
+  <lastupdated>1374003337</lastupdated>
+  <seasonid>32581</seasonid>
+  <seriesid>82052</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>367728</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Machines of the East</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2007-04-24</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>From the internal combustion engine to the artificial heart, the legacy of Al-Jazari, the 12th century Muslim inventor, is everywhere around us. It's no exaggeration to say he laid the technological foundation for modern life as we know it. From cranks to pumps, from water clocks to mechanized robots, Al-Jazira wasn't just years ahead of his time, he was centuries ahead.
+In this thorough ANCIENT DISCOVERIES examination of Al-Jazari's influence, modern reproductions of his greatest breakthroughs bring his genius to life. See his famous elephant-themed, fully-operational water clock and other stunning technological achievements.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/82052/367728.jpg</filename>
+  <lastupdated>1374004262</lastupdated>
+  <seasonid>32581</seasonid>
+  <seriesid>82052</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>367876</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Lost Cities of the Deep</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2008-01-28</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Our modern day landscapes are littered with the remains of ancient superstructures. Now, cutting edge archaeology is beginning to reveal that this century's most exciting discoveries actually lie at the bottom of the ocean.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/82052/367876.jpg</filename>
+  <lastupdated>1405059458</lastupdated>
+  <seasonid>32604</seasonid>
+  <seriesid>82052</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>367870</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Ancient Super Navies</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2008-02-04</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Using the latest scientific techniques to solve the greatest mysteries of the ancient world's naval technology, our team of modelmakers, underwater detectives and elite naval commandos are investigating legends that speak of lethal, high explosive grenades... covert underwater attack equipment... and highly toxic biological warfare. Their life-threatening experiments will forever transform our understanding of antiquity's greatest naval inventions.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/82052/367870.jpg</filename>
+  <lastupdated>1374002252</lastupdated>
+  <seasonid>32604</seasonid>
+  <seriesid>82052</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>367871</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Ancient Super Ballistics </EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2008-02-11</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Since the first time a rock was thrown in anger, mankind has endeavored to deliver larger, deadlier payloads further and faster.
+ANCIENT DISCOVERIES reveals how the science and technology of ballistics — a seemingly modern, cutting edge technology — actually dates back thousands of years to the ancient world. Using state of the art forensic techniques and the world's leading firearms experts, this groundbreaking show reveals the accuracy, power and range of ancient bullets, rockets and bombs.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/82052/367871.jpg</filename>
+  <lastupdated>1374040254</lastupdated>
+  <seasonid>32604</seasonid>
+  <seriesid>82052</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>367872</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Ancient Death Machines</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2008-02-25</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>ANCIENT DISCOVERIES digs for the roots of today's war machinery.
+Throughout history, military requirements — killing more effectively than the enemy — have driven the leading edge of technological innovation. Almost all technology on the planet today owes its origins to inventions driven by the imperatives of war.
+This episode surveys the ANCIENT DEATH MACHINES that have left a legacy on today's battlefield. From apocalyptic skyscraper siege machines to ancient landmines and flamethrowers which had the potential to extinguish hundreds of lives in minutes, ANCIENT DISCOVERIES puts the lethal tech of yesterday to the test.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/82052/367872.jpg</filename>
+  <lastupdated>1374033953</lastupdated>
+  <seasonid>32604</seasonid>
+  <seriesid>82052</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>367873</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Ancient Chinese Super Ships</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2008-03-03</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1317509</IMDB_ID>
+  <Language>en</Language>
+  <Overview>The master shipbuilders of the Far East created the most deadly warships of ancient times in their quest for supremacy of the seas. Uncover the extraordinary ingenuity of the ancient engineers whose innovations would take shipbuilding to new heights and create some of the largest and most fearsome navies of the ancient world.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/82052/367873.jpg</filename>
+  <lastupdated>1374033803</lastupdated>
+  <seasonid>32604</seasonid>
+  <seriesid>82052</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>367874</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Ancient New York</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2008-03-10</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Long before Wall Street and Broadway, before even the Dutch, New York was a special place. It's unique topography and resources made it an ideal settlement and so its history stretches far back before the arrival of Europeans. ANCIENT DISCOVERIES journeys back in time to experience the Big Apple when it was still the &quot;Island of Many Hills.&quot;
+While New York's towering skyline and world-leading technology have made it the ultimate modern city, breathtaking new discoveries reveal that the blueprints for this megalopolis were in fact laid thousands of years ago. Now, through the wonders of CGI and dramatic reenactment, you can see first-hand how people have been &quot;making it there&quot; for thousands of years. Witness brutal blood sports staged in ancient Madison Square Gardens. And mark the passage of time — as if in Times Square on New Year's Eve — with a gigantic Neolithic calendar.
+ANCIENT NEW YORK shows you how the foundations of this great city are thousands of years old and makes you reconsider everything you know about it. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/82052/367874.jpg</filename>
+  <lastupdated>1374034020</lastupdated>
+  <seasonid>32604</seasonid>
+  <seriesid>82052</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>1185001</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Lost Cities</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2008-03-17</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Some of the most fascinating archaeological finds in recent times have been those that lie on the ocean floor.                                                    </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1368598407</lastupdated>
+  <seasonid>32604</seasonid>
+  <seriesid>82052</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>2010121</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>3</EpImgFlag>
+  <EpisodeName>Death Weapons of the East</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2008-10-23</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Comparison test between a shotgun and a staff, the oldest known weapon; the deadly Chinese ermei underwater attack weapon; examining whether Chi warriors can really kill a man with a single touch; ancient Chinese crossbows.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/82052/2010121.jpg</filename>
+  <lastupdated>1374034278</lastupdated>
+  <seasonid>224761</seasonid>
+  <seriesid>82052</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2010131</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Impossible Naval Engineering</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2008-10-30</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Citizens of ancient Tyre use fire ships against Alexander the Great's besieging fleet; Roman Emperor Nero builds a death yacht to kill his own mother; a 15th-century weapon designed to pierce enemy hulls; ancient paddle-wheel boat.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/82052/2010131.jpg</filename>
+  <lastupdated>1374034370</lastupdated>
+  <seasonid>224761</seasonid>
+  <seriesid>82052</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2010141</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>3</EpImgFlag>
+  <EpisodeName>Ancient Tank Tech</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2008-11-06</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1320496</IMDB_ID>
+  <Language>en</Language>
+  <Overview>The history of the elephant as the ancient tank, right up to the addition by the Indian emperors of a fully rotational cannon. The ancient battering ram - the king of siege machines - how did it work, and could the ancients have really discovered the secrets of chemical fire-proofing? The amazing flexibility of the medieval fully armoured cavalry knight. An investigation into English civil war bullet-proof armour. Anti elephant rockets - how the rocket ended the elephants 2000 year domination of the battlefield.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/82052/2010141.jpg</filename>
+  <lastupdated>1374004016</lastupdated>
+  <seasonid>224761</seasonid>
+  <seriesid>82052</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2010151</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Ancient Torture Tech</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2008-11-13</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Revealing the terrifying truth behind torture; ancient inventors go to great lengths to develop precision devices to exact pain; the rack; burning at the stake; Vlad the Impaler.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>6.5</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/82052/2010151.jpg</filename>
+  <lastupdated>1374000666</lastupdated>
+  <seasonid>224761</seasonid>
+  <seriesid>82052</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2010161</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Ancient Mining Machines</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2008-11-20</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Unique technologies of ancient miners, including a Roman hydraulic system, sappers who could undermine castle walls and the 1689 origination of gunpowder mining in England.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>6.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/82052/2010161.jpg</filename>
+  <lastupdated>1374008033</lastupdated>
+  <seasonid>224761</seasonid>
+  <seriesid>82052</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2010171</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>3</EpImgFlag>
+  <EpisodeName>Impossible Army Machines</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2008-12-01</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>The amazing successes and stunning failures of ancient military engineers influence today's weapons and tactics; an ancient Greek weapon is still used on aircraft carriers; rapid-firing Chinese catapult; Hannibal crosses the Alps.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>6.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/82052/2010171.jpg</filename>
+  <lastupdated>1374001134</lastupdated>
+  <seasonid>224761</seasonid>
+  <seriesid>82052</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2010181</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Lost Science of the Bible</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2008-12-15</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Might the stories of the Bible have their basis in ancient scientific fact? How big was the giant Goliath, and what was the tech of the sling that brought him down? We'll demonstrate that the tower of Babel could have been as tall as two miles in height, create fire from water as Elijah may have done, and in a never before attempted investigation, watch as archeologists fully levitate a replica of the Ark of the Covenant.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>5.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/82052/2010181.jpg</filename>
+  <lastupdated>1374004351</lastupdated>
+  <seasonid>224761</seasonid>
+  <seriesid>82052</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2010191</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Airborne Assault</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2009-11-05</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Assault from the air didn't begin with the era of the airplane. The kite bomb was a medieval siege weapon that dropped bombs from a kite over cities. Ancient bouncing bombs that actually skipped across water terrorized shipping in Turkey in 1453. Ancient China's whistling arrows, the world's earliest rocket-powered explosive missile, and the earliest known successful parachute, are also examined.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>6.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/82052/2010191.jpg</filename>
+  <lastupdated>1382882793</lastupdated>
+  <seasonid>224771</seasonid>
+  <seriesid>82052</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2010201</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>3</EpImgFlag>
+  <EpisodeName>Guns n' Ammo</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2009-11-12</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Some of the strangest and deadliest weapons ever built were prototypes of the modern gun.
+ANCIENT DISCOVERIES finds out whether a simple bamboo tube could have been the world's first gun. Hidden in an ancient manuscript lays a secret recipe for ancient tracer fire, but does it really work? How far and how high could the mega-mortar &quot;Roaring Meg&quot; have fired its shots to take out a Royalist stronghold? Can a team of experts discover the truth behind the bizarre battlefield phenomena of “wind of the cannonball,” when men were seen to drop dead without apparently having been touched by a shot? And did a nine-barreled medieval volleygun mark the birth of the modern machine gun? </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/82052/2010201.jpg</filename>
+  <lastupdated>1374001491</lastupdated>
+  <seasonid>224771</seasonid>
+  <seriesid>82052</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2010211</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Ancient Mega-Fort</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2009-12-04</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Explore the defenses of ancient forts and cities. Discover the invisible underground defensive systems of Cappadocia and how they proved so successful. Test the ancient Mayan killer bee castle defenses, and release bees in an attack. A replica section of the ancient Roman fort of Alesia is built. And the most impregnable walls in history - the multi-layered defenses of Constantinople are investigated and along with the type of cannon that destroyed them in 1453.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/82052/2010211.jpg</filename>
+  <lastupdated>1374002546</lastupdated>
+  <seasonid>224771</seasonid>
+  <seriesid>82052</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2010221</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Ancient Secret Agents</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2009-12-10</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>The systems by which ancient intelligence services transmitted messages over thousands of miles is investigated. Methods by which ancient spies sent secret messages are reviewed such as invisible ink made of human sperm and how they wrote on the inside of a raw egg. Discover how the ninja used explosives, not just darts and poisons. How a Roman James Bond used a suit made of cork to support him in full armor across a river is also explored.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/82052/2010221.jpg</filename>
+  <lastupdated>1374038202</lastupdated>
+  <seasonid>224771</seasonid>
+  <seriesid>82052</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>3088741</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Gruesome Medicine</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2009-12-18</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Explores ancient medical techniques and possible new applications in the modern era. Techniques reviewed include blood letting by leeches, reading from a torpedo fish, trepanning to relieve pressure on the brain, and Roman battlefield surgery and tools. Other items reviewed include how snake venom was used as medicine and using replica tools and virtual surgery in a computer to see how an arrow was removed from the skull of Prince Henry V of England.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/82052/3088741.jpg</filename>
+  <lastupdated>1374001233</lastupdated>
+  <seasonid>224771</seasonid>
+  <seriesid>82052</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>3088971</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Riots and Revolution</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2009-12-18</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>The show tracks down the secret manual that explained how the Vietnamese defeated not only the US in the 20th century, but the Mongols 700 years earlier. It reveals the largest booby trap in history, one that snagged an entire battle fleet, how king Mithridates used a substance called burning mud in his revolt against Rome, and how the terrorist booby-traps and letter bombs of today were invented hundreds of years ago.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/82052/3088971.jpg</filename>
+  <lastupdated>1374000848</lastupdated>
+  <seasonid>224771</seasonid>
+  <seriesid>82052</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>3088791</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Ancient Commandos</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2009-12-18</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Ancient commandos fought deep behind enemy lines in some of the harshest terrains know to man. The show examines such exploits through storms and snowdrifts, revealing the tech and truth behind the world earliest known ski commandos. A journey to the deserts of Egypt reveals how a tiny army beat off a major invasion force using deception and a bunch of farm animals. The Bayeux tapestry is featured as well as one of the ancient worlds most feared and successful commando units, the Naftun.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>6.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/82052/3088791.jpg</filename>
+  <lastupdated>1374001386</lastupdated>
+  <seasonid>224771</seasonid>
+  <seriesid>82052</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>3448591</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>3</EpImgFlag>
+  <EpisodeName>Ancient Special Forces</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2009-12-18</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>The show reviews ancient Roman navy SEAL techniques of capturing enemy ships from underwater and replicates the feat. The tactics of ancient Roman war dog units are explored including a historically savage breed of dog, the Mastiff. Finally, the secrets of the samurai sword and how it was made is reviewed and they build and test an ancient Horro, a Japanese device that could protect a galloping cavalryman from arrow fire using thin silk.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>6.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/82052/3448591.jpg</filename>
+  <lastupdated>1374001009</lastupdated>
+  <seasonid>224771</seasonid>
+  <seriesid>82052</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>3088801</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>3</EpImgFlag>
+  <EpisodeName>Twisted Weapons of the East</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2009-12-18</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>The show travels first to India where they encounter martial artists wielding terrifying 6-foot-long (1.8 m) swords, a projectile that can sever the limbs of any enemies, and an ancient Indian booby trap which impales its victims as they sleep. In Egypt, how camels were turned into weapons of war are explored. Finally, through painstaking research, they construct the world's first unmanned weapon that went onto the battlefield over 2000 years ago.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/82052/3088801.jpg</filename>
+  <lastupdated>1374001869</lastupdated>
+  <seasonid>224771</seasonid>
+  <seriesid>82052</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>3088951</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Ancient Record Breakers</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2009-12-22</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>This episode explores some ancient world records that still stand today. The most valuable thing in the ancient world is still the most valuable thing today at 2000 dollars per gram. A replica of a 2000 year old jet engine is built and a weapons team finally reveals the only weapon in history that can shoot around corners. They review what was the fastest thing in the ancient world and explosives experts reveal that the first gun was made of fruit.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/82052/3088951.jpg</filename>
+  <lastupdated>1374000722</lastupdated>
+  <seasonid>224771</seasonid>
+  <seriesid>82052</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>3718761</id>
+  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Mega Ocean Conquest</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2009-12-22</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>From conquering the depths of the oceans to defending the freedoms of the seas--ancient man pushed the technological boundaries to the limits in the mega battle for the oceans. New discoveries will reveal how an ancient destroyer rammed its way to victory in one of the most significant battles in human history. In Denmark, a team of divers build and test the world's first ever deep sea diving suit that was designed 350 years before the history books tell us it was possible to walk along the seabed. Can CSI science unravel the mystery of a time traveling ghost ship? And in a groundbreaking sea cannon experiment, naval experts will discover how a 16th century war fleet blasted their way to victory against an enemy armada seven miles wide, without the loss of a single ship. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>6.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1374033598</lastupdated>
+  <seasonid>224771</seasonid>
+  <seriesid>82052</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>3088961</id>
+  <Combined_episodenumber>12</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Rituals of Death</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>2009-12-22</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Travel to Egypt to discover the mysteries of the mummified crocodiles of Kom Ombo. We'll x-ray an ancient mummy that has held a secret for 2000 years, and reveal the lengths that people will go to to ritualize death. New discoveries at the site of the world famous terracotta army in China reveal incredible insights into the mind-state of the great first emperor of China and his people; and what they believed about death. In Britain, forensic scientists solve a year old murder using 15th century forensic science, as well as hundreds of mini-detectives--blowflies. And using virtual reality techniques doctors will now look inside the body of a victim during a live crucifixion to discover horrific new truths about the suffering on the cross. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/82052/3088961.jpg</filename>
+  <lastupdated>1374001952</lastupdated>
+  <seasonid>224771</seasonid>
+  <seriesid>82052</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2010231</id>
+  <Combined_episodenumber>13</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Secret Science of the Occult</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired>2009-12-28</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>In Mexico, explorers use a sacred ancient Mayan temple code to search for an occult underworld engineered in the depths of the earth--a mysterious site where no TV cameras have ever ventured. In Britain, investigators uncover the secret technologies behind a life size statue of Jesus Christ that miraculously came to life. Weapons experts reveal the science that saved a holy military order from certain annihilation in the bloodiest siege in history. In Greece, archaeologists solve the mystery of the oracle of the dead; an eerie sanctuary where flying ghosts appeared from the depths of hell.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/82052/2010231.jpg</filename>
+  <lastupdated>1374033681</lastupdated>
+  <seasonid>224771</seasonid>
+  <seriesid>82052</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+</Data>

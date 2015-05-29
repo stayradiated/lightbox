@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Actors>
+<Actor>
+  <id>32132</id>
+  <Image>actors/32132.jpg</Image>
+  <Name>Regina King</Name>
+  <Role>Huey Freeman / Riley Freeman</Role>
+  <SortOrder>0</SortOrder>
+</Actor>
+<Actor>
+  <id>245181</id>
+  <Image>actors/245181.jpg</Image>
+  <Name>John Witherspoon</Name>
+  <Role>Robert 'Granddad' Freeman</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>32128</id>
+  <Image>actors/32128.jpg</Image>
+  <Name>Jill Talley</Name>
+  <Role>Various</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>32130</id>
+  <Image>actors/32130.jpg</Image>
+  <Name>Gary Anthony Williams</Name>
+  <Role>Various</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>32129</id>
+  <Image>actors/32129.jpg</Image>
+  <Name>Cedric Yarbrough</Name>
+  <Role>Various</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>32127</id>
+  <Image>actors/32127.jpg</Image>
+  <Name>Gabby Soleil</Name>
+  <Role>Jazmine Dubois</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+</Actors>

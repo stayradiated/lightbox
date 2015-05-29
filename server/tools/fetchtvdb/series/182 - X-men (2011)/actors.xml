@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Actors>
+<Actor>
+  <id>291896</id>
+  <Image></Image>
+  <Name>Ali Hillis</Name>
+  <Role>Emma Frost</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>291895</id>
+  <Image></Image>
+  <Name>Cam Clarke</Name>
+  <Role>Professor X</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>291898</id>
+  <Image></Image>
+  <Name>Danielle Nicolet</Name>
+  <Role>Storm</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>291903</id>
+  <Image></Image>
+  <Name>Dave Wittenberg</Name>
+  <Role>Kick</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>291901</id>
+  <Image></Image>
+  <Name>Fred Tatasciore</Name>
+  <Role>Beast</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>291892</id>
+  <Image></Image>
+  <Name>Jennifer Hale</Name>
+  <Role>Jean Grey</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>291897</id>
+  <Image></Image>
+  <Name>Laura Bailey</Name>
+  <Role>Hisako's Mother</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>291900</id>
+  <Image></Image>
+  <Name>Michael Sinterniklaas</Name>
+  <Role>Hisako's Father</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>291891</id>
+  <Image></Image>
+  <Name>Scott Porter</Name>
+  <Role>Cyclops</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>291899</id>
+  <Image></Image>
+  <Name>Stephanie Sheh</Name>
+  <Role>Armor</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>291893</id>
+  <Image></Image>
+  <Name>Steve Blum</Name>
+  <Role>Wolverine</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>291902</id>
+  <Image></Image>
+  <Name>Travis Willingham </Name>
+  <Role>Mastermind</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>291894</id>
+  <Image></Image>
+  <Name>Troy Baker</Name>
+  <Role>Sublime</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+</Actors>

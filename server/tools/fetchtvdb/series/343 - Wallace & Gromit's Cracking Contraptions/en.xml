@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data><Series>
+  <id>143821</id>
+  <Actors>|Peter Sallis|</Actors>
+  <Airs_DayOfWeek></Airs_DayOfWeek>
+  <Airs_Time></Airs_Time>
+  <ContentRating></ContentRating>
+  <FirstAired>2002-10-15</FirstAired>
+  <Genre>|Animation|Comedy|</Genre>
+  <IMDB_ID>tt0339881</IMDB_ID>
+  <Language>en</Language>
+  <Network>BBC One</Network>
+  <NetworkID></NetworkID>
+  <Overview>Wallace and Gromit try out a number of their latest inventions which rarely work as planned.</Overview>
+  <Rating>9.5</Rating>
+  <RatingCount>4</RatingCount>
+  <Runtime>2</Runtime>
+  <SeriesID>77319</SeriesID>
+  <SeriesName>Wallace &amp; Gromit's Cracking Contraptions</SeriesName>
+  <Status>Ended</Status>
+  <added>2010-02-23 08:24:15</added>
+  <addedBy>139871</addedBy>
+  <banner>graphical/143821-g2.jpg</banner>
+  <fanart>fanart/original/143821-2.jpg</fanart>
+  <lastupdated>1429873152</lastupdated>
+  <poster>posters/143821-1.jpg</poster>
+  <tms_wanted_old>1</tms_wanted_old>
+  <zap2it_id></zap2it_id>
+</Series>
+<Episode>
+  <id>4529704</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Intro</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>1</airsbefore_episode>
+  <airsbefore_season>1</airsbefore_season>
+  <filename>episodes/143821/4529704.jpg</filename>
+  <lastupdated>1363943740</lastupdated>
+  <seasonid>197751</seasonid>
+  <seriesid>143821</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4529705</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Outro</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>1</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/143821/4529705.jpg</filename>
+  <lastupdated>1363943748</lastupdated>
+  <seasonid>197751</seasonid>
+  <seriesid>143821</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>1871951</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Behind the scenes</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1363943492</lastupdated>
+  <seasonid>197751</seasonid>
+  <seriesid>143821</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4340715</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Stage Fright</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1363943501</lastupdated>
+  <seasonid>197751</seasonid>
+  <seriesid>143821</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>1871971</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Creature Comforts</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1363943461</lastupdated>
+  <seasonid>197751</seasonid>
+  <seriesid>143821</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>1871991</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Heat Electric Commercial</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1363943455</lastupdated>
+  <seasonid>197751</seasonid>
+  <seriesid>143821</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>1872001</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName> The Amazing World of Wallace &amp; Gromit</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1363943448</lastupdated>
+  <seasonid>197751</seasonid>
+  <seriesid>143821</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4198367</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Wallace &amp; Gromit's Cracking Contraptions</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2010-01-04</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>More of Wallace's wackiest mechanical marvels.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>1</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/143821/4198367.jpg</filename>
+  <lastupdated>1414564458</lastupdated>
+  <seasonid>197751</seasonid>
+  <seriesid>143821</seriesid>
+  <thumb_added>2014-10-28 23:38:36</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>1768031</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>6</EpImgFlag>
+  <EpisodeName>The Soccamatic</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2002-10-15</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>When Wallace takes Gromit to the park for a game of football he plays to win. Unfortunately he is constantly frustrated by Gromit's goalkeeping powers, as his power shots won't get past Gromit. Wallace is forced to reveal his Soccamatic, a circa 1938 penalty taking machine he recently purchased mail order from Preston North End. It seems that Wallace has finally got the upper hand as balls whistle past the hapless dog. But Gromit has an ace up his sleeve...</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/143821/1768031.jpg</filename>
+  <lastupdated>1352997864</lastupdated>
+  <seasonid>197761</seasonid>
+  <seriesid>143821</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>1768041</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>5</EpImgFlag>
+  <EpisodeName>The Tellyscope</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2002-10-15</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>It has always been Gromit's job to walk over and switch the TV channels on Wallace's aging set. Wallace decides to save his legs by inventing a simple remote control device. Unfortunately, though the machine provides fingertip control, it is hardly instant. When Wallace turns on the TV and is confronted by a hard-hitting penguin documentary, he needs to change channel fast. That's when Wallace realises the flaw in his design...</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/143821/1768041.jpg</filename>
+  <lastupdated>1429873115</lastupdated>
+  <seasonid>197761</seasonid>
+  <seriesid>143821</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>1768051</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>6</EpImgFlag>
+  <EpisodeName>The Autochef</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2002-10-15</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Breakfast is Wallace and Gromit's favourite meal. But why bother cooking yourself when you have an Autochef, the combined cooker and waiter on wheels? Wallace is anxious to prove that his troublesome invention is perfectly safe around the home. Gromit isn't so sure about the cheeky robot and he may have good reason to be wary.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/143821/1768051.jpg</filename>
+  <lastupdated>1429873130</lastupdated>
+  <seasonid>197761</seasonid>
+  <seriesid>143821</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>1768131</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>6</EpImgFlag>
+  <EpisodeName>The Snowmanotron</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2002-10-15</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>It's time for the annual West Wallaby Street Snowman Competition and this time Wallace is determined to win. Gromit may be a dab hand (or paw) at sculpting but Wallace has his new ‘‘Snowmanotron’’, which will do the whole job at the touch of a few buttons. Wallace is thrilled with his resulting masterpiece but Gromit is left feeling rather flat...</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/143821/1768131.jpg</filename>
+  <lastupdated>1429873099</lastupdated>
+  <seasonid>197761</seasonid>
+  <seriesid>143821</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>1768021</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>A Christmas Cardomatic</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2002-10-15</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>It's nearly Christmas and Wallace is getting into the festive spirit. He's decided to make some tasteful Christmas cards with the help of Gromit, lots of glitter and his brand new card-making machine. But Wallace is so carried away by the resulting masterpiece that he fails to notice the extraordinary scene unfolding in the garden.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/143821/1768021.jpg</filename>
+  <lastupdated>1429873152</lastupdated>
+  <seasonid>197761</seasonid>
+  <seriesid>143821</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>1768141</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>6</EpImgFlag>
+  <EpisodeName>Shopper 13</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2002-10-15</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>It's just a short nip to the shops but it can become a daily chore when you have all that cheese to carry home. Wallace has decided to save his legs by initiating a program of guided shopping trolleys to the supermarket. Mission 13 is the big one; he's going for the largest ball of Edam on the shelf. All seems to be going well until disaster strikes on the return leg. Can the heroic Gromit save the day by piloting the stricken craft back to 62 West Wallaby street or will the cheese be lost forever?</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/143821/1768141.jpg</filename>
+  <lastupdated>1352997906</lastupdated>
+  <seasonid>197761</seasonid>
+  <seriesid>143821</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>1768061</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>6</EpImgFlag>
+  <EpisodeName>The Snoozatron</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2002-10-15</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Getting to sleep can be a problem when you eat as much cheese as Wallace. His solution is the Snoozatron, a simple device to aid the restless insomniac. For Wallace the machine is a triumph of precision engineering. For Gromit, his part in the machine's cycle is a regular chore he could do without...</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>6.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/143821/1768061.jpg</filename>
+  <lastupdated>1429873083</lastupdated>
+  <seasonid>197761</seasonid>
+  <seriesid>143821</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>1768091</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>6</EpImgFlag>
+  <EpisodeName>The Turbo Diner</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2002-10-15</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Another chore Gromit dislikes is clearing the table after meals. Wallace's Turbo Diner is designed to do the job fast and efficiently; all they have to do is top up the electricity meter. Everything seems to be going well until the lights start flickering, and soon Wallace and Gromit are stuck. The scene ends with Wallace claiming he has a 'great idea'.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/143821/1768091.jpg</filename>
+  <lastupdated>1352997922</lastupdated>
+  <seasonid>197761</seasonid>
+  <seriesid>143821</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>1768111</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>5</EpImgFlag>
+  <EpisodeName>The Bully Proof Vest</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2002-10-15</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>It can be a hard life 'up North' and home security can be a problem these days. So perhaps Wallace is right to be scared when the lights go out one dark and stormy night. A cup of tea and a cracker should calm his nerves but who is that lurking in the shadows? It may be time to utilize the ultimate burglar deterrent, Wallace's fearsome Bully Proof Vest…</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/143821/1768111.jpg</filename>
+  <lastupdated>1429873191</lastupdated>
+  <seasonid>197761</seasonid>
+  <seriesid>143821</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>1768121</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>6</EpImgFlag>
+  <EpisodeName>The 525 CrackerVac</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2002-10-15</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Gromit's daily chores include sweeping up, unfortunately Wallace wants to help. The 525 Cracker Vac will save Gromit's time and take the strain out of cleaning and it has a cracker sensor to boot!! However, things don't go quite as Wallace planned and it's up to Gromit to save the day.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/143821/1768121.jpg</filename>
+  <lastupdated>1429873201</lastupdated>
+  <seasonid>197761</seasonid>
+  <seriesid>143821</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+</Data>

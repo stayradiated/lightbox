@@ -14,8 +14,8 @@ type Handlers struct {
 	DB *sql.DB
 }
 
-// ReadSeries reads a list of series
-func (h Handlers) ReadSeries(w http.ResponseWriter, r *http.Request) {
+// ReadShows returns a list of show
+func (h Handlers) ReadShows(w http.ResponseWriter, r *http.Request) {
 
 	filter := "%" + r.FormValue("filter") + "%"
 
@@ -33,10 +33,10 @@ func (h Handlers) ReadSeries(w http.ResponseWriter, r *http.Request) {
 	}
 
 	rows, err := h.DB.Query(`select
-		id, series_name, poster, first_aired
-		from series
-		where series_name like (?)
-		order by series_name
+		id, name, poster, first_aired
+		from shows
+		where name like (?)
+		order by first_aired desc
 		limit ? offset ?`, filter, limit, offset)
 
 	if err != nil {
@@ -44,31 +44,31 @@ func (h Handlers) ReadSeries(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	seriesList := make([]Series, 0)
+	shows := make([]Show, 0)
 
 	for rows.Next() {
-		series := Series{}
-		err := rows.Scan(&series.ID, &series.Name, &series.Poster, &series.FirstAired)
+		show := Show{}
+		err := rows.Scan(&show.ID, &show.Name, &show.Poster, &show.FirstAired)
 		if err != nil {
 			fmt.Fprintln(w, err)
 			return
 		}
 
-		seriesList = append(seriesList, series)
+		shows = append(shows, show)
 	}
 
-	printJson(w, seriesList)
+	printJson(w, shows)
 }
 
-// ReadSeries reads a list of series
-func (h Handlers) ReadSeriesWithID(w http.ResponseWriter, r *http.Request) {
+// ReadShow returns a single show
+func (h Handlers) ReadShow(w http.ResponseWriter, r *http.Request) {
 
-	seriesID := mux.Vars(r)["series"]
-	series := Series{}
+	showID := mux.Vars(r)["show"]
+	show := Show{}
 
 	err := h.DB.QueryRow(`select
 		id,
-		series_name,
+		name,
 		overview,
 		rating,
 		rating_count,
@@ -80,21 +80,21 @@ func (h Handlers) ReadSeriesWithID(w http.ResponseWriter, r *http.Request) {
 		first_aired,
 		runtime,
 		imdb
-	from series
-	where id = (?)`, seriesID).Scan(
-		&series.ID,
-		&series.Name,
-		&series.Overview,
-		&series.Rating,
-		&series.RatingCount,
-		&series.Actors,
-		&series.Poster,
-		&series.Banner,
-		&series.Fanart,
-		&series.ContentRating,
-		&series.FirstAired,
-		&series.Runtime,
-		&series.IMDB,
+	from shows
+	where id = (?)`, showID).Scan(
+		&show.ID,
+		&show.Name,
+		&show.Overview,
+		&show.Rating,
+		&show.RatingCount,
+		&show.Actors,
+		&show.Poster,
+		&show.Banner,
+		&show.Fanart,
+		&show.ContentRating,
+		&show.FirstAired,
+		&show.Runtime,
+		&show.IMDB,
 	)
 
 	if err != nil {
@@ -104,12 +104,12 @@ func (h Handlers) ReadSeriesWithID(w http.ResponseWriter, r *http.Request) {
 
 	rows, err := h.DB.Query(`
 		select categories.name
-		from categories, series_categories, series
+		from categories, show_categories, shows
 		where 
-			categories.id = series_categories.category_id and
-			series.id = series_categories.series_id and
-			series.id = ?
-	`, seriesID)
+			categories.id = show_categories.category_id and
+			shows.id = show_categories.show_id and
+			shows.id = ?
+	`, showID)
 
 	if err != nil {
 		fmt.Fprintln(w, err)
@@ -127,12 +127,12 @@ func (h Handlers) ReadSeriesWithID(w http.ResponseWriter, r *http.Request) {
 		categories = append(categories, category)
 	}
 
-	series.Categories = categories
+	show.Categories = categories
 
 	rows, err = h.DB.Query(`select
-		id, series_id, number, banner
+		id, show_id, number, banner
 		from seasons
-		where series_id = (?)`, seriesID)
+		where show_id = (?)`, showID)
 
 	if err != nil {
 		fmt.Fprintln(w, err)
@@ -143,28 +143,28 @@ func (h Handlers) ReadSeriesWithID(w http.ResponseWriter, r *http.Request) {
 
 	for rows.Next() {
 		var season Season
-		if err := rows.Scan(&season.ID, &season.SeriesID, &season.Number, &season.Banner); err != nil {
+		if err := rows.Scan(&season.ID, &season.ShowID, &season.Number, &season.Banner); err != nil {
 			fmt.Fprintln(w, err)
 			return
 		}
 		seasons = append(seasons, season)
 	}
 
-	series.Seasons = seasons
+	show.Seasons = seasons
 
-	printJson(w, series)
+	printJson(w, show)
 }
 
-// ReadSeason reads a list of series
+// ReadSeason reads a list of show
 func (h Handlers) ReadSeason(w http.ResponseWriter, r *http.Request) {
 
 	seasonID := mux.Vars(r)["season"]
 	season := Season{}
 
 	err := h.DB.QueryRow(`select
-		id, series_id, number, banner
+		id, show_id, number, banner
 		from seasons
-		where id = (?)`, seasonID).Scan(&season.ID, &season.SeriesID, &season.Number, &season.Banner)
+		where id = (?)`, seasonID).Scan(&season.ID, &season.ShowID, &season.Number, &season.Banner)
 
 	if err != nil {
 		fmt.Fprintln(w, err)

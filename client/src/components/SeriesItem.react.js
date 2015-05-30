@@ -11,13 +11,18 @@ var SeriesItem = React.createClass({
   render() {
     var series = this.props.series;
 
+    var date = series.get('FirstAired').split('-')[0];
+
     return (
-      <div className='series-item'>
-        <div className='overlay' />
-        <img src={'http://thetvdb.com/banners/' + series.get('Poster')} />
+      <a href={'#/series/' + series.get('ID')} className='series-item'>
+        <div className='poster' style={{
+          backgroundImage: 'url(http://thetvdb.com/banners/' + series.get('Poster') + ')'
+        }}>
+          <div className='overlay' />
+        </div>
         <h3>{series.get('Name')}</h3>
-        <p>{series.get('FirstAired')}</p>
-      </div>
+        <p>{date}</p>
+      </a>
     );
   },
 

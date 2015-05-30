@@ -17,13 +17,13 @@ type Episode struct {
 
 type Season struct {
 	ID       int       `json:",omitempty"`
-	SeriesID int       `json:",omitempty"`
+	ShowID   int       `json:",omitempty"`
 	Number   int       `json:",omitempty"`
 	Episodes []Episode `json:",omitempty"`
 	Banner   string    `json:",omitempty"`
 }
 
-type Series struct {
+type Show struct {
 	ID            int      `json:",omitempty"`
 	Name          string   `json:",omitempty"`
 	Overview      string   `json:",omitempty"`

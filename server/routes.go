@@ -14,16 +14,16 @@ type Routes []Route
 func GetRoutes(h *Handlers) Routes {
 	return Routes{
 		Route{
-			"ReadSeriesList",
-			"GET", "/series", h.ReadSeries,
+			"ReadShows",
+			"GET", "/shows", h.ReadShows,
 		},
 		Route{
-			"ReadSeriesWithID",
-			"GET", "/series/{series:[0-9]+}", h.ReadSeriesWithID,
+			"ReadShow",
+			"GET", "/shows/{show:[0-9]+}", h.ReadShow,
 		},
 		Route{
 			"ReadSeason",
-			"GET", "/season/{season:[0-9]+}", h.ReadSeason,
+			"GET", "/seasons/{season:[0-9]+}", h.ReadSeason,
 		},
 	}
 }

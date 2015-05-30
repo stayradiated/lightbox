@@ -1,25 +1,52 @@
 .sidebar {
 
+  $fg: #ECF0F1;
+  $tab_height: 40px;
+
   position: fixed;
-  top: 0;
+  top: 50px;
   left: 0;
   bottom: 0;
   width: 200px;
 
   background: #11171C;
-  color: #ECF0F1;
-
-  .logo {
-    text-transform: uppercase;
-  }
+  color: $fg;
 
   ul {
-    margin: 0;
+    margin: 0 15px;
     padding: 0;
   }
 
   li {
     list-style-type: none;
+    margin-bottom: 2px;
+
+    &.active a {
+      background: #1C242B;
+    }
+  }
+
+  a {
+    display: block;
+
+    font-weight: bold;
+    font-size: 13px;
+    line-height: $tab_height;
+    border-radius: 4px;
+    padding: 0 10px;
+
+    color: $fg;
+    text-decoration: none;
+
+    &:hover {
+      background: darken(#1C242B, 3);
+    }
+  }
+
+  span:before {
+    font-size: 16px;
+    color: #92D0FA;
+    margin-right: 8px;
   }
 
 }

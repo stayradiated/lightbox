@@ -32,13 +32,17 @@ function handleHotSass(config) {
       test: /\.scss$/,
       loaders: ['style', 'css', 'sass']
     });
+    config.module.loaders.push({
+      text: /\.(png|woff|woff2|eot|ttf|svg)$/,
+      loader: 'url',
+    });
 
   }
 
   return config;
 }
 
-module.exports = handleHotSass({
+module.exports = {
 
   entry: {
     bundle: getEntrySources([
@@ -47,8 +51,8 @@ module.exports = handleHotSass({
   },
 
   output: {
-    path: './',
-    filename: 'dist/[name].js',
+    path: '.dist/',
+    filename: '[name].js',
     publicPath: 'http://localhost:8080/',
   },
 
@@ -57,9 +61,17 @@ module.exports = handleHotSass({
       {
         test: /\.js$/,
         exclude: /node_modules/,
-        loader: 'react-hot!jsx!babel',
+        loaders: ['react-hot', 'jsx', 'babel'],
+      },
+      {
+        test: /\.scss$/,
+        loaders: ['style', 'css', 'sass'],
+      },
+      {
+        test: /\.(woff|eot|svg|ttf)$/,
+        loaders: ['url?limit=8192'],
       },
     ]
   },
 
-});
+};

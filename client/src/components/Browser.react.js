@@ -17,6 +17,8 @@ var SeriesBrowser = React.createClass({
   render() {
     var seriesList = this.state.seriesList;
 
+    console.log(this.props);
+
     if (seriesList == null) {
       return null;
     }
@@ -32,7 +34,13 @@ var SeriesBrowser = React.createClass({
 
     return (
       <div className='series-browser'>
-        {seriesItems}
+        <header>
+          All TV
+          Most Popular
+        </header>
+        <div className='list'>
+          {seriesItems}
+        </div>
       </div>
     );
   },

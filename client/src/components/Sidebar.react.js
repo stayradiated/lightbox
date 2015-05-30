@@ -7,14 +7,43 @@ var Sidebar = React.createClass({
   render() {
     return (
       <aside className='sidebar'>
-        <h1 className='logo'>Lightbox</h1>
         <ul>
-          <li>Playing</li>
-          <li>Discover</li>
-          <li>Activity</li>
-          <li>Top Charts</li>
-          <li>New Releases</li>
-          <li>Watchlist</li>
+          <li>
+            <a href='#/playing'>
+              <span className='icon-play-circled2' />
+              Playing
+            </a>
+          </li>
+          <li className='active'>
+            <a href='#/series'>
+              <span className='icon-compass' />
+              Discover
+            </a>
+          </li>
+          <li>
+            <a href='#/activity'>
+              <span className='icon-history' />
+              Activity
+            </a>
+          </li>
+          <li>
+            <a href='#/top-charts'>
+              <span className='icon-chart-bar' />
+              Top Charts
+            </a>
+          </li>
+          <li>
+            <a href='#/new-releases'>
+              <span className='icon-calendar-empty' />
+              New Releases
+            </a>
+          </li>
+          <li>
+            <a href='#/watchlist'>
+              <span className='icon-list' />
+              Watchlist
+            </a>
+          </li>
         </ul>
       </aside>
     );

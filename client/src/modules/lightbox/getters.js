@@ -1,1 +1,3 @@
-exports.seriesList = ['discover', 'seriesList'];
+exports.show   = ['show'];
+exports.shows  = ['shows'];
+exports.season = ['season'];

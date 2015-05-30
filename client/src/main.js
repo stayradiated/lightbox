@@ -8,9 +8,10 @@ var Lightbox = require('./modules/lightbox');
 
 var { Route, DefaultRoute, NotFoundRoute } = Router;
 
-var App     = require('./components/App.react');
-var Browser = require('./components/Browser.react');
-var Series  = require('./components/Series.react');
+var App    = require('./components/app/main.react');
+var Show   = require('./components/show/main.react');
+var Shows  = require('./components/shows/main.react');
+var Season = require('./components/season/main.react');
 
 require('./style/index.scss');
 
@@ -18,21 +19,24 @@ require('./style/index.scss');
 window.React = React;
 window.Lightbox = Lightbox;
 
-Lightbox.actions.searchSeries();
+Lightbox.actions.searchShows();
 
 var routes = (
   <Route path='/' handler={App}>
 
-    <DefaultRoute handler={Browser} />
-    <NotFoundRoute handler={Browser} />
+    <DefaultRoute handler={Shows} />
+    <NotFoundRoute handler={Shows} />
 
-    <Route name='playing' path='playing' handler={Browser} />
-    <Route name='series-list' path='series' handler={Browser} />
-    <Route name='series' path='series/:id' handler={Series} />
-    <Route name='activity' path='activity' handler={Browser} />
-    <Route name='top-charts' path='top-charts' handler={Browser} />
-    <Route name='new-releases' path='new-releases' handler={Browser} />
-    <Route name='watchlist' path='watchlist' handler={Browser} />
+    <Route name='shows' path='series' handler={Shows} />
+    <Route name='show' path='series/:showID' handler={Show} />
+    <Route name='season' path='season/:seasonID' handler={Season} />
+    <Route name='episode' path='episode/:episodeID' handler={Season} />
+
+    <Route name='player' path='playing' handler={Shows} />
+    <Route name='activity' path='activity' handler={Shows} />
+    <Route name='top' path='top-charts' handler={Shows} />
+    <Route name='new' path='new-releases' handler={Shows} />
+    <Route name='watchlist' path='watchlist' handler={Shows} />
   </Route>
 );
 

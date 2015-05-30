@@ -32,7 +32,6 @@ type Show struct {
 	Categories    []string `json:",omitempty"`
 	Actors        string   `json:",omitempty"`
 	Poster        string   `json:",omitempty"`
-	Banner        string   `json:",omitempty"`
 	Fanart        string   `json:",omitempty"`
 	ContentRating string   `json:",omitempty"`
 	FirstAired    string   `json:",omitempty"`

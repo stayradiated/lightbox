@@ -1,0 +1,22 @@
+.route-season {
+
+  .episodes {
+  }
+
+  .episode {
+    float: left;
+
+    width: 300px;
+
+    img {
+      width: 100%;
+      height: auto;
+    }
+
+    h3 {
+      @extend %truncate;
+    }
+
+  }
+
+}

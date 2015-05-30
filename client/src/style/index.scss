@@ -16,7 +16,9 @@ $font-family: roboto, sans-serif;
 @import 'modules/type';
 
 // app styles
-@import 'app/index';
+@import 'app/main';
 @import 'app/header';
-@import 'app/browser';
 @import 'app/sidebar';
+@import 'app/shows';
+@import 'app/show';
+@import 'app/season';

@@ -1,0 +1,15 @@
+body {
+  background: #F8F9FA;
+}
+
+.app {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+[class^="route-"] {
+  margin-left: 200px;
+  margin-top: 50px;
+}

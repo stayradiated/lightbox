@@ -1,2 +1,21 @@
+
+// colors
+
+// fonts
+$font-family: roboto, sans-serif;
+
+// layout
+
+// third party code
 @import 'vendor/normalize';
+@import 'vendor/jeet/index';
+
+// mixins
+@import 'modules/extends';
+@import 'modules/type';
+
+// app styles
+@import 'app/index';
 @import 'app/header';
+@import 'app/browser';
+@import 'app/sidebar';

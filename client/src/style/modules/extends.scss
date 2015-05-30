@@ -1,0 +1,27 @@
+%truncate {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+%scrollY {
+  @extend %scrollTouch;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+%scrollX {
+  @extend %scrollTouch;
+  overflow-y: hidden;
+  overflow-x: scroll;
+}
+
+%scrollXY {
+  @extend %scrollTouch;
+  overflow-y: scroll;
+  overflow-x: scroll;
+}
+
+%scrollTouch {
+  -webkit-overflow-scrolling: touch;
+}

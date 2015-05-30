@@ -23,9 +23,9 @@ func (h Handlers) ReadSeries(w http.ResponseWriter, r *http.Request) {
 	if limit == 0 || err != nil {
 		limit = 24
 	}
-	if limit > 50 {
-		limit = 50
-	}
+	// if limit > 50 {
+	// 	limit = 50
+	// }
 
 	offset, err := strconv.Atoi(r.FormValue("offset"))
 	if offset == 0 || err != nil {
@@ -33,7 +33,7 @@ func (h Handlers) ReadSeries(w http.ResponseWriter, r *http.Request) {
 	}
 
 	rows, err := h.DB.Query(`select
-		id, series_name, poster
+		id, series_name, poster, first_aired
 		from series
 		where series_name like (?)
 		order by series_name
@@ -48,7 +48,7 @@ func (h Handlers) ReadSeries(w http.ResponseWriter, r *http.Request) {
 
 	for rows.Next() {
 		series := Series{}
-		err := rows.Scan(&series.ID, &series.Name, &series.Poster)
+		err := rows.Scan(&series.ID, &series.Name, &series.Poster, &series.FirstAired)
 		if err != nil {
 			fmt.Fprintln(w, err)
 			return

@@ -1,0 +1,25 @@
+.sidebar {
+
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 200px;
+
+  background: #11171C;
+  color: #ECF0F1;
+
+  .logo {
+    text-transform: uppercase;
+  }
+
+  ul {
+    margin: 0;
+    padding: 0;
+  }
+
+  li {
+    list-style-type: none;
+  }
+
+}

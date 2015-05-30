@@ -1,14 +1,19 @@
+'use strict';
+
+var $ = require('jquery');
 var React = require('react');
 var flux = require('./flux');
-var Faves = require('./modules/faves');
-var FavesApp = require('./components/FavesApp.react');
+var Lightbox = require('./modules/lightbox');
+var App = require('./components/App.react');
+
+require('./style/index.scss');
 
 // export for http://fb.me/react-devtools
 window.React = React;
 
-require('./style/index.scss');
+Lightbox.actions.searchSeries();
 
 React.render(
-  <FavesApp />,
+  <App />,
   document.getElementById('react')
 );

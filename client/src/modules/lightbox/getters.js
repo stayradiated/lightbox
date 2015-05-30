@@ -1,0 +1,1 @@
+exports.seriesList = ['discover', 'seriesList'];

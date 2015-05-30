@@ -28,25 +28,27 @@ const (
 func main() {
 
 	var everything bool
-	var seriesId, seasonId, episodeId int
+	var seriesID, seasonID, episodeID int
 
-	flag.BoolVar(&everything, "everything", false, "get everything")
-	flag.IntVar(&seriesId, "series", -1, "series id")
-	flag.IntVar(&seasonId, "season", -1, "season id")
-	flag.IntVar(&episodeId, "episode", -1, "episode id")
+	flag.BoolVar(&everything, "everything", false, "everything")
+	flag.IntVar(&seriesID, "series", -1, "series id")
+	flag.IntVar(&seasonID, "season", -1, "season id")
+	flag.IntVar(&episodeID, "episode", -1, "episode id")
 	flag.Parse()
 
 	var data interface{}
 	var err error
 
-	if everything == true {
+	if everything && seriesID >= 0 {
+		data, err = GetFullEpisodeInfo(seriesID)
+	} else if everything == true {
 		data, err = GetEverything()
-	} else if episodeId >= 0 && seasonId >= 0 && seriesId >= 0 {
-		data, err = GetEpisodeInfo(seriesId, seasonId, episodeId)
-	} else if seasonId >= 0 && seriesId >= 0 {
-		data, err = GetSeasonInfo(seriesId, seasonId)
-	} else if seriesId >= 0 {
-		data, err = GetSeriesInfo(seriesId)
+	} else if episodeID >= 0 && seasonID >= 0 && seriesID >= 0 {
+		data, err = GetEpisodeInfo(seriesID, seasonID, episodeID)
+	} else if seasonID >= 0 && seriesID >= 0 {
+		data, err = GetSeasonInfo(seriesID, seasonID)
+	} else if seriesID >= 0 {
+		data, err = GetSeriesInfo(seriesID)
 	} else {
 		fmt.Println("WARNING: Nothing to do...")
 		return
@@ -61,40 +63,40 @@ func main() {
 }
 
 func GetEverything() (xstream.SeriesList, error) {
-	seriesList, err := GetAllSeriesInCategory(ALL_TV)
+	seriesList, err := GetAllSeriesInCategory(ALL_KIDS)
 	if err != nil {
 		return nil, err
 	}
 
 	for i, series := range seriesList {
-		fmt.Println(series.Id, series.Titles.Default)
-
-		series, err = GetSeriesInfo(series.Id)
-		if err != nil {
-			return nil, err
-		}
-
-		seriesList[i] = series
-
-		for j, season := range series.Seasons {
-			fmt.Println("  -", season.Titles.Default)
-
-			season, err = GetSeasonInfo(series.Id, season.Id)
-			if err != nil {
-				return nil, err
-			}
-
-			series.Seasons[j] = season
-		}
+		seriesList[i], err = GetFullEpisodeInfo(series.ID)
 	}
 
 	return seriesList, nil
 }
 
-func GetAllSeriesInCategory(categoryId int) (xstream.SeriesList, error) {
+func GetFullEpisodeInfo(seriesID int) (series xstream.Series, err error) {
+
+	series, err = GetSeriesInfo(seriesID)
+	if err != nil {
+		return series, err
+	}
+
+	for i, season := range series.Seasons {
+		season, err = GetSeasonInfo(seriesID, season.ID)
+		if err != nil {
+			return series, err
+		}
+		series.Seasons[i] = season
+	}
+
+	return series, nil
+}
+
+func GetAllSeriesInCategory(categoryID int) (xstream.SeriesList, error) {
 	series := make(xstream.SeriesList, 0)
 	for {
-		s, err := GetSeriesInCategory(categoryId, len(series), 50)
+		s, err := GetSeriesInCategory(categoryID, len(series), 50)
 		if err != nil {
 			return nil, err
 		}
@@ -106,14 +108,14 @@ func GetAllSeriesInCategory(categoryId int) (xstream.SeriesList, error) {
 	return series, nil
 }
 
-func GetSeriesInCategory(categoryId, offset, limit int) (xstream.SeriesList, error) {
+func GetSeriesInCategory(categoryID, offset, limit int) (xstream.SeriesList, error) {
 	baseurl := "https://www.lightbox.co.nz/xstream/media/series"
 
 	v := url.Values{}
 	v.Set("order", "asc")
 	v.Set("sort", "title")
 	v.Set("limit", strconv.Itoa(limit))
-	v.Set("category_id", strconv.Itoa(categoryId))
+	v.Set("category_id", strconv.Itoa(categoryID))
 	v.Set("offset", strconv.Itoa(offset))
 	params := v.Encode()
 
@@ -135,10 +137,10 @@ func GetSeriesInCategory(categoryId, offset, limit int) (xstream.SeriesList, err
 	return response.Series, nil
 }
 
-func GetSeriesInfo(seriesId int) (xstream.Series, error) {
+func GetSeriesInfo(seriesID int) (xstream.Series, error) {
 	url := fmt.Sprintf(
 		"https://www.lightbox.co.nz/xstream/media/series/%d",
-		seriesId)
+		seriesID)
 
 	response := xstream.Series{}
 
@@ -156,10 +158,10 @@ func GetSeriesInfo(seriesId int) (xstream.Series, error) {
 	return response, nil
 }
 
-func GetSeasonInfo(seriesId, seasonId int) (xstream.Season, error) {
+func GetSeasonInfo(seriesID, seasonID int) (xstream.Season, error) {
 	url := fmt.Sprintf(
 		"https://www.lightbox.co.nz/xstream/media/series/%d/seasons/%d",
-		seriesId, seasonId)
+		seriesID, seasonID)
 
 	response := xstream.Season{}
 
@@ -177,10 +179,10 @@ func GetSeasonInfo(seriesId, seasonId int) (xstream.Season, error) {
 	return response, nil
 }
 
-func GetEpisodeInfo(seriesId, seasonId, episodeId int) (xstream.Episode, error) {
+func GetEpisodeInfo(seriesID, seasonID, episodeID int) (xstream.Episode, error) {
 	url := fmt.Sprintf(
 		"https://www.lightbox.co.nz/xstream/media/series/%d/seasons/%d/episodes/%d",
-		seriesId, seasonId, episodeId)
+		seriesID, seasonID, episodeID)
 
 	response := xstream.Episode{}
 

@@ -8,7 +8,7 @@ type ImageFormat struct {
 }
 
 type Image struct {
-	Id     int                    `json:"id"`
+	ID     int                    `json:"id"`
 	Format map[string]ImageFormat `json:"format"`
 	Type   string                 `json:"type"`
 }
@@ -19,7 +19,7 @@ type MapString struct {
 }
 
 type Category struct {
-	Id     int       `json:"id"`
+	ID     int       `json:"id"`
 	Parent int       `json:"parent"`
 	Titles MapString `json:"titles"`
 	// Children
@@ -33,13 +33,13 @@ type Details struct {
 	Length                   string   `json:"length"`
 	AirDate                  string   `json:"air_date"`
 	ContentOwner             string   `json:"content_owner"`
-	TmsVersionId             string   `json:"tms_version_id"`
-	TmsAltFilmId             string   `json:"tms_alt_film_id"`
-	TmsRootId                string   `json:"tms_root_id"`
-	OrderId                  string   `json:"order_id"`
-	SeriesTmsId              string   `json:"series_tms_id"`
-	SeriesTmsSeriesId        string   `json:"series_tms_series_id"`
-	SeriesTmsRootId          string   `json:"series_tms_root_id"`
+	TmsVersionID             string   `json:"tms_version_id"`
+	TmsAltFilmID             string   `json:"tms_alt_film_id"`
+	TmsRootID                string   `json:"tms_root_id"`
+	OrderID                  string   `json:"order_id"`
+	SeriesTmsID              string   `json:"series_tms_id"`
+	SeriesTmsSeriesID        string   `json:"series_tms_series_id"`
+	SeriesTmsRootID          string   `json:"series_tms_root_id"`
 	SeriesNzRating           string   `json:"series_nz_rating"`
 	SeriesNzRatingAdvisories string   `json:"series_nz_rating_advisories"`
 	SeriesNzRatingReason     string   `json:"series_nz_rating_reason"`
@@ -47,7 +47,7 @@ type Details struct {
 	SeriesCast               []string `json:"series_cast"`
 	// SeriesAward
 	Year               string   `json:"year"`
-	RegId              string   `json:"reg_id"`
+	RegID              string   `json:"reg_id"`
 	Director           []string `json:"director"`
 	NzRatingAdvisories string   `json:"nz_rating_advisories"`
 	NzRatingReason     string   `json:"nz_rating_reason"`
@@ -55,7 +55,7 @@ type Details struct {
 }
 
 type Stream struct {
-	Id      int    `json:"id"`
+	ID      int    `json:"id"`
 	Bitrate int    `json:"bitrate"`
 	Src     string `json:"src"`
 	Type    string `json:"type"`
@@ -67,7 +67,7 @@ type Stream struct {
 }
 
 type Episode struct {
-	Id     int       `json:"id"`
+	ID     int       `json:"id"`
 	Type   string    `json:"type"`
 	Titles MapString `json:"titles"`
 	Dates  struct {
@@ -83,7 +83,7 @@ type Episode struct {
 	Details         Details         `json:"details"`
 	ParentalControl ParentalControl `json:"parental_control"`
 	ContentProvider struct {
-		Id    int    `json:"id"`
+		ID    int    `json:"id"`
 		Name  string `json:"name"`
 		Title string `json:"title"`
 	} `json:"content_provider"`
@@ -93,13 +93,13 @@ type Episode struct {
 		Web []Stream `json:"web"`
 	} `json:"streams"`
 	Purchased bool `json:"purchased"`
-	MediaId   int  `json:"media_id"`
-	SeriesId  int  `json:"series_id"`
-	SeasonId  int  `json:"season_id"`
+	MediaID   int  `json:"media_id"`
+	SeriesID  int  `json:"series_id"`
+	SeasonID  int  `json:"season_id"`
 }
 
 type Season struct {
-	Id           int       `json:"id"`
+	ID           int       `json:"id"`
 	DateCreated  string    `json:"date_created"`
 	SeasonNumber int       `json:"season_number"`
 	Episodes     []Episode `json:"episodes"`
@@ -114,7 +114,7 @@ type Season struct {
 }
 
 type Series struct {
-	Id               int             `json:"id"`
+	ID               int             `json:"id"`
 	DateCreated      string          `json:"date_created"`
 	Images           []Image         `json:"images"`
 	Titles           MapString       `json:"titles"`

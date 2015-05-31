@@ -15,6 +15,24 @@ var Shows = React.createClass({
     };
   },
 
+  componentDidMount() {
+    this.handleParams(this.props.params);
+  },
+
+  componentWillReceiveProps(nextProps) {
+    this.handleParams(nextProps.params);
+  },
+
+  handleParams(params) {
+    if (params.hasOwnProperty('query')) {
+      Lightbox.actions.searchShows(params.query);
+    } else if (params.hasOwnProperty('category')) {
+      Lightbox.actions.viewCategory(params.category);
+    } else {
+      Lightbox.actions.searchShows();
+    }
+  },
+
   render() {
     var shows = this.state.shows;
 

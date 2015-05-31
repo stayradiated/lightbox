@@ -17,8 +17,6 @@ var Season = React.createClass({
       return null;
     }
 
-    console.log(season.toJS());
-
     return (
       <Link to='season' params={{seasonID: season.get('ID')}} className='season'>
         <img src={'http://thetvdb.com/banners/' + season.get('Banner')} />

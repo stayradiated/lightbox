@@ -4,4 +4,5 @@ module.exports = keyMirror({
   SetShow: null,
   SetShows: null,
   SetSeason: null,
+  SetEpisode: null,
 });

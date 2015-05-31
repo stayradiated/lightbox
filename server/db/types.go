@@ -1,5 +1,7 @@
 package db
 
+type Category string
+
 type Episode struct {
 	ID          int     `json:",omitempty"`
 	Number      int     `json:",omitempty"`
@@ -24,19 +26,19 @@ type Season struct {
 }
 
 type Show struct {
-	ID            int      `json:",omitempty"`
-	LightboxID    int      `json:",omitempty"`
-	Name          string   `json:",omitempty"`
-	Overview      string   `json:",omitempty"`
-	Rating        float64  `json:",omitempty"`
-	RatingCount   int      `json:",omitempty"`
-	Categories    []string `json:",omitempty"`
-	Actors        string   `json:",omitempty"`
-	Poster        string   `json:",omitempty"`
-	Fanart        string   `json:",omitempty"`
-	ContentRating string   `json:",omitempty"`
-	FirstAired    string   `json:",omitempty"`
-	Runtime       int      `json:",omitempty"`
-	IMDB          string   `json:",omitempty"`
-	Seasons       []Season `json:",omitempty"`
+	ID            int        `json:",omitempty"`
+	LightboxID    int        `json:",omitempty"`
+	Name          string     `json:",omitempty"`
+	Overview      string     `json:",omitempty"`
+	Rating        float64    `json:",omitempty"`
+	RatingCount   int        `json:",omitempty"`
+	Categories    []Category `json:",omitempty"`
+	Actors        string     `json:",omitempty"`
+	Poster        string     `json:",omitempty"`
+	Fanart        string     `json:",omitempty"`
+	ContentRating string     `json:",omitempty"`
+	FirstAired    string     `json:",omitempty"`
+	Runtime       int        `json:",omitempty"`
+	IMDB          string     `json:",omitempty"`
+	Seasons       []Season   `json:",omitempty"`
 }

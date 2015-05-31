@@ -20,11 +20,12 @@ var language string = "en"
 
 func main() {
 
-	var id int
+	var id, tvdbid int
 	var name string
 
 	flag.IntVar(&id, "id", -1, "lightbox id")
 	flag.StringVar(&name, "name", "", "series name")
+	flag.IntVar(&tvdbid, "tvdbid", -1, "tvdb id")
 	flag.Parse()
 
 	if id < 0 || name == "" {
@@ -36,12 +37,24 @@ func main() {
 	fmt.Println("Server Time:", time)
 
 	fp := filepath.Join("series", fmt.Sprintf("%d - %s", id, name))
-	if err := DownloadInfoForSeries(name, fp); err != nil {
+
+	if tvdbid < 0 {
+		results, err := SearchSeries(name)
+		if err != nil {
+			fmt.Println("ERROR: Could not find match")
+			return
+		}
+		result := results[0]
+		tvdbid = result.ID
+		fmt.Println(result.SeriesName, result.FirstAired, result.Genre)
+	}
+
+	if err := DownloadInfoForSeries(tvdbid, name, fp); err != nil {
 		panic(err)
 	}
 }
 
-func DownloadInfoForSeries(name, fp string) error {
+func DownloadInfoForSeries(seriesID int, name, fp string) error {
 	fn := "package.zip"
 
 	_, err := os.Stat(filepath.Join(fp, "en.xml"))
@@ -54,15 +67,7 @@ func DownloadInfoForSeries(name, fp string) error {
 		return err
 	}
 
-	results, err := SearchSeries(name)
-	if err != nil {
-		return err
-	}
-
-	// use first result
-	series := results[0]
-
-	src, err := GetSeriesPackage(series.ID)
+	src, err := GetSeriesPackage(seriesID)
 	if err != nil {
 		return err
 	}

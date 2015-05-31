@@ -37,3 +37,21 @@ exports.viewSeason = function (id) {
     flux.dispatch(actionTypes.SetSeason, result);
   });
 };
+
+exports.viewCategory = function (id) {
+  $.ajax({
+    type: 'get',
+    url: baseUrl + '/categories/' + id,
+  }).then(result => {
+    flux.dispatch(actionTypes.SetShows, result);
+  });
+};
+
+exports.viewEpisode = function (id) {
+  $.ajax({
+    type: 'get',
+    url: baseUrl + '/episodes/' + id,
+  }).then(result => {
+    flux.dispatch(actionTypes.SetEpisode, result);
+  });
+};

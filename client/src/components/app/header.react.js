@@ -2,11 +2,12 @@
 
 var React = require('react');
 var Router = require('react-router');
-var { Link } = Router;
+var { Link, Navigation } = Router;
 
 var Lightbox = require('../../modules/lightbox');
 
 var Header = React.createClass({
+  mixins: [Navigation],
 
   render() {
     return (
@@ -26,7 +27,8 @@ var Header = React.createClass({
 
   onSearch(e) {
     e.preventDefault();
-    Lightbox.actions.searchShows(this.refs.search.getDOMNode().value);
+    var query = this.refs.search.getDOMNode().value;
+    this.transitionTo('search', { query });
   },
 
 });

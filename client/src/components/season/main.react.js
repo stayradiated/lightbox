@@ -32,8 +32,6 @@ var Season = React.createClass({
       return null;
     }
 
-    console.log(season.toJS());
-
     var episodeElements = season.get('Episodes').map(episode => {
       return (
         <Episode

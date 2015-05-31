@@ -45,14 +45,14 @@ func main() {
 	}
 
 	insertSeriesCategory, err := db.Prepare(`
-		insert ignore into show_categories(show_id, category_id) values (?, ?)
+		insert ignore into imdb_show_categories(show_id, category_id) values (?, ?)
 	`)
 	if err != nil {
 		log.Fatal(err)
 	}
 
 	rows, err = db.Query(`
-		select id, genre from shows
+		select id, genre from imdb_shows
 	`)
 	if err != nil {
 		log.Fatal(err)
@@ -69,9 +69,9 @@ func main() {
 			log.Fatal(err)
 		}
 
-		genre = strings.Trim(genre, "|")
+		// genre = strings.Trim(genre, "|")
 
-		for _, category := range strings.Split(genre, "|") {
+		for _, category := range strings.Split(genre, ", ") {
 			catID, ok := categories[category]
 			if ok {
 				insertSeriesCategory.Exec(id, catID)

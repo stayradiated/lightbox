@@ -25,5 +25,13 @@ func GetRoutes(h *Handlers) Routes {
 			"ReadSeason",
 			"GET", "/seasons/{season:[0-9]+}", h.ReadSeason,
 		},
+		Route{
+			"ReadCategory",
+			"GET", "/categories/{category:[0-9]+}", h.ReadCategory,
+		},
+		Route{
+			"ReadEpisode",
+			"GET", "/episodes/{episode:[0-9]+}", h.ReadEpisode,
+		},
 	}
 }

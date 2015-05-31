@@ -32,11 +32,19 @@ var Show = React.createClass({
       return null;
     }
 
+    if (!show.has('Categories')) {
+      show = show.set('Categories', []);
+    }
+
     var categories = show.get('Categories').map(category => {
       return (
         <li key={category}>{category}</li>
       );
     });
+
+    if (!show.has('Seasons')) {
+      show = show.set('Seasons', []);
+    }
 
     var seasonElements = show.get('Seasons').map(season => {
       return (

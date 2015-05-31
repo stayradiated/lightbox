@@ -1,0 +1,1791 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data><Series>
+  <id>79708</id>
+  <Actors>|Elisabeth Sladen|Daniel Anthony|Anjli Mohindra|Thomas Knight|Sinead Michael|Yasmin Paige|</Actors>
+  <Airs_DayOfWeek>Monday</Airs_DayOfWeek>
+  <Airs_Time>4:50 PM</Airs_Time>
+  <ContentRating>TV-G</ContentRating>
+  <FirstAired>2007-01-01</FirstAired>
+  <Genre>|Action|Adventure|Children|Science-Fiction|</Genre>
+  <IMDB_ID>tt0862620</IMDB_ID>
+  <Language>en</Language>
+  <Network>CBBC</Network>
+  <NetworkID></NetworkID>
+  <Overview>&quot;I saw amazing things, out there in space. But there is strangeness to be found wherever you turn. Life on Earth can be an adventure too... you just need to know where to look!&quot;  Ms. Sarah Jane Smith is back in action, discovering alien plots to take over the world, or simply helping a lost one get home... Sarah Jane and her new friend Maria Jackson, and her newly (and genetically grown) adopted son Luke Smith have no problem taking on any challenge!</Overview>
+  <Rating>7.7</Rating>
+  <RatingCount>38</RatingCount>
+  <Runtime>30</Runtime>
+  <SeriesID>67522</SeriesID>
+  <SeriesName>The Sarah Jane Adventures</SeriesName>
+  <Status>Ended</Status>
+  <added></added>
+  <addedBy></addedBy>
+  <banner>graphical/79708-g2.jpg</banner>
+  <fanart>fanart/original/79708-7.jpg</fanart>
+  <lastupdated>1430848788</lastupdated>
+  <poster>posters/79708-2.jpg</poster>
+  <tms_wanted_old>1</tms_wanted_old>
+  <zap2it_id>SH1036738</zap2it_id>
+</Series>
+<Episode>
+  <id>336283</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Colin Teague</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Invasion of the Bane</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2007-01-01</FirstAired>
+  <GuestStars>Samantha Bond</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Having just moved house, Maria and her father meet their eccentric neighbour Sarah Jane Smith. When Maria sees Sarah late one night helping an alien return home, she cannot believe her eyes.
+
+Before she has time to think about what she has seen, she becomes tangled in the conspiracy behind the new soft-drink, Bubble Shock. Only Sarah Jane can help...</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer>|Gareth Roberts|Russell T. Davies|</Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>1</airsbefore_episode>
+  <airsbefore_season>1</airsbefore_season>
+  <filename>episodes/79708/336283.jpg</filename>
+  <lastupdated>1297675699</lastupdated>
+  <seasonid>27117</seasonid>
+  <seriesid>79708</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>452471</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Joss Agnew</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>From Raxacoricofallapatorius with Love</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2009-03-13</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>A little skit from Comic Relief 2009.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer>|Gareth Roberts|Clayton Hickman|</Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>2</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/79708/452471.jpg</filename>
+  <lastupdated>1299601391</lastupdated>
+  <seasonid>27117</seasonid>
+  <seriesid>79708</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4084188</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>My Sarah Jane: A Tribute to Elisabeth Sladen</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2011-04-20</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>A celebration of Doctor Who's greatest companion, played by actress Elisabeth Sladen.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>10.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>1</airsbefore_episode>
+  <airsbefore_season>5</airsbefore_season>
+  <filename>episodes/79708/4084188.jpg</filename>
+  <lastupdated>1384855053</lastupdated>
+  <seasonid>27117</seasonid>
+  <seriesid>79708</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4295388</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Goodbye Bannerman Road - Remembering Elisabeth Sladen</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2012-02-06</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Goodbye Bannerman Road: Remembering Elisabeth Sladen is a twenty~minute tribute to the late actress featuring Daniel Anthony (who played Clyde Langer), Anjli Mohindra (Rani Chandra), Gary Russell (Script Editor) and Matt Smith (The Eleventh Doctor).</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>5</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/79708/4295388.jpg</filename>
+  <lastupdated>1385340226</lastupdated>
+  <seasonid>27117</seasonid>
+  <seriesid>79708</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>319783</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Alice Troughton</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Revenge of the Slitheen (1)</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2007-09-24</FirstAired>
+  <GuestStars>|Joseph Millson|Juliet Cowan|Martyn Ellis|Ian Midlane|Pamela Merrick|Imogen Bain|Anton Thompson McCormick|Jimmy Vee|Paul Kasey|Lachele Carl|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>It's Maria (Yasmine Paige), Luke (Tommy Knight) and Clyde's (David Anthony) first day at their new school – and something's not quite right. The food keeps going off, there's a funny smell in the air and the new technology block is hiding some dark secrets. The friends soon make a shocking discovery: evil alien race the Slitheen have disguised themselves as teachers as part of a deadly plan that threatens the future of the entire Earth. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>4</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Gareth Roberts</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/79708/319783.jpg</filename>
+  <lastupdated>1299601441</lastupdated>
+  <seasonid>17208</seasonid>
+  <seriesid>79708</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>336634</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Alice Troughton</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Revenge of the Slitheen (2)</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2007-09-24</FirstAired>
+  <GuestStars>|Joseph Millson|Juliet Cowan|Martyn Ellis|Ian Midlane|Pamela Merrick|Imogen Bain|Anton Thompson McCormick|Jimmy Vee|Paul Kasey|Lachele Carl|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Under attack from the monstrous Slitheen child, Maria (Yasmine Paige), Luke (Tommy Knight) and Clyde (David Anthony) escape, thanks to some deodorant and Sarah Jane's (Elisabeth Sladen) sonic lipstick. Back in her attic, Sarah Jane's super – computer Mr Smith (Alexander Armstrong) reveals the aliens' evil plan to drain Earth of its energy. But as a power blackout spreads across the globe, Mr Smith goes out of action. The gang must rely on their wits alone to stop the Slitheen from extinguishing the sun for ever. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>3</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Gareth Roberts</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/79708/336634.jpg</filename>
+  <lastupdated>1299601470</lastupdated>
+  <seasonid>17208</seasonid>
+  <seriesid>79708</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>337175</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Alice Troughton</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Eye of the Gorgon (1)</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2007-10-01</FirstAired>
+  <GuestStars>|Joseph Millson|Juliet Cowan|Phyllida Law|Sarah Crowden|Doreen Mantle|Beth Goddard|Audrey Ardington|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Sarah Jane (Elisabeth Sladen) and her young friends investigate reports of a ghostly nun which is haunting the local old folks' residential home. And when one of the elderly residents entrusts Luke (Tommy Knight) with a mysterious alien talisman, it becomes clear there is even more to the story than meets the eye. The gang delves deeper, and discovers that the nun is part of a secret order sworn to protect a terrifying alien creature who can turn her victims to stone with a single look. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>4</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Phil Ford</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/79708/337175.jpg</filename>
+  <lastupdated>1374577047</lastupdated>
+  <seasonid>17208</seasonid>
+  <seriesid>79708</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>338061</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Alice Troughton</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Eye of the Gorgon (2)</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2007-10-08</FirstAired>
+  <GuestStars>Phyllida Law|Beth Goddard|Joseph Millson|Juliet Cowan|Phyllida Law|Sarah Crowden|Doreen Mantle|Beth Goddard|Audrey Ardington|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Maria's dad Alan (Joseph Millson) has been turned to stone. The alien talisman is now in the possession of the Gorgon and her evil nuns, and they are preparing to open the portal to their world. Can Sarah Jane (Elisabeth Sladen) and her young friends free Alan from his stony state, prevent the nuns from unleashing more deadly aliens on the Earth, and avoid the Gorgon's petrifying gaze? </Overview>
+  <ProductionCode>1-4</ProductionCode>
+  <Rating>6.5</Rating>
+  <RatingCount>4</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Phil Ford</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/79708/338061.jpg</filename>
+  <lastupdated>1374577063</lastupdated>
+  <seasonid>17208</seasonid>
+  <seriesid>79708</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>338972</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Charles Martin</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Warriors of Kudlak (1)</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2007-10-15</FirstAired>
+  <GuestStars>|Chook Sibtain|Sarah Haynes|Pamela Merrick|Sonny Muslim|James Bellamy|Nadiyah Davis|Chrissie Furness|Paul Kasey|Paul Kasey|Paul Kasey|Silas Carson|Silas Carson|Tina Greatex|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Sarah Jane (Elisabeth Sladen) and Maria (Yasmine Paige) investigate the mysterious disappearance of local boy Lance Metcalf, and soon discover that a number of children have gone missing across the country. Remarkably, the disappearances all occurred during freak storms and in cities that are home to a laser tag game called Combat 3000. As Sarah Jane and Maria delve deeper into the mystery, Luke (Tommy Knight) and Clyde (David Anthony) are off enjoying a game of Combat 30… </Overview>
+  <ProductionCode>1-5</ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>7</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Phil Gladwin</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/79708/338972.jpg</filename>
+  <lastupdated>1374577088</lastupdated>
+  <seasonid>17208</seasonid>
+  <seriesid>79708</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>339992</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Charles Martin</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Warriors of Kudlak (2)</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2007-10-22</FirstAired>
+  <GuestStars>Chook Sibtain|Pamela Merrick|Sonny Muslim|Paul Kasey|Tina Greatex|Silas Carson</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>A Carcaroth has arrived on Earth, seeking soldiers to help fight his endless intergalactic war back home. Using Combat 3000 to sift out the best, most aggressive and instinctive fighters, he then transports them to his spaceship – awaiting transfer to the war. Clyde (David Anthony) and Luke (Tommy Knight) find themselves amongst the 'warriors', while Sarah Jane (Elisabeth Sladen) and Maria (Yasmine Paige) must infiltrate the alien's headquarters to bring down the Carcaroth from the inside.</Overview>
+  <ProductionCode>1-6</ProductionCode>
+  <Rating>6.8</Rating>
+  <RatingCount>4</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Phil Gladwin</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/79708/339992.jpg</filename>
+  <lastupdated>1374577106</lastupdated>
+  <seasonid>17208</seasonid>
+  <seriesid>79708</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>340341</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Graeme Harper</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Whatever Happened to Sarah Jane? (1)</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2007-10-29</FirstAired>
+  <GuestStars>Jane Asher|Paul Marc Davies|Jimmy Vee|Francesca Miller|Philip Hurd-Wood|Jason Mohammad|Jessica Ashworth</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Sarah Jane (Elisabeth Sladen) mysteriously disappears – just as a huge meteor threatens to crash straight into Earth. When Maria (Yasmine Paige) wakes up one morning, it's as though Sarah Jane – and Luke (Tommy Knight) – never existed. Living across the road in Sarah Jane's house is a woman called Andrea (Jane Asher). And with the attic empty and Mr Smith (Alexander Armstrong) nowhere to be seen, every other trace of Sarah Jane has vanished – and Maria is the only one able to remember her. With the mysterious, hooded figure of the Trickster haunting Bannerman Road and the alien Graske meddling in time, Maria sets out to discover whatever happened to Sarah Jane. But as her journey takes her back to 1964, will she be able to find Sarah Jane in time to stop the meteor from destroying the world? </Overview>
+  <ProductionCode>1-7</ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Gareth Roberts</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/79708/340341.jpg</filename>
+  <lastupdated>1374577220</lastupdated>
+  <seasonid>17208</seasonid>
+  <seriesid>79708</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>340342</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Graeme Harper</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Whatever Happened to Sarah Jane? (2)</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2007-11-05</FirstAired>
+  <GuestStars>|Jane Asher|Paul Marc Davies|Jessica Ashworth|Francesca Miller|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Maria (Yasmine Paige) finds herself taken back in time by the alien Graske to a pier in 1964. There, she meets a young girl her own age called Sarah Jane Smith (Elisabeth Sladen) who, with her friend Andrea (Jane Asher), is about to embark on a fateful adventure. Taken by the Graske again, Maria is then reunited with the present-day Sarah Jane. But with them both trapped in limbo as part of the meddlesome Trickster's plan to wreak chaos, they are helpless to stop the huge meteor which is about to crash into the Earth. Maria's dad Alan is the only one able to remember Sarah Jane and Maria and faces a struggle to bring them back in time to save the world. </Overview>
+  <ProductionCode>1-8</ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Gareth Roberts</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/79708/340342.jpg</filename>
+  <lastupdated>1374577195</lastupdated>
+  <seasonid>17208</seasonid>
+  <seriesid>79708</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>340343</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Charles Martin</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Lost Boy (1)</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2007-11-12</FirstAired>
+  <GuestStars>Jay Simpson|Holly Atkins|Ryan Watson|Julian Dutton|Paul Kasey|Jimmy Vee|Ruari Mears</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>A news report on a couple looking for their missing son, Ashley, brings a surprise for Sarah Jane (Elisabeth Sladen) when she discovers that the missing boy looks exactly like Luke (Tommy Knight). And when Mr Smith (Alexander Armstrong) confirms that Luke is a genetic match with Ashley, Sarah Jane sends him back to live with his 'parents'. With no knowledge of his former life, Luke finds it hard to fit in and, when he tries to escape, he makes a startling discovery about who his parents really are. Sarah Jane, meanwhile, makes some investigations into the Pharos Para-Science Institute – a research unit that has been conducting experiments using alien technology. Floella Benjamin guest stars as Professor Rivers. </Overview>
+  <ProductionCode>1-9</ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>3</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Phil Ford</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/79708/340343.jpg</filename>
+  <lastupdated>1374577175</lastupdated>
+  <seasonid>17208</seasonid>
+  <seriesid>79708</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>340344</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Charles Martin</Director>
+  <EpImgFlag>3</EpImgFlag>
+  <EpisodeName>The Lost Boy (2)</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2007-11-19</FirstAired>
+  <GuestStars>|Jay Simpson|Holly Atkins|Ryan Watson|Jimmy Vee|Ruari Mears|Jason Mohammad|John Leeson|Floella Benjamin|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Maria (Yasmine Paige) and her dad, Alan (Joseph Millson), dig deeper into the mystery of Luke's (Tommy Knight) new parents and discover that Luke has actually been kidnapped by the Slitheen. There are more shocks when Sarah Jane (Elisabeth Sladen) and Maria find out that Mr Smith (Alexander Armstrong), Sarah Jane's super computer, is one of the bad guys. With Clyde (David Anthony) nowhere to be seen, Luke in the clutches of aliens and no Mr Smith to help, things are not looking good for Sarah Jane and Maria. But just what do the Slitheen want with Luke? And who, or what, exactly, is the Xylok? </Overview>
+  <ProductionCode>1-10</ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>3</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Phil Ford</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/79708/340344.jpg</filename>
+  <lastupdated>1374577157</lastupdated>
+  <seasonid>17208</seasonid>
+  <seriesid>79708</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>389866</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Joss Agnew</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Last Sontaran (1)</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2008-09-29</FirstAired>
+  <GuestStars>|Joseph Millson|Juliet Cowan|Anthony O'Donnel|Ronan Vibert|Clare Thomas|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>A lone surviving Sontaran from the failed conversion of Planet Earth wants revenge for the deaths of his comrades. </Overview>
+  <ProductionCode>2-1</ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Phil Ford</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/79708/389866.jpg</filename>
+  <lastupdated>1297686691</lastupdated>
+  <seasonid>35406</seasonid>
+  <seriesid>79708</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>389867</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Joss Agnew</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Last Sontaran (2)</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2008-09-29</FirstAired>
+  <GuestStars>|Joseph Millson|Juliet Cowan|Anthony O'Donnel|Ronan Vibert|Clare Thomas|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>A lone surviving Sontaran from the failed conversion of Planet Earth wants revenge for the deaths of his comrades. </Overview>
+  <ProductionCode>2-2</ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>3</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Phil Ford</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/79708/389867.jpg</filename>
+  <lastupdated>1297869328</lastupdated>
+  <seasonid>35406</seasonid>
+  <seriesid>79708</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>389868</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Michael Kerrigan</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Day of the Clown (1)</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2008-10-06</FirstAired>
+  <GuestStars>|Bradley Walsh|Mina Anwar|Ace Bhatti|Floella Benjamin|Jem Brownlee|Elijah Baker|Aaron Showsanya|Huw Higginson|Jessica Mogridge|Alan Ruscoe|Sean Palmer|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Trouble is brewing at Spellman's Magical Museum of the Circus when a group of people join hands and block the entrance the the museum... but they let Sarah Jane in, what is this mystery all about?</Overview>
+  <ProductionCode>2-3</ProductionCode>
+  <Rating>8.3</Rating>
+  <RatingCount>3</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Phil Ford</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/79708/389868.jpg</filename>
+  <lastupdated>1297870299</lastupdated>
+  <seasonid>35406</seasonid>
+  <seriesid>79708</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>389869</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Michael Kerrigan</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Day of the Clown (2)</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2008-10-13</FirstAired>
+  <GuestStars>|Bradley Walsh|Mina Anwar|Ace Bhatti|Floella Benjamin|Jem Brownlee|Elijah Baker|Aaron Showsanya|Huw Higginson|Jessica Mogridge|Alan Ruscoe|Sean Palmer|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Trouble is brewing at Spellman's Magical Museum of the Circus when a group of people join hands and block the entrance the the museum... but they let Sarah Jane in, what is this mystery all about?</Overview>
+  <ProductionCode>2-4</ProductionCode>
+  <Rating>9.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Phil Ford</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/79708/389869.jpg</filename>
+  <lastupdated>1297932647</lastupdated>
+  <seasonid>35406</seasonid>
+  <seriesid>79708</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>399864</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Michael Kerrigan</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Secrets of the Stars (1)</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2008-10-20</FirstAired>
+  <GuestStars>|Russ Abbot|Mina Anwar|Ace Bhatti|Carryl Thomas|Nicky Ladanowski|Ed Hughes|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>A fraudulent astrologer named Martin Trueman is hit by an extraterrestrial body and begins to impress everyone with his uncanny predictions. However, what he predicts for Sarah Jane is far from pleasant...</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>3</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Gareth Roberts</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/79708/399864.jpg</filename>
+  <lastupdated>1298027460</lastupdated>
+  <seasonid>35406</seasonid>
+  <seriesid>79708</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>399865</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Michael Kerrigan</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Secrets of the Stars (2)</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2008-10-27</FirstAired>
+  <GuestStars>|Russ Abbot|Mina Anwar|Ace Bhatti|Carryl Thomas|Nicky Ladanowski|Ed Hughes|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Clyde threatens Sarah but they manage to talk him out of it, which leads Sarah Jane to believe that Trueman's control on people can be repressed by persuading them to do something that they do not normally want to do. Meanwhile, using in his broadcast to the world, Martin Trueman takes over each star sign one by one, starting with Gemini - including Rani's mother. The world is in confusion as people are accepting the 'Ancient Lights'. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Gareth Roberts</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/79708/399865.jpg</filename>
+  <lastupdated>1303842737</lastupdated>
+  <seasonid>35406</seasonid>
+  <seriesid>79708</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>401300</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Joss Agnew</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Mark of the Berserker (1)</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2008-11-03</FirstAired>
+  <GuestStars>|Joseph Millson|Gary Beadle|Jocelyn Jee Esien|Ace Bhatti|Perry Millward|Huw Higginson|Elijah Baker|Jessica Lewis|Andrew Phillips|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Luke is going for a sleepover at Clyde's house whilst Sarah Jane goes away for the weekend, during which Clyde's estranged father Paul turns up hoping to get to know his son. Meanwhile Rani discovers that one of her classmates is in possession of a strange locket, that can be used to control people.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>6.5</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Joseph Lidster</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/79708/401300.jpg</filename>
+  <lastupdated>1303843116</lastupdated>
+  <seasonid>35406</seasonid>
+  <seriesid>79708</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>401301</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Joss Agnew</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Mark of the Berserker (2)</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2008-11-10</FirstAired>
+  <GuestStars>|Joseph Millson|Gary Beadle|Jocelyn Jee Esien|Ace Bhatti|Perry Millward|Huw Higginson|Elijah Baker|Jessica Lewis|Andrew Phillips|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>With Clyde's father Paul possessed by the alien pendant, he takes Clyde off for some fun. With a little help from some old friends, Rani and Luke try and track them down, leading to a waterside confrontation with the Berserker</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>6.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Joseph Lidster</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/79708/401301.jpg</filename>
+  <lastupdated>1303843422</lastupdated>
+  <seasonid>35406</seasonid>
+  <seriesid>79708</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>401302</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Graeme Harper</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Temptation of Sarah Jane Smith (1)</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2008-11-17</FirstAired>
+  <GuestStars>|Yasmin Paige|Ace Bhatti|Mina Anwar|Rosanna Lavelle|Christopher Pizzey|Paul Marc Davis|Jimmy Vee|Georgie Glen|Robert Madge|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>When Sarah Jane finds a time fissure, her curiosity leads her to go through it and she finds herself in 1951, in the village of Foxgrove, where she was born. Eager to see the parents she never knew, she makes a decision that will have catastrophic consequences</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Gareth Roberts</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/79708/401302.jpg</filename>
+  <lastupdated>1303843727</lastupdated>
+  <seasonid>35406</seasonid>
+  <seriesid>79708</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>401303</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Graeme Harper</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Temptation of Sarah Jane Smith (2)</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2008-11-24</FirstAired>
+  <GuestStars>|Yasmin Paige|Ace Bhatti|Mina Anwar|Rosanna Lavelle|Christopher Pizzey|Paul Marc Davis|Jimmy Vee|Georgie Glen|Robert Madge|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>With the Earth devastated under the control of the Trickster, Sarah Jane and Luke go back to 1951 and change things back to how they were- which means that Sarah Jane's parents must die. Will she make that sacrifice?</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Gareth Roberts</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/79708/401303.jpg</filename>
+  <lastupdated>1303843954</lastupdated>
+  <seasonid>35406</seasonid>
+  <seriesid>79708</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>401304</id>
+  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Graeme Harper</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Enemy of the Bane (1)</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2008-12-01</FirstAired>
+  <GuestStars>|Nicholas Courtney|Samantha Bond|Anthony O'Donnell|Mina Anwar|Ace Bhatti|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Mrs Wormwood returns to see Sarah Jane- but to ask help. The Bane have turned against Mrs Wormwood and are preparing to unleash a dark power against the universe. However, to thwart the Bane's plan, Sarah Jane must call upon an old friend</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Phil Ford</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/79708/401304.jpg</filename>
+  <lastupdated>1303844482</lastupdated>
+  <seasonid>35406</seasonid>
+  <seriesid>79708</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>401305</id>
+  <Combined_episodenumber>12</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Graeme Harper</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Enemy of the Bane (2)</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>2008-12-08</FirstAired>
+  <GuestStars>|Nicholas Courtney|Samantha Bond|Anthony O'Donnell|Mina Anwar|Ace Bhatti|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Luke's dreams are being tormented by visions of Mrs. Wormwood. The Sontarans are back for revenge. Sarah Jane must once agian call on an old friend.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Phil Ford</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/79708/401305.jpg</filename>
+  <lastupdated>1303844501</lastupdated>
+  <seasonid>35406</seasonid>
+  <seriesid>79708</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>1048111</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Joss Agnew</Director>
+  <EpImgFlag>3</EpImgFlag>
+  <EpisodeName>Prisoner of the Judoon (1)</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2009-10-15</FirstAired>
+  <GuestStars>|Paul Kasey|Nicholas Briggs|Mina Anwar|Ace Bhatti|Terence Maynard|Robert Curtis|Mark Goldthorp|Scarlett Murphy|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Sarah Jane and the gang face the most dangerous day of their lives, as the rhino-like Judoon return. When prisoner Androvax the Destroyer crash-lands on Earth, a Veil is set free and starts to turn Earth's technology against itself.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Phil Ford</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/79708/1048111.jpg</filename>
+  <lastupdated>1430848760</lastupdated>
+  <seasonid>113801</seasonid>
+  <seriesid>79708</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>1048121</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Joss Agnew</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Prisoner of the Judoon (2)</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2009-10-16</FirstAired>
+  <GuestStars>|Paul Kasey|Nicholas Briggs|Mina Anwar|Ace Bhatti|Terence Maynard|Robert Curtis|Mark Goldthorp|Scarlett Murphy|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Luke, Clyde and Rani must fight their most fearsome enemy yet - Sarah Jane Smith. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Phil Ford</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/79708/1048121.jpg</filename>
+  <lastupdated>1430848755</lastupdated>
+  <seasonid>113801</seasonid>
+  <seriesid>79708</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>1048131</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Alice Troughton</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>The Mad Woman in the Attic (1)</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2009-10-22</FirstAired>
+  <GuestStars>|Eleanor Tomlinson|Toby Parkes|Souad Faress|Gregg Sulkin|Kate Fleetwood|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Far in the future, in the year 2059, Old Rani remembers the day when her whole life went wrong.
+</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Joseph Lidster</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/79708/1048131.jpg</filename>
+  <lastupdated>1430848715</lastupdated>
+  <seasonid>113801</seasonid>
+  <seriesid>79708</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>1048141</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Alice Troughton</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>The Mad Woman in the Attic (2)</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2009-10-23</FirstAired>
+  <GuestStars>|Eleanor Tomlinson|Toby Parkes|Souad Faress|Gregg Sulkin|Kate Fleetwood|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Eve's powers grow out of control, catching everyone in her endless sinister games.
+</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>9.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Joseph Lidster</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/79708/1048141.jpg</filename>
+  <lastupdated>1430848780</lastupdated>
+  <seasonid>113801</seasonid>
+  <seriesid>79708</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>1048151</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Joss Agnew</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Wedding of Sarah Jane Smith (1)</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2009-10-29</FirstAired>
+  <GuestStars>|David Tennant|Brian Miller|Nigel Havers|Paul Marc Davis|Mina Anwar|Ace Bhatti|Zienia Merton|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>The Doctor returns on the happiest day of Sarah Jane's life, but a deadly trap is waiting for them all.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>3</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Gareth Roberts</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/79708/1048151.jpg</filename>
+  <lastupdated>1430848775</lastupdated>
+  <seasonid>113801</seasonid>
+  <seriesid>79708</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>1048161</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Joss Agnew</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Wedding of Sarah Jane Smith (2)</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2009-10-30</FirstAired>
+  <GuestStars>|David Tennant|Brian Miller|Nigel Havers|Paul Marc Davis|Mina Anwar|Ace Bhatti|Zienia Merton|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>The Doctor arrives to join the battle, but is he too late to save both Sarah Jane and the Earth itself?</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>3</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Gareth Roberts</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/79708/1048161.jpg</filename>
+  <lastupdated>1430848788</lastupdated>
+  <seasonid>113801</seasonid>
+  <seriesid>79708</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>1048181</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Alice Troughton</Director>
+  <EpImgFlag>3</EpImgFlag>
+  <EpisodeName>The Eternity Trap (1)</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2009-11-05</FirstAired>
+  <GuestStars>|Floella Benjamin|Donald Sumpter|Callum Blue|Adam Gillen|Amelia Clarkson|Rhys Gear|Tony Boncza|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>A haunted house, with mysterious whispers and secrets in the shadows - time for Sarah Jane Smith!
+</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Phil Ford</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/79708/1048181.jpg</filename>
+  <lastupdated>1430848739</lastupdated>
+  <seasonid>113801</seasonid>
+  <seriesid>79708</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>1048191</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Alice Troughton</Director>
+  <EpImgFlag>3</EpImgFlag>
+  <EpisodeName>The Eternity Trap (2)</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2009-11-06</FirstAired>
+  <GuestStars>|Floella Benjamin|Donald Sumpter|Callum Blue|Adam Gillen|Amelia Clarkson|Rhys Gear|Tony Boncza|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Sarah Jane and the gang discover the secret of Erasmus Darkening - but are they too late?</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Phil Ford</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/79708/1048191.jpg</filename>
+  <lastupdated>1430848726</lastupdated>
+  <seasonid>113801</seasonid>
+  <seriesid>79708</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>1048231</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Joss Agnew</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Mona Lisa's Revenge (1)</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2009-11-12</FirstAired>
+  <GuestStars>|Suranne Jones|Jeff Rawle|Lizo Mzimba|Liza Sadovy|Paul Kasey|Ace Bhatti|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Unknown forces bring to life Leonardo Da Vinci's most famous painting, and Clyde's day becomes a nightmare when a school trip descends into disaster. Trapped and without Sarah Jane's help the gang must find a way to battle the awesome abomination. 
+
+</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>3</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Phil Ford</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/79708/1048231.jpg</filename>
+  <lastupdated>1430848693</lastupdated>
+  <seasonid>113801</seasonid>
+  <seriesid>79708</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>1048241</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Joss Agnew</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Mona Lisa's Revenge (2)</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2009-11-13</FirstAired>
+  <GuestStars>|Suranne Jones|Jeff Rawle|Lizo Mzimba|Liza Sadovy|Paul Kasey|Ace Bhatti|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>As Luke and Rani investigate the myth of the dreaded abomination, Mona Lisa vows to free her horrifying brother from his prison, but everything now depends upon Clyde to stop the terror.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Phil Ford</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/79708/1048241.jpg</filename>
+  <lastupdated>1430848672</lastupdated>
+  <seasonid>113801</seasonid>
+  <seriesid>79708</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>1048261</id>
+  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Alice Troughton</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Gift (1)</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2009-11-19</FirstAired>
+  <GuestStars>|Calvin Dean|Simon Callow|Miriam Margolyes|Paul Kasey|Ruari Mears|Jimmy Vee|Edward Judge|Sarah Paul|Nick Williams|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>The Blathereen, arch-rivals of the family Slitheen arrive on Earth. In a move that surprises the gang they declare peace between Earth and Raxicoricofallapatorius and they offer Sarah Jane a gift, one that might change the future of the human race forever.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>3</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Rupert Laight</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/79708/1048261.jpg</filename>
+  <lastupdated>1324492727</lastupdated>
+  <seasonid>113801</seasonid>
+  <seriesid>79708</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>1048271</id>
+  <Combined_episodenumber>12</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Alice Troughton</Director>
+  <EpImgFlag>3</EpImgFlag>
+  <EpisodeName>The Gift (2)</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>2009-11-20</FirstAired>
+  <GuestStars>|Calvin Dean|Simon Callow|Miriam Margolyes|Paul Kasey|Ruari Mears|Jimmy Vee|Edward Judge|Sarah Paul|Nick Williams|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Sarah Jane faces the battle of her life to save her son from the effects of the gift of the Blathereen. Meanwhile trapped in the school, Rani, Clyde and K-9 fight to find a way to get to the attic, where the final showdown will take place.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Rupert Laight</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/79708/1048271.jpg</filename>
+  <lastupdated>1324492782</lastupdated>
+  <seasonid>113801</seasonid>
+  <seriesid>79708</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2438351</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Joss Agnew</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Nightmare Man (1)</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2010-10-11</FirstAired>
+  <GuestStars>|Julian Bleach|Doon Mackichan|Paul Kasey|Toby Longworth|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>When Luke has his first nightmare, he's haunted by a dark figure from his dreams. A strange entity is reaching out to our world, with terrible consequences for the whole human race. Luke faces life-changing events, and Bannerman Road will never be the same again.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.2</Rating>
+  <RatingCount>6</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Joseph Lidster</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/79708/2438351.jpg</filename>
+  <lastupdated>1324494137</lastupdated>
+  <seasonid>273381</seasonid>
+  <seriesid>79708</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2447291</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Joss Agnew</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Nightmare Man (2)</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2010-10-12</FirstAired>
+  <GuestStars>|Julian Bleach|Doon Mackichan|Paul Kasey|Toby Longworth|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>With Luke, Clyde and Rani trapped in a bizarre dreamscape, Sarah Jane must fight alone. As the Nightmare Man grows stronger, only K-9 might hold the key. But can Luke summon the courage to face his adult life before the whole world is trapped in an endless nightmare?</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>6</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Joseph Lidster</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/79708/2447291.jpg</filename>
+  <lastupdated>1324494195</lastupdated>
+  <seasonid>273381</seasonid>
+  <seriesid>79708</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2438361</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Joss Agnew</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Vault of Secrets (1)</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2010-10-18</FirstAired>
+  <GuestStars>|Angus Wright|Mark Goldthorp|Cheryl Campbell|David Webber|Sophie Benjamin|Perry Blank|Mina Anwar|Ace Bhatti|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Androvax the Veil returns to Earth and asks for the gangs help, but how can they trust him? Or is the threat posed by the Vault of Secrets great enough to overcome old enmities. And when the android guardians threaten destruction, is there really any other choice?</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>3</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Phil Ford</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/79708/2438361.jpg</filename>
+  <lastupdated>1430848659</lastupdated>
+  <seasonid>273381</seasonid>
+  <seriesid>79708</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2447311</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Joss Agnew</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Vault of Secrets (2)</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2010-10-19</FirstAired>
+  <GuestStars>|Angus Wright|Mark Goldthorp|Cheryl Campbell|David Webber|Sophie Benjamin|Perry Blank|Mina Anwar|Ace Bhatti|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>When an old enemy, Androvax the Veil, returns to Earth asking for help, the gang face a dilemma – should they trust him? Or does the legendary Vault hold an even greater terror? But a second threat arises, when android guardians threaten to destroy anyone who uncovers their secrets. As the battle between Sarah Jane, Androvax and the androids reaches its climax, Rani has to save her own mother from being caught in the crossfire. But as the Vault opens the destiny of the entire Veil  species is at stake. Is it too late to save them? </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>4</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Phil Ford</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/79708/2447311.jpg</filename>
+  <lastupdated>1430848665</lastupdated>
+  <seasonid>273381</seasonid>
+  <seriesid>79708</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2438371</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Russell T Davies</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Death of the Doctor (1)</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2010-10-25</FirstAired>
+  <GuestStars>|Matt Smith|Katy Manning|Finn Jones|Laila Rouass|Ace Bhatti|Jimmy Vee|Phillip Hurd-Wood|David Bradley|Jon Glover|Paul Kasey|Rauri Mears|Ben Ashley|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Old Companions Sarah Jane Smith and Jo Grant meet for the first time to discover the truth when the Doctor is declared dead. An interstellar conspiracy gathers around UNIT Head Quarters as Clyde finds that he holds the fate of the Time Lord in his hand.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>7</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Ashley Way</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/79708/2438371.jpg</filename>
+  <lastupdated>1430848734</lastupdated>
+  <seasonid>273381</seasonid>
+  <seriesid>79708</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2447321</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Ashley Way</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Death of the Doctor (2)</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2010-10-26</FirstAired>
+  <GuestStars>|Matt Smith|Katy Manning|Finn Jones|Laila Rouass|Ace Bhatti|Jimmy Vee|Phillip Hurd-Wood|David Bradley|Jon Glover|Paul Kasey|Rauri Mears|Ben Ashley|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Old friends fight together - but is it too late to stop the sinister Shansheeth?</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>6</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Russell T Davies</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/79708/2447321.jpg</filename>
+  <lastupdated>1430848678</lastupdated>
+  <seasonid>273381</seasonid>
+  <seriesid>79708</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2438381</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Ashley Way</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Empty Planet (1)</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2010-11-01</FirstAired>
+  <GuestStars>|Jocelyn Jee Esien|Ace Bhatti|Joe Maso|Paul Kasey|Ruari Mears|Jon Glover|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Clyde and Rani awake to find they are the only humans on Earth, even Sarah Jane Smith has vanished. But the Earth is not deserted, stalking the streets of London, strange forces gather.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>6</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Gareth Roberts</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/79708/2438381.jpg</filename>
+  <lastupdated>1324496322</lastupdated>
+  <seasonid>273381</seasonid>
+  <seriesid>79708</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2447331</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Ashley Way</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Empty Planet (2)</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2010-11-02</FirstAired>
+  <GuestStars>|Jocelyn Jee Esien|Ace Bhatti|Joe Maso|Paul Kasey|Ruari Mears|Jon Glover|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Clyde and Rani only just manage to escape from the robots.
+
+Regrouping with Gavin in a cafe, Clyde deduces that he and Rani were left behind after the robots abducted everyone else because of the two of them having been 'grounded' by the Judoon, although this fails to explain Gavin's continued presence. When Gavin runs off again, Rani and Clyde are confronted by the robots, who explain that they want the 'son and heir' (Although Clyde initially assumes that they want Earth's sun and air); Gavin's father - who he mentioned left his mother when he was young - was an alien prince, and with his father's recent death Gavin is the only viable heir to the throne.
+
+Tracking Gavin down, Clyde and Rani explain the situation to him, convincing him to remove a ring that his father gave his mother to give to him; the ring acted as a bio-damper that prevented anyone from detecting his alien heritage. With the ring removed, the robots can sense him, and he agrees to accompany them back to his father's world, his last actions on Earth being to name Clyde and Rani a Lord and Lady of his people.
+
+With Earth's population returned - having been sent to a 'warp shunt' while the robots searched - Sarah and Mr Smith create the necessary records to state that Gavin has moved to Australia, Sarah praising Clyde and Rani's accomplishments even when they were alone.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>3</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Gareth Roberts</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/79708/2447331.jpg</filename>
+  <lastupdated>1324496363</lastupdated>
+  <seasonid>273381</seasonid>
+  <seriesid>79708</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2438391</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Joss Agnew</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Lost in Time (1)</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2010-11-08</FirstAired>
+  <GuestStars>|Cyril Nri|Amber Beattie|Elizabeth Rider|Fiona Hampton|Richard Wisker|Tom Wlaschiha|Gwyneth Keyworth|Lucie Jones|Morgan-Faith Hughes|Llewcus Oaten|Rowena Cooper|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>A harmless investigation turns into an epic quest across time and space.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>6</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Rupert Laight</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/79708/2438391.jpg</filename>
+  <lastupdated>1324496565</lastupdated>
+  <seasonid>273381</seasonid>
+  <seriesid>79708</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2447341</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Joss Agnew</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Lost in Time (2)</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2010-11-09</FirstAired>
+  <GuestStars>|Cyril Nri|Amber Beattie|Elizabeth Rider|Fiona Hampton|Richard Wisker|Tom Wlaschiha|Gwyneth Keyworth|Lucie Jones|Morgan-Faith Hughes|Llewcus Oaten|Rowena Cooper|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Sarah Jane, Clyde and Rani fight across the centuries to be reunited.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>7</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Rupert Laight</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/79708/2447341.jpg</filename>
+  <lastupdated>1324496588</lastupdated>
+  <seasonid>273381</seasonid>
+  <seriesid>79708</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2438401</id>
+  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Joss Agnew</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Goodbye, Sarah Jane Smith (1)</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2010-11-15</FirstAired>
+  <GuestStars>|Julie Graham|Eddie Marsan|Mina Anwar|Ace Bhatti|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>No one can defend the earth forever, but who could ever replace Sarah Jane? </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>7</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>|Gareth Roberts|Clayton Hickman|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/79708/2438401.jpg</filename>
+  <lastupdated>1430848747</lastupdated>
+  <seasonid>273381</seasonid>
+  <seriesid>79708</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2447351</id>
+  <Combined_episodenumber>12</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Joss Agnew</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Goodbye, Sarah Jane Smith (2)</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>2010-11-16</FirstAired>
+  <GuestStars>|Julie Graham|Eddie Marsan|Mina Anwar|Ace Bhatti|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Sarah Jane has gone for good, and a new regime begins at Bannerman Road!</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>7</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>|Gareth Roberts|Clayton Hickman|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/79708/2447351.jpg</filename>
+  <lastupdated>1430848686</lastupdated>
+  <seasonid>273381</seasonid>
+  <seriesid>79708</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4134619</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Sky (1)</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2011-10-03</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Sarah Jane discovers an abandoned baby girl on her doorstep and attempts to find out who left her there. At a local nuclear power station, a beautiful woman appears out of nowhere and uses alien powers to take control of the place.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>6</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/79708/4134619.jpg</filename>
+  <lastupdated>1318320568</lastupdated>
+  <seasonid>470003</seasonid>
+  <seriesid>79708</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4134620</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Ashley Way</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Sky (2)</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2011-10-04</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Sky has undergone a transformation and in the process has triggered a countdown that nobody is able to stop. Sarah Jane and Sky end up being trapped between the alien war fought by Metalkind and Fleshkind. Clyde and Rani attempt to prevent the biggest bang the world has ever seen.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>6</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Phil Ford</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/79708/4134620.jpg</filename>
+  <lastupdated>1318321162</lastupdated>
+  <seasonid>470003</seasonid>
+  <seriesid>79708</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4134621</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Curse of Clyde Langer (1)</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2011-10-10</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>After some very unusual weather hits Bannerman Road, Sarah Jane investigates why. Fish are falling from the skies, and Sarah Jane's investigation ends up leading the team to the Museum of Culture. After Clyde acts the fool a little to much, his friends end up turning against him, and he is banished from their lives.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>4</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/79708/4134621.jpg</filename>
+  <lastupdated>1318320599</lastupdated>
+  <seasonid>470003</seasonid>
+  <seriesid>79708</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4134622</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Curse of Clyde Langer (2)</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2011-10-11</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Clyde finds himself abandoned on the streets of London, living rough with no food to eat. Somebody ends up reaching out to him, but as they become friends, he's warned about the legendary Night Dragon.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>4</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/79708/4134622.jpg</filename>
+  <lastupdated>1318434413</lastupdated>
+  <seasonid>470003</seasonid>
+  <seriesid>79708</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4134623</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Man Who Never Was (1)</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2011-10-17</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Everyone wants the brand-new SerfBoard - and why not? What could be so dangerous about a computer?</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.2</Rating>
+  <RatingCount>5</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/79708/4134623.jpg</filename>
+  <lastupdated>1319414514</lastupdated>
+  <seasonid>470003</seasonid>
+  <seriesid>79708</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4134624</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Man Who Never Was (2)</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2011-10-18</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Luke and Sky must help the Skullions, but Sarah Jane is in danger too, so who will they save?</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>5</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/79708/4134624.jpg</filename>
+  <lastupdated>1319414700</lastupdated>
+  <seasonid>470003</seasonid>
+  <seriesid>79708</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+</Data>

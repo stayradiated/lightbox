@@ -32,7 +32,7 @@ func main() {
 	}
 	defer db.Close()
 
-	insertSeries, err := db.Prepare(`INSERT IGNORE INTO series(
+	insertSeries, err := db.Prepare(`INSERT IGNORE INTO lb_series(
 		id,
 		date_created,
 		title,
@@ -43,7 +43,7 @@ func main() {
 		log.Fatal(err)
 	}
 
-	insertSeriesCategory, err := db.Prepare(`INSERT IGNORE INTO series_categories(
+	insertSeriesCategory, err := db.Prepare(`INSERT IGNORE INTO lb_series_categories(
 		series_id,
 		category_id
 	) VALUES(?, ?)`)
@@ -51,7 +51,7 @@ func main() {
 		log.Fatal(err)
 	}
 
-	insertSeason, err := db.Prepare(`INSERT IGNORE INTO seasons(
+	insertSeason, err := db.Prepare(`INSERT IGNORE INTO lb_seasons(
 		id,
 		series_id,
 		date_created,
@@ -64,7 +64,7 @@ func main() {
 		log.Fatal(err)
 	}
 
-	insertEpisode, err := db.Prepare(`INSERT IGNORE INTO episodes(
+	insertEpisode, err := db.Prepare(`INSERT IGNORE INTO lb_episodes(
 		id,
 		season_id,
 		date_published,
@@ -97,7 +97,7 @@ func main() {
 	for _, series := range seriesList {
 
 		_, err = insertSeries.Exec(
-			series.Id,
+			series.ID,
 			series.DateCreated,
 			series.Titles.Default,
 			series.Descriptions.Default,
@@ -111,8 +111,8 @@ func main() {
 		for _, category := range series.Categories {
 
 			_, err := insertSeriesCategory.Exec(
-				series.Id,
-				category.Id,
+				series.ID,
+				category.ID,
 			)
 
 			if err != nil {
@@ -124,8 +124,8 @@ func main() {
 		for _, season := range series.Seasons {
 
 			_, err := insertSeason.Exec(
-				season.Id,
-				series.Id,
+				season.ID,
+				series.ID,
 				season.DateCreated,
 				season.SeasonNumber,
 				season.Titles.Default,
@@ -140,15 +140,15 @@ func main() {
 			for _, episode := range season.Episodes {
 
 				_, err := insertEpisode.Exec(
-					episode.Id,
-					season.Id,
+					episode.ID,
+					season.ID,
 					episode.Dates.Published,
 					episode.Dates.Created,
 					episode.Titles.Default,
 					episode.Descriptions.Default,
 					episode.ParentalControl.Rating,
 					episode.Episode,
-					episode.MediaId,
+					episode.MediaID,
 					episode.Details.Length,
 					episode.Details.AirDate,
 				)

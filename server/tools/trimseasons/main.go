@@ -2,6 +2,7 @@ package main
 
 import (
 	"database/sql"
+	"flag"
 	"fmt"
 	"log"
 
@@ -9,6 +10,10 @@ import (
 )
 
 func main() {
+
+	var safety bool
+	flag.BoolVar(&safety, "s", false, "safety run")
+	flag.Parse()
 
 	// connect to mysql
 	db, err := sql.Open("mysql",
@@ -20,21 +25,20 @@ func main() {
 
 	// get all seasons that are not in the lightbox dataset
 	rows, err := db.Query(`
-		select seasons_tvdb.id, seasons_tvdb.number, series_tvdb.series_name
-		from seasons_tvdb, series_tvdb
+		select seasons.id, seasons.number, shows.name
+		from seasons, shows
 		where
+			shows.id = seasons.show_id and
+			seasons.id not in (
+				select seasons.id
 
-		series_tvdb.id = seasons_tvdb.series_id
-		and seasons_tvdb.id not in (
-		select seasons_tvdb.id
+				from seasons, shows, lb_seasons, lb_series
 
-		from seasons_tvdb, seasons, series, series_tvdb
-
-		where
-			series_tvdb.lightbox_id = series.id and
-			series_tvdb.id = seasons_tvdb.series_id and
-			series.id = seasons.series_id and
-			seasons.season_number = seasons_tvdb.number
+				where
+					shows.lightbox_id = lb_series.id and
+					shows.id = seasons.show_id and
+					lb_series.id = lb_seasons.series_id and
+					lb_seasons.season_number = seasons.number
 		)
 	`)
 	if err != nil {
@@ -42,7 +46,7 @@ func main() {
 	}
 
 	deleteSeason, err := db.Prepare(`
-		delete from seasons_tvdb
+		delete from seasons
 		where id = ?`)
 	if err != nil {
 		log.Fatal(err)
@@ -59,8 +63,11 @@ func main() {
 			log.Fatal(err)
 		}
 		fmt.Println("Deleting", seriesTitle, seasonNumber)
-		if _, err := deleteSeason.Exec(seasonID); err != nil {
-			log.Fatal(err)
+
+		if safety == false {
+			if _, err := deleteSeason.Exec(seasonID); err != nil {
+				log.Fatal(err)
+			}
 		}
 	}
 

@@ -19,7 +19,7 @@ func main() {
 
 	// prepare update query
 	updateSeasonBanner, err := db.Prepare(`
-		update seasons_tvdb
+		update seasons
 		set banner = ?
 		where id = ?`)
 	if err != nil {
@@ -28,22 +28,22 @@ func main() {
 
 	// get all seasons
 	rows, err := db.Query(`
-		select sr.id, sn.number, sn.id, b.banner_path
+		select sh.id, sn.number, sn.id, b.banner_path
 
 		from
-			series_tvdb sr,
-				seasons_tvdb sn,
-				banners b
+			shows sh,
+			seasons sn,
+			banners b
 
 		where
-			sr.id = sn.series_id and
-				b.series_id = sr.id and
-				b.season = sn.number and
-				b.banner_type = 2 and
-				b.banner_size = "season" and
-				b.language = "en"
+				sh.id         = sn.show_id and
+				b.show_id     = sh.id      and
+				b.season      = sn.number  and
+				b.banner_type = 2          and
+				b.banner_size = "season"   and
+				b.language    = "en"
 				
-		group by sr.id, sn.number
+		group by sh.id, sn.number
 	`)
 	if err != nil {
 		log.Fatal(err)

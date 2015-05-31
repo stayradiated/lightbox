@@ -44,17 +44,15 @@ func main() {
 		log.Fatal(err)
 	}
 
-	fmt.Println(categories)
-
 	insertSeriesCategory, err := db.Prepare(`
-		insert ignore into series_categories(series_id, category_id) values (?, ?)
+		insert ignore into show_categories(show_id, category_id) values (?, ?)
 	`)
 	if err != nil {
 		log.Fatal(err)
 	}
 
 	rows, err = db.Query(`
-		select id, genre from series
+		select id, genre from shows
 	`)
 	if err != nil {
 		log.Fatal(err)
@@ -77,6 +75,8 @@ func main() {
 			catID, ok := categories[category]
 			if ok {
 				insertSeriesCategory.Exec(id, catID)
+			} else {
+				fmt.Println("Missing Category", category)
 			}
 		}
 

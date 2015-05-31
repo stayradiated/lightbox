@@ -32,6 +32,9 @@ func main() {
 		return
 	}
 
+	time, _ := ServerTime()
+	fmt.Println("Server Time:", time)
+
 	fp := filepath.Join("series", fmt.Sprintf("%d - %s", id, name))
 	if err := DownloadInfoForSeries(name, fp); err != nil {
 		panic(err)

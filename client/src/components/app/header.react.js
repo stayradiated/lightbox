@@ -20,7 +20,18 @@ var Header = React.createClass({
           <input ref='search' type='search' placeholder='Search' />
           <button>Search</button>
         </form>
-        <p>George</p>
+        <div className='user-settings'>
+          <button type='button' className='name'>
+            George
+            <span className='icon-down-open' />
+          </button>
+          <ul className='dropdown'>
+            <li><a href='#'>Add Profile</a></li>
+            <li><a href='#'>Settings</a></li>
+            <li><a href='#'>Help</a></li>
+            <li><a href='#'>Logout</a></li>
+          </ul>
+        </div>
       </header>
     );
   },

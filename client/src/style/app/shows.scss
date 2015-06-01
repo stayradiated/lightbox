@@ -1,6 +1,24 @@
 .route-shows {
 
-  @include cf();
+  header {
+    $height: 50px;
+
+    position: fixed;
+    top: 51px;
+    left: 200px;
+    right: 0;
+    height: $height;
+
+    line-height: $height;
+
+    z-index: 9;
+
+    background: rgba(#fff, 0.98);
+    box-shadow: 0 2px 14px rgba(#000, 0.1);
+  }
+
+  .list {
+  }
 
   .show {
 
@@ -31,6 +49,12 @@
     }
 
     h3 {
+      $height: 20px;
+
+      display: block;
+      height: $height;
+      line-height: $height;
+
       @extend %truncate;
 
       color: #000;
@@ -40,6 +64,12 @@
     }
 
     p {
+      $height: 20px;
+
+      display: block;
+      height: $height;
+      line-height: $height;
+
       @extend %truncate;
 
       font-size: 12px;

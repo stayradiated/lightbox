@@ -1,38 +1,138 @@
 .header {
 
+  $height: 50px;
+
   position: fixed;
   top: 0;
   left: 0;
   right: 0;
-  height: 50px;
+
   z-index: 10;
 
-  background: #fff;
+  height: 50px;
+  line-height: 50px;
+
+  border-bottom: 1px solid rgba(#000, 0.07);
+
+  background: rgba(#fff, 0.98);
 
   .logo {
     float: left;
-
     width: 200px;
-
-    text-transform: uppercase;
-    font-family: 'proxima nova soft', sans-serif;
-    font-size: 20px;
-    text-align: center;
-    line-height: 50px;
     margin: 0 0 10px 0;
-    border-bottom: 1px solid rgba(#fff, 0.07);
 
-    background: #11171C;
-    color: #ECF0F1;
+    a {
+      display: block;
+
+      background: #11171C;
+      color: #ECF0F1;
+
+      text-decoration: none;
+
+      text-transform: uppercase;
+      font-family: 'proxima nova soft', sans-serif;
+      font-size: 20px;
+      text-align: center;
+      border-bottom: 1px solid rgba(#fff, 0.07);
+
+      &:hover {
+        background: lighten(#11171C, 5);
+      }
+    }
   }
 
   h2 {
     float: left;
+    margin: 0;
+
+    font-size: 24px;
+    font-weight: 400;
+
+    color: #28455D;
+
   }
 
-  input {
+  form {
     float: left;
   }
 
+  .user-settings {
+    float: right;
+    position: relative;
+    margin-right: 10px;
+
+    button {
+      $b_height: 50px;
+
+      margin-top: ($height - $b_height) / 2;
+      height: $b_height;
+      line-height: $b_height;
+
+      background: none;
+      // border-radius: 4px;
+      outline: 0;
+      border: 0;
+
+      margin: 0;
+      font-size: 13px;
+      color: lighten(#000, 20);
+
+      &:hover {
+        background: #F5F5F5;
+      }
+      &:active {
+        background: #E6E6E6;
+      }
+    }
+
+    [class^=icon-] {
+      font-size: 10px;
+      margin: 0 10px;
+      color: #8C8C8C;
+    }
+
+    &:hover .dropdown {
+      display: block;
+    }
+
+    .dropdown {
+      display: none;
+
+      position: absolute;
+      top: 100%;
+      right: 0;
+      z-index: 1000;
+
+      min-width: 100px;
+
+      margin: 2px 0 0;
+      padding: 5px 0;
+
+      background: #fff;
+      outline: 1px solid rgba(#000, 0.2);
+      box-sizing: border-box;
+    }
+
+    li {
+      display: block;
+      list-style-type: none;
+    }
+
+    a {
+      display: block;
+      font-size: 13px;
+      line-height: 21px;
+      padding: 5px 10px;
+      text-decoration: none;
+
+      color: lighten(#000, 20);
+
+      &:hover {
+        background: #0081C2;
+        color: #fff;
+      }
+    }
+
+  }
 
 }

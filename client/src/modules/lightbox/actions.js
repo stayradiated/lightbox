@@ -13,7 +13,7 @@ exports.searchShows = function (query) {
     url: baseUrl + '/shows',
     data: {
       filter: query,
-      limit: 300,
+      limit: 40,
     },
   }).then(result => {
     flux.dispatch(actionTypes.SetShows, result);

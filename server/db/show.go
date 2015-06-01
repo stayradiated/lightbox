@@ -1,20 +1,8 @@
 package db
 
-func (d *DB) Shows(filter string, limit, offset int) ([]Show, error) {
+func (d *DB) Shows(filter string) ([]Show, error) {
 
 	filter = "%" + filter + "%"
-
-	if offset < 0 {
-		offset = 0
-	}
-
-	if limit == 0 {
-		limit = 24
-	}
-
-	// if limit > 50 {
-	// 	limit = 50
-	// }
 
 	rows, err := d.DB.Query(`
 		select
@@ -24,9 +12,7 @@ func (d *DB) Shows(filter string, limit, offset int) ([]Show, error) {
 		where
 			title like (?)
 		order by title asc
-		limit ?
-		offset ?
-	`, filter, limit, offset)
+	`, filter)
 
 	if err != nil {
 		return nil, err

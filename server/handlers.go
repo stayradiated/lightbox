@@ -24,17 +24,26 @@ func (h Handlers) ReadShows(w http.ResponseWriter, r *http.Request) {
 		limit = 24
 	}
 	offset, err := strconv.Atoi(r.FormValue("offset"))
-	if err != nil {
+	if err != nil || offset < 0 {
 		offset = 0
 	}
 
-	shows, err := h.DB.Shows(filter, limit, offset)
+	shows, err := h.DB.Shows(filter)
 	if err != nil {
 		fmt.Fprintln(w, err)
 		return
 	}
 
-	printJson(w, shows)
+	total := len(shows)
+	shows = shows[offset : offset+limit]
+
+	printJson(w, struct {
+		Data  []db.Show
+		Total int
+	}{
+		Data:  shows,
+		Total: total,
+	})
 }
 
 // ReadShow returns a single show

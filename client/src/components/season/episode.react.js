@@ -15,8 +15,8 @@ var Episode = React.createClass({
 
     return (
       <Link to='episode' params={{episodeID: episode.get('ID')}} className='episode'>
-        <img src={'http://thetvdb.com/banners/' + episode.get('Image')} />
-        <h3>{episode.get('Name')}</h3>
+        <img src={episode.get('Image')} />
+        <h3>{episode.get('Title')}</h3>
         <p>Episode {episode.get('Number')}</p>
       </Link>
     );

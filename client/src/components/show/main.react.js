@@ -60,26 +60,26 @@ var Show = React.createClass({
       <div className='route-show'>
 
         <div className='fanart' style={{
-          backgroundImage: 'url(http://thetvdb.com/banners/' + show.get('Fanart') + ')'
+          backgroundImage: 'url(' + show.get('Fanart') + ')'
         }} />
 
         <div className='poster' style={{
-          backgroundImage: 'url(http://thetvdb.com/banners/' + show.get('Poster') + ')'
+          backgroundImage: 'url(' + show.get('Poster') + ')'
         }}>
           <div className='overlay' />
         </div>
 
-        <h3>{show.get('Name')}</h3>
+        <h3>{show.get('Title')}</h3>
 
         <p>{show.get('Runtime')}</p>
 
         <p>{show.get('Rating')}/10 - ({show.get('RatingCount')} votes)</p>
 
-        <p>{show.get('FirstAired')}</p>
+        <p>{show.get('Released')}</p>
 
-        <p>{show.get('Overview')}</p>
+        <p>{show.get('Plot')}</p>
 
-        <p>{show.get('ContentRating')}</p>
+        <p>{show.get('ParentalRating')}</p>
 
         <ul>
           {categories}

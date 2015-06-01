@@ -36,10 +36,7 @@ func (d *DB) CategoryShows(categoryID int) ([]Show, error) {
 
 	rows, err := d.DB.Query(`
 		select
-			shows.id,
-			shows.name,
-			shows.poster,
-			shows.first_aired
+			shows.id, shows.title, shows.poster, shows.released
 		from
 			categories,
 			show_categories,
@@ -60,9 +57,9 @@ func (d *DB) CategoryShows(categoryID int) ([]Show, error) {
 		show := Show{}
 		if err := rows.Scan(
 			&show.ID,
-			&show.Name,
+			&show.Title,
 			&show.Poster,
-			&show.FirstAired,
+			&show.Released,
 		); err != nil {
 			return nil, err
 		}

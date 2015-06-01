@@ -18,12 +18,12 @@ func (d *DB) Shows(filter string, limit, offset int) ([]Show, error) {
 
 	rows, err := d.DB.Query(`
 		select
-			id, name, poster, first_aired
+			id, title, poster, year, released, date_created
 		from
 			shows
 		where
-			name like (?)
-		order by name asc
+			title like (?)
+		order by title asc
 		limit ?
 		offset ?
 	`, filter, limit, offset)
@@ -38,9 +38,11 @@ func (d *DB) Shows(filter string, limit, offset int) ([]Show, error) {
 		show := Show{}
 		if err := rows.Scan(
 			&show.ID,
-			&show.Name,
+			&show.Title,
 			&show.Poster,
-			&show.FirstAired,
+			&show.Year,
+			&show.Released,
+			&show.DateCreated,
 		); err != nil {
 			return nil, err
 		}
@@ -57,34 +59,42 @@ func (d *DB) Show(showID int) (Show, error) {
 	if err := d.DB.QueryRow(`
 		select
 			id,
-			name,
-			overview,
-			rating,
-			rating_count,
+			title,
+			year,
+			released,
+			runtime,
+			writer,
 			actors,
+			plot,
 			poster,
 			fanart,
-			content_rating,
-			first_aired,
-			runtime,
-			imdb
+			rating,
+			rating_count,
+			date_created,
+			parental_rating,
+			imdb,
+			tvdb
 		from
 			shows
 		where
 			id = (?)
 	`, showID).Scan(
 		&show.ID,
-		&show.Name,
-		&show.Overview,
-		&show.Rating,
-		&show.RatingCount,
+		&show.Title,
+		&show.Year,
+		&show.Released,
+		&show.Runtime,
+		&show.Writer,
 		&show.Actors,
+		&show.Plot,
 		&show.Poster,
 		&show.Fanart,
-		&show.ContentRating,
-		&show.FirstAired,
-		&show.Runtime,
+		&show.Rating,
+		&show.RatingCount,
+		&show.DateCreated,
+		&show.ParentalRating,
 		&show.IMDB,
+		&show.TVDB,
 	); err != nil {
 		return show, err
 	}

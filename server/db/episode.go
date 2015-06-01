@@ -6,35 +6,57 @@ func (d *DB) Episode(episodeID int) (Episode, error) {
 
 	if err := d.DB.QueryRow(`
 		select
-			id,
-			episode_number,
-			episode_name,
-			overview,
-			first_aired,
-			filename,
-			rating,
-			rating_count,
-			director,
-			writer,
-			guest_stars,
-			imdb
+			episodes.id,
+			episodes.season_id,
+			seasons.show_id,
+			episodes.media_id,
+			episodes.date_created,
+			episodes.date_published,
+			episodes.number,
+			episodes.title,
+			episodes.plot,
+			episodes.runtime,
+			episodes.first_aired,
+			episodes.year,
+			episodes.parental_rating,
+			episodes.parental_rating_reason,
+			episodes.director,
+			episodes.writer,
+			episodes.guest_stars,
+			episodes.rating,
+			episodes.rating_count,
+			episodes.image,
+			episodes.imdb,
+			episodes.tvdb
 		from
-			episodes
+			episodes,
+			seasons
 		where
-			id = (?)
+			episodes.id = (?) and
+			episodes.season_id = seasons.id
 	`, episodeID).Scan(
 		&episode.ID,
+		&episode.SeasonID,
+		&episode.ShowID,
+		&episode.MediaID,
+		&episode.DateCreated,
+		&episode.DatePublished,
 		&episode.Number,
-		&episode.Name,
-		&episode.Overview,
+		&episode.Title,
+		&episode.Plot,
+		&episode.Runtime,
 		&episode.FirstAired,
-		&episode.Image,
-		&episode.Rating,
-		&episode.RatingCount,
+		&episode.Year,
+		&episode.ParentalRating,
+		&episode.ParentalRatingReason,
 		&episode.Director,
 		&episode.Writer,
 		&episode.GuestStars,
+		&episode.Rating,
+		&episode.RatingCount,
+		&episode.Image,
 		&episode.IMDB,
+		&episode.TVDB,
 	); err != nil {
 		return episode, err
 	}
@@ -47,17 +69,26 @@ func (d *DB) SeasonEpisodes(seasonID int) ([]Episode, error) {
 	rows, err := d.DB.Query(`
 		select
 			id,
-			episode_number,
-			episode_name,
-			overview,
+			season_id,
+			media_id,
+			date_created,
+			date_published,
+			number,
+			title,
+			plot,
+			runtime,
 			first_aired,
-			filename,
-			rating,
-			rating_count,
+			year,
+			parental_rating,
+			parental_rating_reason,
 			director,
 			writer,
 			guest_stars,
-			imdb
+			rating,
+			rating_count,
+			image,
+			imdb,
+			tvdb
 		from
 			episodes
 		where
@@ -74,17 +105,26 @@ func (d *DB) SeasonEpisodes(seasonID int) ([]Episode, error) {
 		episode := Episode{}
 		if err = rows.Scan(
 			&episode.ID,
+			&episode.SeasonID,
+			&episode.MediaID,
+			&episode.DateCreated,
+			&episode.DatePublished,
 			&episode.Number,
-			&episode.Name,
-			&episode.Overview,
+			&episode.Title,
+			&episode.Plot,
+			&episode.Runtime,
 			&episode.FirstAired,
-			&episode.Image,
-			&episode.Rating,
-			&episode.RatingCount,
+			&episode.Year,
+			&episode.ParentalRating,
+			&episode.ParentalRatingReason,
 			&episode.Director,
 			&episode.Writer,
 			&episode.GuestStars,
+			&episode.Rating,
+			&episode.RatingCount,
+			&episode.Image,
 			&episode.IMDB,
+			&episode.TVDB,
 		); err != nil {
 			return nil, err
 		}

@@ -15,7 +15,7 @@ func main() {
 
 	// setup database
 	database, err := sql.Open("mysql",
-		"lightbox:lightbox@tcp(192.168.1.100:3306)/lightbox")
+		"lightbox:lightbox@tcp(192.168.1.100:3306)/lightbox?parseTime=true")
 	if err != nil {
 		log.Fatal(err)
 	}

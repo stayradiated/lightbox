@@ -6,8 +6,11 @@ func (d *DB) ShowSeasons(showID int) ([]Season, error) {
 		select
 			id,
 			show_id,
+			date_created,
 			number,
-			banner
+			parental_rating,
+			image,
+			tvdb
 		from
 			seasons
 		where
@@ -25,8 +28,11 @@ func (d *DB) ShowSeasons(showID int) ([]Season, error) {
 		if err := rows.Scan(
 			&season.ID,
 			&season.ShowID,
+			&season.DateCreated,
 			&season.Number,
-			&season.Banner,
+			&season.ParentalRating,
+			&season.Image,
+			&season.TVDB,
 		); err != nil {
 			return nil, err
 		}
@@ -44,8 +50,11 @@ func (d *DB) Season(seasonID int) (Season, error) {
 		select
 			id,
 			show_id,
+			date_created,
 			number,
-			banner
+			parental_rating,
+			image,
+			tvdb
 		from
 			seasons
 		where
@@ -53,8 +62,11 @@ func (d *DB) Season(seasonID int) (Season, error) {
 	`, seasonID).Scan(
 		&season.ID,
 		&season.ShowID,
+		&season.DateCreated,
 		&season.Number,
-		&season.Banner,
+		&season.ParentalRating,
+		&season.Image,
+		&season.TVDB,
 	); err != nil {
 		return season, err
 	}

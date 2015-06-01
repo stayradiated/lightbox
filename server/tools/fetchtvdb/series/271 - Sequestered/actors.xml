@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Actors>
+<Actor>
+  <id>342154</id>
+  <Image>actors/342154.jpg</Image>
+  <Name>Jesse Bradford</Name>
+  <Role>Danny Firmin</Role>
+  <SortOrder>0</SortOrder>
+</Actor>
+<Actor>
+  <id>342156</id>
+  <Image>actors/342156.jpg</Image>
+  <Name>Patrick Warburton</Name>
+  <Role>Governor Bennett</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>342155</id>
+  <Image>actors/342155.jpg</Image>
+  <Name>Summer Glau</Name>
+  <Role>Anna Brandt</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>342162</id>
+  <Image>actors/342162.jpg</Image>
+  <Name>Heather Dubrow</Name>
+  <Role>Marisa</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>342157</id>
+  <Image>actors/342157.jpg</Image>
+  <Name>Bruce Davison</Name>
+  <Role>Danny Firmin's Father</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>342159</id>
+  <Image></Image>
+  <Name>Chris Ellis</Name>
+  <Role>Ron Pritchard</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>342160</id>
+  <Image></Image>
+  <Name>Dina Meyer</Name>
+  <Role>Helen Bennett</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>342158</id>
+  <Image></Image>
+  <Name>James Maslow</Name>
+  <Role>Kevin Mohr</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>342161</id>
+  <Image></Image>
+  <Name>Trevor Torseth</Name>
+  <Role>Hugh Cross</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+</Actors>

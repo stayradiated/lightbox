@@ -4,17 +4,23 @@ func (d *DB) ShowSeasons(showID int) ([]Season, error) {
 
 	rows, err := d.DB.Query(`
 		select
-			id,
-			show_id,
-			date_created,
-			number,
-			parental_rating,
-			image,
-			tvdb
+			seasons.id,
+			seasons.show_id,
+			seasons.date_created,
+			seasons.number,
+			seasons.parental_rating,
+			seasons.image,
+			seasons.tvdb,
+			count(episodes.id) as episode_count
 		from
-			seasons
+			seasons, episodes
 		where
-			show_id = (?)
+			episodes.season_id = seasons.id and
+			seasons.show_id = ?
+		group by
+			seasons.id
+		order by
+			seasons.number
 	`, showID)
 
 	if err != nil {
@@ -33,6 +39,7 @@ func (d *DB) ShowSeasons(showID int) ([]Season, error) {
 			&season.ParentalRating,
 			&season.Image,
 			&season.TVDB,
+			&season.EpisodeCount,
 		); err != nil {
 			return nil, err
 		}
@@ -48,17 +55,19 @@ func (d *DB) Season(seasonID int) (Season, error) {
 
 	if err := d.DB.QueryRow(`
 		select
-			id,
-			show_id,
-			date_created,
-			number,
-			parental_rating,
-			image,
-			tvdb
+			seasons.id,
+			seasons.show_id,
+			seasons.date_created,
+			seasons.number,
+			seasons.parental_rating,
+			seasons.image,
+			seasons.tvdb,
+			count(episodes.id) as episode_count
 		from
-			seasons
+			seasons, episodes
 		where
-			id = (?)
+			episodes.season_id = seasons.id and
+			seasons.id = ?
 	`, seasonID).Scan(
 		&season.ID,
 		&season.ShowID,
@@ -67,6 +76,7 @@ func (d *DB) Season(seasonID int) (Season, error) {
 		&season.ParentalRating,
 		&season.Image,
 		&season.TVDB,
+		&season.EpisodeCount,
 	); err != nil {
 		return season, err
 	}

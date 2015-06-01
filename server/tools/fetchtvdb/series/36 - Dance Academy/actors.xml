@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Actors>
+<Actor>
+  <id>317388</id>
+  <Image></Image>
+  <Name> 	Tara Morice</Name>
+  <Role>Miss Raine </Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>317386</id>
+  <Image></Image>
+  <Name>Alicia Banit</Name>
+  <Role>Kat Karamakov</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>317387</id>
+  <Image></Image>
+  <Name>Dena Kaplan</Name>
+  <Role>Abigail Armstrong</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>317384</id>
+  <Image></Image>
+  <Name>Jordan Rodrigues</Name>
+  <Role>Christian Reed</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>317390</id>
+  <Image></Image>
+  <Name>Tim Pocock</Name>
+  <Role>Ethan Karamakov</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>317389</id>
+  <Image></Image>
+  <Name>Tom Green</Name>
+  <Role>Samuel Lieberman </Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>317385</id>
+  <Image></Image>
+  <Name>Xenia Goodwin</Name>
+  <Role>Tara Webster</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+</Actors>

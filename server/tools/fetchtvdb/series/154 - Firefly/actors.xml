@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Actors>
+<Actor>
+  <id>77734</id>
+  <Image>actors/77734.jpg</Image>
+  <Name>Nathan Fillion</Name>
+  <Role>Captain Malcolm 'Mal' Reynolds</Role>
+  <SortOrder>0</SortOrder>
+</Actor>
+<Actor>
+  <id>68409</id>
+  <Image>actors/68409.jpg</Image>
+  <Name>Alan Tudyk</Name>
+  <Role>Hoban 'Wash' Washburne</Role>
+  <SortOrder>0</SortOrder>
+</Actor>
+<Actor>
+  <id>68413</id>
+  <Image>actors/68413.jpg</Image>
+  <Name>Morena Baccarin</Name>
+  <Role>Inara Serra</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>68411</id>
+  <Image>actors/68411.jpg</Image>
+  <Name>Gina Torres</Name>
+  <Role>Zoë Washburne</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>68408</id>
+  <Image>actors/68408.jpg</Image>
+  <Name>Adam Baldwin</Name>
+  <Role>Jayne Cobb</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>68415</id>
+  <Image>actors/68415.jpg</Image>
+  <Name>Jewel Staite</Name>
+  <Role>Kaylee Frye</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>68414</id>
+  <Image>actors/68414.jpg</Image>
+  <Name>Summer Glau</Name>
+  <Role>River Tam</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>68412</id>
+  <Image>actors/68412.jpg</Image>
+  <Name>Sean Maher</Name>
+  <Role>Dr. Simon Tam</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>77743</id>
+  <Image>actors/77743.jpg</Image>
+  <Name>Ron Glass</Name>
+  <Role>Shepherd Derrial Book</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+</Actors>

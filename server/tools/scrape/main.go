@@ -13,16 +13,8 @@ import (
 )
 
 const (
-	COMEDY      = 18
-	CRIME       = 22
-	DRAMA       = 7
-	FACTUAL     = 17
-	NEW_ZEALAND = 1
-	REALITY     = 31
-	SCIFI       = 16
-	ALL_TV      = 9
-	PRE_SCHOOL  = 33
-	ALL_KIDS    = 8
+	ALL_TV   = 9
+	ALL_KIDS = 8
 )
 
 func main() {
@@ -63,7 +55,7 @@ func main() {
 }
 
 func GetEverything() (xstream.SeriesList, error) {
-	seriesList, err := GetAllSeriesInCategory(ALL_KIDS)
+	seriesList, err := GetAllSeriesInCategory(ALL_TV)
 	if err != nil {
 		return nil, err
 	}
@@ -176,7 +168,39 @@ func GetSeasonInfo(seriesID, seasonID int) (xstream.Season, error) {
 		return response, err
 	}
 
+	episodes, err := GetAllEpisodes(seriesID, seasonID)
+	if err != nil {
+		return response, err
+	}
+	response.Episodes = episodes
+
 	return response, nil
+}
+
+type EpisodeList struct {
+	Count    int
+	Episodes []xstream.Episode
+}
+
+func GetAllEpisodes(seriesID, seasonID int) ([]xstream.Episode, error) {
+	url := fmt.Sprintf(
+		"https://www.lightbox.co.nz/xstream/media/series/%d/seasons/%d/episodes?limit=50",
+		seriesID, seasonID)
+
+	var response EpisodeList
+
+	r, err := http.Get(url)
+	if err != nil {
+		return nil, err
+	}
+	defer r.Body.Close()
+
+	d := json.NewDecoder(r.Body)
+	if err = d.Decode(&response); err != nil {
+		return nil, err
+	}
+
+	return response.Episodes, nil
 }
 
 func GetEpisodeInfo(seriesID, seasonID, episodeID int) (xstream.Episode, error) {

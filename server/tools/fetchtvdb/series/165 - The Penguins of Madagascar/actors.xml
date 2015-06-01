@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Actors>
+<Actor>
+  <id>81836</id>
+  <Image></Image>
+  <Name>Tom McGrath</Name>
+  <Role>Skipper</Role>
+  <SortOrder>0</SortOrder>
+</Actor>
+<Actor>
+  <id>81837</id>
+  <Image></Image>
+  <Name>Jeff Bennett</Name>
+  <Role>Kowalski</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>81838</id>
+  <Image></Image>
+  <Name>James Patrick Stuart</Name>
+  <Role>Private</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>81839</id>
+  <Image></Image>
+  <Name>John DiMaggio</Name>
+  <Role>Rico</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>312088</id>
+  <Image></Image>
+  <Name></Name>
+  <Role>Mason</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>312089</id>
+  <Image></Image>
+  <Name></Name>
+  <Role>Dr. Francis Blowhole</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>312090</id>
+  <Image></Image>
+  <Name></Name>
+  <Role>Fred</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>312091</id>
+  <Image></Image>
+  <Name></Name>
+  <Role>Joey</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>81842</id>
+  <Image></Image>
+  <Name>Andy Richter</Name>
+  <Role>Mort</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>312081</id>
+  <Image></Image>
+  <Name>Cedric Yarbrough</Name>
+  <Role>Officer X</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>312083</id>
+  <Image></Image>
+  <Name>Dana Snyder</Name>
+  <Role>Leonard</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>81840</id>
+  <Image></Image>
+  <Name>Danny Jacobs</Name>
+  <Role>King Julien</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>312085</id>
+  <Image></Image>
+  <Name>Fred Tatasciore</Name>
+  <Role>Burt</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>312086</id>
+  <Image></Image>
+  <Name>Keith Szarabajka</Name>
+  <Role>Roy</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>81841</id>
+  <Image></Image>
+  <Name>Kevin Michael Richardson</Name>
+  <Role>Maurice</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>312093</id>
+  <Image></Image>
+  <Name>Larry Miller</Name>
+  <Role>Clemson</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>312084</id>
+  <Image></Image>
+  <Name>Mary Scheer</Name>
+  <Role>Alice</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>312092</id>
+  <Image></Image>
+  <Name>Nestor Carbonell</Name>
+  <Role>Savio</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>286716</id>
+  <Image></Image>
+  <Name>Nicole Sullivan</Name>
+  <Role>Marlene</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>312087</id>
+  <Image></Image>
+  <Name>No voice</Name>
+  <Role>Phil</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>312082</id>
+  <Image></Image>
+  <Name>Richard Kind</Name>
+  <Role>Roger</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+</Actors>

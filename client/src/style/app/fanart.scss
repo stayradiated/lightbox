@@ -1,0 +1,16 @@
+.route-fanart {
+
+  .background {
+    position: fixed;
+    top: 100px;
+    bottom: 0;
+    left: 200px;
+    right: 0;
+    background-size: cover;
+    background-position: center;
+
+    opacity: 0.3;
+    z-index: -1;
+  }
+
+}

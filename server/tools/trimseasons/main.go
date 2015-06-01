@@ -17,7 +17,7 @@ func main() {
 
 	// connect to mysql
 	db, err := sql.Open("mysql",
-		"lightbox:lightbox@tcp(192.168.1.100:3306)/lightbox")
+		"lightbox:lightbox@tcp(192.168.1.100:3306)/lightbox_backup")
 	if err != nil {
 		log.Fatal(err)
 	}

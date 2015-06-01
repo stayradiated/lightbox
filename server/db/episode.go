@@ -93,6 +93,8 @@ func (d *DB) SeasonEpisodes(seasonID int) ([]Episode, error) {
 			episodes
 		where
 			season_id = (?)
+		order by
+			number
 	`, seasonID)
 
 	if err != nil {

@@ -17,10 +17,17 @@ var Season = React.createClass({
       return null;
     }
 
+    var style = {
+      backgroundImage: 'url(' + season.get('Image') + ')',
+    };
+
     return (
       <Link to='season' params={{seasonID: season.get('ID')}} className='season'>
-        <img src={season.get('Image')} />
+        <div className='poster' style={style}>
+          <div className='overlay' />
+        </div>
         <h3>Season {season.get('Number')}</h3>
+        <p>{season.get('EpisodeCount')} Episodes</p>
       </Link>
     );
   },

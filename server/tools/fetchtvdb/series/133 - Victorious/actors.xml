@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Actors>
+<Actor>
+  <id>160711</id>
+  <Image>actors/160711.jpg</Image>
+  <Name>Victoria Justice</Name>
+  <Role>Tori Vega</Role>
+  <SortOrder>0</SortOrder>
+</Actor>
+<Actor>
+  <id>160771</id>
+  <Image>actors/160771.jpg</Image>
+  <Name>Daniella Monet</Name>
+  <Role>Trina Vega</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>160761</id>
+  <Image>actors/160761.jpg</Image>
+  <Name>Avan Jogia</Name>
+  <Role>Beck Oliver</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>160751</id>
+  <Image>actors/160751.jpg</Image>
+  <Name>Ariana Grande</Name>
+  <Role>Cat Valentine</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>160741</id>
+  <Image>actors/160741.jpg</Image>
+  <Name>Elizabeth Gillies</Name>
+  <Role>Jade West</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>160731</id>
+  <Image>actors/160731.jpg</Image>
+  <Name>Matt Bennett</Name>
+  <Role>Robbie Shapiro</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>160721</id>
+  <Image>actors/160721.jpg</Image>
+  <Name>Leon Thomas</Name>
+  <Role>Andre Harris</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+</Actors>

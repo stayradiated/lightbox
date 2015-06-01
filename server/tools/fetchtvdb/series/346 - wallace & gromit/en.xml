@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data><Series>
+  <id>78996</id>
+  <Actors>|Peter Sallis|</Actors>
+  <Airs_DayOfWeek></Airs_DayOfWeek>
+  <Airs_Time></Airs_Time>
+  <ContentRating>TV-G</ContentRating>
+  <FirstAired>1989-11-09</FirstAired>
+  <Genre>|Animation|Children|</Genre>
+  <IMDB_ID>tt0118114</IMDB_ID>
+  <Language>en</Language>
+  <Network>BBC One</Network>
+  <NetworkID></NetworkID>
+  <Overview>Wallace and Gromit are the main characters in a series of four British animated short films, several series of short interstitials, and a feature-length film by Nick Park of Aardman Animations. All the characters were made from moulded plasticine modelling clay on metal armatures, and filmed with stop motion clay animation. Wallace, an absent-minded inventor from Wigan, Lancashire, is a cheese enthusiast (especially for Wensleydale cheese). His companion, Gromit, appears to be rather more intelligent than his master. Wallace is voiced by veteran actor Peter Sallis; Gromit remains silent, communicating only through facial expressions and body language.</Overview>
+  <Rating>7.8</Rating>
+  <RatingCount>6</RatingCount>
+  <Runtime>35</Runtime>
+  <SeriesID></SeriesID>
+  <SeriesName>Wallace &amp; Gromit</SeriesName>
+  <Status>Ended</Status>
+  <added></added>
+  <addedBy></addedBy>
+  <banner>graphical/78996-g.jpg</banner>
+  <fanart>fanart/original/78996-5.jpg</fanart>
+  <lastupdated>1422019143</lastupdated>
+  <poster>posters/78996-4.jpg</poster>
+  <tms_wanted_old>1</tms_wanted_old>
+  <zap2it_id></zap2it_id>
+</Series>
+<Episode>
+  <id>439618</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Making of Wallace &amp; Gromit (DVD Extra)</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1276981237</lastupdated>
+  <seasonid>26444</seasonid>
+  <seriesid>78996</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>3237551</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>3</EpImgFlag>
+  <EpisodeName>The Amazing World of Wallace &amp; Gromit</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/78996/3237551.jpg</filename>
+  <lastupdated>1291338787</lastupdated>
+  <seasonid>26444</seasonid>
+  <seriesid>78996</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>3390281</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>A Matter of Loaf &amp; Death - How They Donut</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Behind-the-scenes special to accompany &quot;A Matter of Loaf and Death&quot;</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/78996/3390281.jpg</filename>
+  <lastupdated>1333395060</lastupdated>
+  <seasonid>26444</seasonid>
+  <seriesid>78996</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>3437971</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Inside the Wrong Trousers</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/78996/3437971.jpg</filename>
+  <lastupdated>1333395093</lastupdated>
+  <seasonid>26444</seasonid>
+  <seriesid>78996</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>3437981</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>A Close Shave: 'How They Did It'</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/78996/3437981.jpg</filename>
+  <lastupdated>1333395124</lastupdated>
+  <seasonid>26444</seasonid>
+  <seriesid>78996</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>300896</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Nick Park</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>A Grand Day Out</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>1989-11-09</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Wallace and Gromit have run out of cheese and this provides an excellent excuse for the animated duo to take their holiday on the moon, where, as everyone knows, there is ample cheese.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>9.4</Rating>
+  <RatingCount>5</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Steve Rushton|Nick Park</Writer>
+  <absolute_number>1</absolute_number>
+  <filename>episodes/78996/300896.jpg</filename>
+  <lastupdated>1293904837</lastupdated>
+  <seasonid>15940</seasonid>
+  <seriesid>78996</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>300897</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Nick Park</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>The Wrong Trousers</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>1993-11-09</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Gromit finds himself being pushed out of his room and home by a new lodger who is actually a ruthless criminal (and a small penguin). The penguin is planning a robbery and needs to use Wallace and his mechanical remote controlled trousers to pull off the heist.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>9.3</Rating>
+  <RatingCount>4</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>2</absolute_number>
+  <filename>episodes/78996/300897.jpg</filename>
+  <lastupdated>1293903844</lastupdated>
+  <seasonid>15940</seasonid>
+  <seriesid>78996</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>300898</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Nick Park</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>A Close Shave</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>1995-11-09</FirstAired>
+  <GuestStars>|Anne Reid|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>When Wallace and Gromit set themselves up as window cleaners, you know it's going to be a paneful experience. Wallace takes a shine to Wendolene, a local shopkeeper whilst Gromit becomes the victim of a smear campaign. Can Gromit get his name cleared as well as his windows? Who is behind the spate of sheep rustling and will they come quietly? But most importantly, can Wallace find a cure for his cheese fetish before he finally goes crackers?</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>9.0</Rating>
+  <RatingCount>3</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Bob Baker|Nick Park</Writer>
+  <absolute_number>3</absolute_number>
+  <filename>episodes/78996/300898.jpg</filename>
+  <lastupdated>1295653487</lastupdated>
+  <seasonid>15940</seasonid>
+  <seriesid>78996</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>300899</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Nick Park|Bob Baker|Steve Box|Mark Button</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>The Curse of the Were-Rabbit</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2005-10-14</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Tottington Hall's annual Giant Vegetable Competition is approaching. The winner of the competition will win the Golden Carrot Award. All are eager to protect their giant crops from damage and thievery by rabbits until the contest, and Wallace and Gromit are cashing in by running a vegetable security and humane pest control business, &quot;Anti-Pesto&quot;.
+
+However, they are faced with two problems: the first is Wallace's growing weight and the second is inadequate space for the captured rabbits. Wallace comes up with an idea — use his Mind Manipulation-O-Matic machine to brainwash the rabbits, allowing them to run freely without harming everyone's gardens. While performing the operation, he kicks the switch and something goes terribly wrong, leaving them with a semi-intelligent rabbit who (in a slow metamorphasis) starts to behave like Wallace (down to his fondness for cheese) and whom Wallace names &quot;Hutch&quot;. Soon the town is threatened by the &quot;Were-Rabbit&quot;, a giant rabbit-like monster which eats vegetables of any size. During a chaotic yet hilarious town meeting, Anti-Pesto enters into a rivalry with Lord Victor Quartermaine to capture the Were-Rabbit, and, to win Lady Tottington's heart. After the first night of the Were-Rabbit, the townsfolk start to argue on what to do.
+
+After a hectic nighttime chase, Gromit discovers that the Were-Rabbit (whom he assumed was Hutch at first) is, in fact, Wallace, suffering from the effects of the accident with the Mind Manipulation-O-Matic. Victor corners Wallace during the night, jealous of Lady Tottington's growing fondness for him because of his humane practice of pest control (whereas Victor thinks it's more effective to shoot and kill them). But then Wallace falls into the path of moonlight and transforms. Victor, having identified the Were-Rabbit, goes to Reverend Clement Hedges and gains access to &quot;24-carrot&quot; gold bullets - supposedly, the only things capable of killing a Were-Rabbit.
+
+During the final showdown, Victor and his dog Phillip capture Gromit, who subsequently escapes and decides to make the ultimate sacrifice by using the marrow he had been growing for the competition as bait for Wallace who, in his rabbit form, has burst in upon the vegetable contest, causing panic. Victor tries to shoot what is apparently the monster - but Gromit is one step ahead of him. Yet the marrow cannot keep Wallace's attention as Victor tries to take the golden carrot award from a distressed Lady Tottington. Wallace ascends to the rooftops, holding a screaming Lady Tottington in his hand. Discovering his identity, she promises to protect him, only to be interrupted by Victor. Meanwhile, in a mid-air dogfight in toy aeroplanes, Phillip chases after Gromit. Gromit forces his foe out of the air in a fiery crash and explosion - but Phillip manages to hold on to Gromit's plane and the two grapple. The fight rages on and in the end, Gromit releases Philip, ironically, through the bomb doors and into a bouncy castle.
+
+Atop Tottington Hall, Gromit's toy biplane circles Wallace, who clings onto the flagpole at the top of the building for dear life. Victor, having run out of gold bullets, steals the Golden Carrot trophy and stuffs it in a blunderbuss he finds at an antique table at the fair. Victor tries one last time to shoot Wallace, but Wallace is saved by Gromit, who grabs onto a rope from a flagpole and swings his plane falls into the path of the improvised bullet. Unfortunately, since it is a toy plane not intended for flying, Gromit accidentally lets go of the rope, and begins to descend rapidly. Wallace jumps from the flagpole and catches the plane, thereby breaking Gromit's fall into the cheese tent below. Victor gloats, but is knocked unconscious by Lady Tottington, using a giant carrot. He falls into the tent too, where Wallace lies unconscious and seemingly dying of his injuries. To protect Wallace from the angry mob outside, Gromit dresses Victor up as the monster (using a marionette he used earlier as a lure for the Were-Rabbit), and throws him out of the tent. The angry mob chase Victor away.
+
+Gromit and Tottington tend to Wallace, who seconds later, breathes his last, and morphs back into his human form. Gromit, the rabbits, and Lady Tottington are saddened by their loss, but Gromit is able to revive Wallace with a slice of Stinking Bishop cheese. Gromit, for his bravery and his &quot;brave and splendid mellon&quot;, is awarded the (now somewhat battered) competition trophy, and Lady Tottington turns Tottington Hall into a wildlife refuge, where all the rabbits, including Hutch, can live in peace.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/78996/300899.jpg</filename>
+  <lastupdated>1268512798</lastupdated>
+  <seasonid>15940</seasonid>
+  <seriesid>78996</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>427686</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Nick Park</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>A Matter of Loaf and Death</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2008-12-25</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>When a local baker is murdered, it comes to the attention of the local media that there is a serial killer on the loose, as twelve bakers have been murdered in total. Reported as a &quot;cereal killer&quot; [sic] on the front page of the newspaper. Meanwhile, Wallace and Gromit have opened a bread making business, &quot;Top Bun&quot;, and have begun a &quot;Dough to Door&quot; delivery service, where on a morning basis the duo deliver bread to peoples' houses. One morning whilst going on the usual route, they almost run over a fat lady and her dog on a bicycle. Realising that this is the &quot;Bake-O-Lite&quot;[7] lady Piella Bakewell, a former pin-up girl for the bread company, Wallace falls head over heels in love. Suddenly, as she disappears out of the view of the van rear vision mirror, her brakes fail and Wallace and Gromit have no choice but to help her.
+
+The van does a U-turn and chases after Piella. Wallace proceeds to scale the front of the moving van, (which is now moving at the same speed as the bicycle) in the manner of Spider-Man[citation needed]; and straddles the bicycle's front forks. The duo then use fruit buns as brakes between Wallace's knees to slow the bike. However, the bike stops inside the local zoo next to the crocodile pit. Wallace, Gromit, Piella and her dog Fluffles are catapulted into the air, almost landing inside a crocodile's mouth, but are saved by a quick-thinking Gromit who jams the mouth of the croc open with a bread stick and saves Fluffles. Gromit then checks the bike's brakes and seeing that they are working just fine, becomes somewhat suspicious.
+
+Wallace and Piella enter into a whirlwind romance, until Gromit discovers Piella's identity as the serial killer. Wallace, however, is too starry-eyed to pay attention to Gromit's concerns, announcing that he and Piella are engaged to be married. Gromit tries all kinds of tactics to thwart Piella going so far as to install an airport-style metal detector in their home. Piella almost succeeds at pushing Wallace to his death into the mechanisms of the machine - Gromit is chained and unable to help him - but she is hit by a bag of flour (which can only have been launched by Fluffles). She is covered in flour from head to foot, and knocked down the stairs, prompting an angry outburst against bakers and results in her leaving grabbing Fluffles with some malice. Wallace and Gromit return home and Wallace laments the end of his romance with Piella. A short time later, however, Piella appears at the door carrying a large box, which contains a cake. She instructs Wallace to light the candle at four o'clock for a surprise, then makes an excuse and leaves, after telling Gromit that Fluffles is &quot;not well&quot;.
+
+Gromit follows Piella home to see what has happened to Fluffles, but is caught and imprisoned with Fluffles in the store room. The two dogs manage to escape in Piella's hot air balloon, and arrive at Wallace's house just as Wallace is lighting the candle on the cake. Gromit attempts to extinguish the wick, only to discover it is a relighting candle. In the resulting struggle between Wallace and Gromit the cake falls to the floor, revealing a bomb underneath. Gromit then attempts to dispose of the bomb, but is thwarted when the places he seeks to dispose of it are occupied by a group of ducks and a pair of nuns carrying kittens, in a scene which references Batman (1966 film).
+
+Gromit tries to throw the bomb out of the house (towards the Yorkshire border) but is hit by a revolving part of a machine, and falls into a vat of dough. The bomb falls out the window, and Piella comes after Wallace with a spanner, exclaiming her pure disdain for baking and her motives behind the serial killings. She is stopped in her tracks by a yellow forklift truck contraption with robot hands covered by oven-mittens, with Fluffles at the wheel. Piella picks up two rolling pins and swings them around her head like nunchucks, then tries to attack the machine (in a parody of the climactic scene of Aliens), all the while Fluffles stopping her blows with the mitts, knocking Wallace straight through the wall by a fierce blow in the process. Wallace and the bomb, which are now caught on the revolving windmill, both fall into the house, and Gromit manages to get himself out of the dough.
+
+As the fight ensues, Piella is pushed closer and closer to the edge of the house until Wallace arrives making a remark about the bomb. This is all the time Piella needs as a distraction and she leaps onto the balloon for safety. It is revealed that the bomb is inside Wallace's trousers, and the two dogs desperately use dough pressure to try to equalise the force of the forthcoming explosion. Due to her weight, the balloon can't support Piella, and she comes crashing down into the crocodile pit in the zoo, only to be eaten. This is the first death of a human villain to occur in a Wallace and Gromit film. The balloon (liberated from the overweight Piella) rises up into the clouds where Piella's ghost is briefly visible as her once-thin self; she says goodbye to Wallace with a wave while holding a plate with a loaf of Bake-O-Lite bread.
+
+After the climax Wallace and Gromit decide to deliver some bread in order to take their minds off the gloomy turn of events and almost run over Fluffles who is waiting in the driveway. They see she is sad at losing her owner so they let her hop in the van to join them on their deliveries and all three drive off into the sunset as the song &quot;Puppy Love&quot; plays on the van's stereo.
+</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>10.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Nick Park;Bob Baker;Steve Box;Mark Button</Writer>
+  <absolute_number>4</absolute_number>
+  <filename>episodes/78996/427686.jpg</filename>
+  <lastupdated>1293904780</lastupdated>
+  <seasonid>15940</seasonid>
+  <seriesid>78996</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+</Data>

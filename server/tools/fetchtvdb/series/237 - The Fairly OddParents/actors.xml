@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Actors>
+<Actor>
+  <id>45695</id>
+  <Image></Image>
+  <Name>Tara Strong</Name>
+  <Role>Timmy Turner / Poof</Role>
+  <SortOrder>0</SortOrder>
+</Actor>
+<Actor>
+  <id>45692</id>
+  <Image></Image>
+  <Name>Daran Norris</Name>
+  <Role>Cosmo / Mr. Turner / Jorgen Von Strangle</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>45689</id>
+  <Image></Image>
+  <Name>Susan Blakeslee</Name>
+  <Role>Wanda / Mrs. Turner</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>45694</id>
+  <Image></Image>
+  <Name>Carlos Alazraqui</Name>
+  <Role>Denzel Crocker</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>45690</id>
+  <Image></Image>
+  <Name>Faith Abrahams</Name>
+  <Role>Francis</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>45693</id>
+  <Image></Image>
+  <Name>Gary Leroi Gray</Name>
+  <Role>A.J. Mechawegger (2002 - present)</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>45687</id>
+  <Image></Image>
+  <Name>Grey Delisle</Name>
+  <Role>Vicky / Tootie and various</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>45696</id>
+  <Image></Image>
+  <Name>Jason Marsden</Name>
+  <Role>Chester McBadbat (2003–present)</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>326650</id>
+  <Image></Image>
+  <Name>Dionne Quan</Name>
+  <Role>Trixie Tang</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>45686</id>
+  <Image></Image>
+  <Name>Frankie Muniz</Name>
+  <Role>Chester McBadbat (2001-2003)</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>45691</id>
+  <Image></Image>
+  <Name>Ibrahim Haneef Muhammad</Name>
+  <Role>A.J. Mechawegger (2001 - 2003)</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>45688</id>
+  <Image></Image>
+  <Name>Mary Kay Bergman</Name>
+  <Role>Timmy Turner (Oh Yeah! Cartoons shorts) (1998-1999)</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+</Actors>

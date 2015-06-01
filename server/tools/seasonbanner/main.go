@@ -11,7 +11,7 @@ func main() {
 
 	// connect to mysql
 	db, err := sql.Open("mysql",
-		"lightbox:lightbox@tcp(192.168.1.100:3306)/lightbox")
+		"lightbox:lightbox@tcp(192.168.1.100:3306)/lightbox_backup")
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -74,4 +74,17 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
+
+	/*
+		-- GET ENSEMBLE IMAGE FOR SHOW
+		select lb_episode_images.source
+		from lb_episode_images, lb_episodes, lb_seasons
+		where
+			type = "Ensemble Portrait" and
+			lb_episode_images.episode_id = lb_episodes.id and
+			lb_seasons.id = lb_episodes.season_id and
+			lb_episodes.season_id = lb_seasons.id and
+			lb_seasons.series_id = ?
+		limit 1
+	*/
 }

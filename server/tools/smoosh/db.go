@@ -2,6 +2,8 @@ package main
 
 import (
 	"database/sql"
+	"encoding/json"
+	"fmt"
 	"log"
 
 	_ "github.com/go-sql-driver/mysql"
@@ -31,7 +33,7 @@ type DB struct {
 
 func (d *DB) Init() {
 	db, err := sql.Open("mysql",
-		"lightbox:lightbox@tcp(192.168.1.100:3306)/lightbox")
+		"lightbox:lightbox@tcp(192.168.1.100:3306)/lightbox_backup")
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -375,6 +377,8 @@ func (d *DB) InsertMasterSeason(season Season) {
 		season.Image,
 		season.TVDB,
 	); err != nil {
+		j, _ := json.Marshal(season)
+		fmt.Println(string(j))
 		log.Fatal(err)
 	}
 }
@@ -464,6 +468,8 @@ func (d *DB) InserMasterEpisode(episode Episode) {
 		episode.IMDB,
 		episode.TVDB,
 	); err != nil {
+		j, _ := json.Marshal(episode)
+		fmt.Println(string(j))
 		log.Fatal(err)
 	}
 }

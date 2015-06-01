@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Actors>
+<Actor>
+  <id>68230</id>
+  <Image>actors/68230.jpg</Image>
+  <Name>David Threlfall</Name>
+  <Role>Frank Gallagher</Role>
+  <SortOrder>0</SortOrder>
+</Actor>
+<Actor>
+  <id>68229</id>
+  <Image>actors/68229.jpg</Image>
+  <Name>Anne-Marie Duff</Name>
+  <Role>Fiona</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>68223</id>
+  <Image>actors/68223.jpg</Image>
+  <Name>Jody Latham</Name>
+  <Role>Lip</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>68231</id>
+  <Image>actors/68231.jpg</Image>
+  <Name>Chris Bisson</Name>
+  <Role>Kash</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>68228</id>
+  <Image>actors/68228.jpg</Image>
+  <Name>Dean Lennox Kelly</Name>
+  <Role>Kev</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>68227</id>
+  <Image>actors/68227.jpg</Image>
+  <Name>Maxine Peake</Name>
+  <Role>Veronica</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>68222</id>
+  <Image>actors/68222.jpg</Image>
+  <Name>Elliot Tittensor</Name>
+  <Role>Carl</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>68221</id>
+  <Image>actors/68221.jpg</Image>
+  <Name>Rebecca Atkinson</Name>
+  <Role>Karen Maguire</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>68220</id>
+  <Image>actors/68220.jpg</Image>
+  <Name>Anthony Flanagan</Name>
+  <Role>Tony</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>68219</id>
+  <Image>actors/68219.jpg</Image>
+  <Name>Rebecca Ryan</Name>
+  <Role>Debbie</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>68217</id>
+  <Image>actors/68217.jpg</Image>
+  <Name>Gerard Kearns</Name>
+  <Role> Ian Gallagher</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>68216</id>
+  <Image>actors/68216.jpg</Image>
+  <Name>James McAvoy</Name>
+  <Role>Steve</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>68226</id>
+  <Image></Image>
+  <Name>Jack Deam</Name>
+  <Role>Marty</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>68218</id>
+  <Image></Image>
+  <Name>Joseph Furnace</Name>
+  <Role>Liam</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>68224</id>
+  <Image></Image>
+  <Name>Luke Tittensor</Name>
+  <Role></Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>68232</id>
+  <Image></Image>
+  <Name>Maggie O'Neill</Name>
+  <Role></Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>68225</id>
+  <Image></Image>
+  <Name>Marjorie Yates</Name>
+  <Role></Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>305711</id>
+  <Image></Image>
+  <Name>Gillian Kearney</Name>
+  <Role>Sue Garland</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+</Actors>

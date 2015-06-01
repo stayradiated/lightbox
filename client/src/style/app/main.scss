@@ -9,7 +9,7 @@ body {
   width: 100%;
 }
 
-[class^="route-"] {
+.app > [class^="route-"] {
   margin-left: 200px;
   margin-top: 50px;
 }

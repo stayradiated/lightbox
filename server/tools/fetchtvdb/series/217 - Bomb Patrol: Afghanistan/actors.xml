@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Actors>
+<Actor>
+  <id>291378</id>
+  <Image>actors/291378.jpg</Image>
+  <Name>Josh Duhamel</Name>
+  <Role>Narrator</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>291379</id>
+  <Image></Image>
+  <Name>Brad Penley</Name>
+  <Role>Himself</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>291383</id>
+  <Image></Image>
+  <Name>Brendan Schmutte</Name>
+  <Role>Himself</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>291385</id>
+  <Image></Image>
+  <Name>Chase Holzhauer</Name>
+  <Role>Himself</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>291380</id>
+  <Image></Image>
+  <Name>Jeremy Stein</Name>
+  <Role>Himself</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>291384</id>
+  <Image></Image>
+  <Name>John Groat</Name>
+  <Role>Himself</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>291381</id>
+  <Image></Image>
+  <Name>Matt Rayl</Name>
+  <Role>Himself</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>291387</id>
+  <Image></Image>
+  <Name>Sam Durham</Name>
+  <Role>Himself</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+</Actors>

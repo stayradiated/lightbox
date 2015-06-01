@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Actors>
+<Actor>
+  <id>272001</id>
+  <Image>actors/272001.jpg</Image>
+  <Name>Peter Sallis</Name>
+  <Role>Wallace (Voice)</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+</Actors>

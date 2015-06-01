@@ -65,6 +65,7 @@ type Season struct {
 	Image          string    `json:",omitempty"`
 	TVDB           int       `json:",omitempty"`
 	Episodes       []Episode `json:",omitempty"`
+	EpisodeCount   int       `json:",omitempty"`
 }
 
 /*

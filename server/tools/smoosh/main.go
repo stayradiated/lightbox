@@ -6,9 +6,9 @@ func main() {
 	db.Init()
 	defer db.Close()
 
-	// db.SmooshShows()
-	// db.SmooshSeasons()
-	// db.SmooshEpisodes()
-	db.SmooshCategories()
+	db.SmooshShows()
+	db.SmooshSeasons()
+	db.SmooshEpisodes()
+	// db.SmooshCategories()
 
 }

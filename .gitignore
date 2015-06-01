@@ -1,4 +1,2 @@
-/server/bin/*.json
+/server/bin/*
 /client/node_modules
-/imdb
-/imdb.tar.gz

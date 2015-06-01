@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Actors>
+<Actor>
+  <id>35012</id>
+  <Image>actors/35012.jpg</Image>
+  <Name>Michael Ealy</Name>
+  <Role>Darwyn Al-Sayeed</Role>
+  <SortOrder>0</SortOrder>
+</Actor>
+<Actor>
+  <id>35013</id>
+  <Image>actors/35013.jpg</Image>
+  <Name>Oded Fehr</Name>
+  <Role>Faris al-Farik</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>35017</id>
+  <Image>actors/35017.jpg</Image>
+  <Name>Henri Lubatti</Name>
+  <Role>Ilija Korjenic</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>35016</id>
+  <Image>actors/35016.jpg</Image>
+  <Name>Blake Shields</Name>
+  <Role>Thomas Emerson</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>35015</id>
+  <Image>actors/35015.jpg</Image>
+  <Name>Melissa Sagemiller</Name>
+  <Role>Gayle Bishop</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>232441</id>
+  <Image>actors/232441.jpg</Image>
+  <Name>Alex Nesic</Name>
+  <Role>Christian Aumont</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>35014</id>
+  <Image></Image>
+  <Name>Jake Soldera</Name>
+  <Role>Marcus Bishop</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>35018</id>
+  <Image></Image>
+  <Name>James LeGros</Name>
+  <Role>Special Agent Raymond 'Ray' Fuller</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+</Actors>

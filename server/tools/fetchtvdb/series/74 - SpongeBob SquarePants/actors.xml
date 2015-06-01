@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Actors>
+<Actor>
+  <id>41762</id>
+  <Image>actors/41762.jpg</Image>
+  <Name>Tom Kenny</Name>
+  <Role>Spongebob Squarepants</Role>
+  <SortOrder>0</SortOrder>
+</Actor>
+<Actor>
+  <id>41768</id>
+  <Image>actors/41768.jpg</Image>
+  <Name>Rodger Bumpass</Name>
+  <Role>Squidward Tentacles</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>41763</id>
+  <Image>actors/41763.jpg</Image>
+  <Name>Bill Fagerbakke</Name>
+  <Role>Patrick Star</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>41769</id>
+  <Image>actors/41769.jpg</Image>
+  <Name>Dee Bradley Baker</Name>
+  <Role>Squilliam, Perch Perkins, Old Man Jenkins</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>41767</id>
+  <Image>actors/41767.jpg</Image>
+  <Name>Mary Jo Catlett</Name>
+  <Role>Mrs. Poppy Puff</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>41766</id>
+  <Image>actors/41766.jpg</Image>
+  <Name>Carolyn Lawrence</Name>
+  <Role>Sandy Cheeks</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>41765</id>
+  <Image>actors/41765.jpg</Image>
+  <Name>Mr. Lawrence</Name>
+  <Role>Sheldon Plankton / Larry the Lobster</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>41764</id>
+  <Image>actors/41764.jpg</Image>
+  <Name>Sirena Irwin</Name>
+  <Role>Mama Krabs, Mrs. SquarePants</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>41761</id>
+  <Image>actors/41761.jpg</Image>
+  <Name>Lori Alan</Name>
+  <Role>Pearl Krabs</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>41759</id>
+  <Image>actors/41759.jpg</Image>
+  <Name>Jill Talley</Name>
+  <Role>Karen (the Computer Wife)</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>41758</id>
+  <Image>actors/41758.jpg</Image>
+  <Name>Clancy Brown</Name>
+  <Role>Mr. Krabs</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>347890</id>
+  <Image>actors/347890.jpg</Image>
+  <Name>Stephen Hillenburg</Name>
+  <Role>Potty The Parrot</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>347889</id>
+  <Image>actors/347889.jpg</Image>
+  <Name>Brian Doyle-Murray</Name>
+  <Role>The Flying Dutchman</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>41760</id>
+  <Image></Image>
+  <Name>Camryn Walling</Name>
+  <Role>Kid / Kid Fish #2 / Boy Fish</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+</Actors>

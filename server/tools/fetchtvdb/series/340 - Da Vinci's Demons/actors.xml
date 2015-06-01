@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Actors>
+<Actor>
+  <id>327223</id>
+  <Image>actors/327223.jpg</Image>
+  <Name>Tom Riley</Name>
+  <Role>Leonardo Da Vinci</Role>
+  <SortOrder>0</SortOrder>
+</Actor>
+<Actor>
+  <id>327224</id>
+  <Image>actors/327224.jpg</Image>
+  <Name>Laura Haddock</Name>
+  <Role>Lucrezia Donati</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>327225</id>
+  <Image>actors/327225.jpg</Image>
+  <Name>Blake Ritson</Name>
+  <Role>Count Riario</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>341746</id>
+  <Image>actors/341746.jpg</Image>
+  <Name>Ray Fearon</Name>
+  <Role>Carlo de Medici</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>341744</id>
+  <Image>actors/341744.jpg</Image>
+  <Name>Kieran Bew</Name>
+  <Role>Duke Alfonso</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>341742</id>
+  <Image>actors/341742.jpg</Image>
+  <Name>Jeany Spark</Name>
+  <Role>Ippolita</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>341741</id>
+  <Image>actors/341741.jpg</Image>
+  <Name>Carolina Guerra</Name>
+  <Role>Ima</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>327234</id>
+  <Image>actors/327234.jpg</Image>
+  <Name>Elliot Cowan</Name>
+  <Role>Lorenzo Medici</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>327233</id>
+  <Image>actors/327233.jpg</Image>
+  <Name>Lara Pulver</Name>
+  <Role>Clarice Orsini</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>327231</id>
+  <Image>actors/327231.jpg</Image>
+  <Name>Gregg Chillin</Name>
+  <Role>Zoroaster</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>327230</id>
+  <Image>actors/327230.jpg</Image>
+  <Name>Eros Vlahos</Name>
+  <Role>Nico</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>327229</id>
+  <Image>actors/327229.jpg</Image>
+  <Name>Hera Hilmar</Name>
+  <Role>Vanessa</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>327228</id>
+  <Image>actors/327228.jpg</Image>
+  <Name>James Faulkner</Name>
+  <Role>Pope Sixtus IV</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>309243</id>
+  <Image>actors/309243.jpg</Image>
+  <Name>Tom Bateman</Name>
+  <Role>Giuliano Medici</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>309242</id>
+  <Image>actors/309242.jpg</Image>
+  <Name>Alexander Siddig</Name>
+  <Role>Al-Rahim</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+</Actors>

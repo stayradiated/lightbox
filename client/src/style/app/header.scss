@@ -14,7 +14,7 @@
 
   border-bottom: 1px solid rgba(#000, 0.07);
 
-  background: rgba(#fff, 0.98);
+  background: #fff;
 
   .logo {
     float: left;
@@ -43,7 +43,7 @@
 
   h2 {
     float: left;
-    margin: 0;
+    margin: 0 0 0 20px;
 
     font-size: 24px;
     font-weight: 400;
@@ -52,8 +52,53 @@
 
   }
 
-  form {
-    float: left;
+  .search {
+
+    float: right;
+    margin-right: 20px;
+
+    input {
+      $s_height: 30px;
+
+      display: block;
+      float: left;
+
+      width: 250px;
+
+      border-radius: $s_height;
+      height: $s_height;
+      line-height: $s_height;
+
+      padding: 0 10px;
+      margin-top: ($height - $s_height) / 2;
+
+      font-size: 13px;
+
+      border: 1px solid #3498db;
+      outline: 0;
+
+    }
+
+    ::placeholder {
+      font-style: italic;
+      color: #3498db;
+    }
+    
+    button {
+      float: right;
+
+      background: none;
+      border: none;
+      color: #3498db;
+      margin-left: -40px;
+      outline: 0;
+
+      &:hover {
+        color: #333;
+      }
+    }
+
+
   }
 
   .user-settings {
@@ -91,46 +136,15 @@
       color: #8C8C8C;
     }
 
-    &:hover .dropdown {
-      display: block;
+    &:hover {
+      .dropdown {
+        display: block;
+      }
     }
 
     .dropdown {
-      display: none;
-
-      position: absolute;
-      top: 100%;
+      @extend %dropdown;
       right: 0;
-      z-index: 1000;
-
-      min-width: 100px;
-
-      margin: 2px 0 0;
-      padding: 5px 0;
-
-      background: #fff;
-      outline: 1px solid rgba(#000, 0.2);
-      box-sizing: border-box;
-    }
-
-    li {
-      display: block;
-      list-style-type: none;
-    }
-
-    a {
-      display: block;
-      font-size: 13px;
-      line-height: 21px;
-      padding: 5px 10px;
-      text-decoration: none;
-
-      color: lighten(#000, 20);
-
-      &:hover {
-        background: #0081C2;
-        color: #fff;
-      }
     }
 
   }

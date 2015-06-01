@@ -2,10 +2,12 @@
 
 var React = require('react');
 
-var flux     = require('../../flux');
-var Lightbox = require('../../modules/lightbox');
-var Show     = require('./show.react.js');
-var Fake     = require('./fake.react.js');
+var flux       = require('../../flux');
+var Lightbox   = require('../../modules/lightbox');
+var Show       = require('./show.react');
+var Fake       = require('./fake.react');
+var Categories = require('./categories.react');
+var Sort       = require('./sort.react');
 
 var Shows = React.createClass({
   mixins: [flux.ReactMixin],
@@ -35,8 +37,7 @@ var Shows = React.createClass({
   },
 
   render() {
-    var shows = this.state.shows.get('Data');
-    var total = this.state.shows.get('Total');
+    var shows = this.state.shows;
 
     if (shows == null) {
       shows = [];
@@ -51,25 +52,22 @@ var Shows = React.createClass({
       );
     });
 
-    var fakeElements = new Array(total - shows.size);
-
-    for (var i = 0, len = fakeElements.length; i < len; i += 1) {
-      fakeElements[i] = (
-        <Fake key={i} />
-      );
-    }
-
-    console.log(fakeElements.length);
+    // var fakeElements = new Array(total - shows.size);
+    //
+    // for (var i = 0, len = fakeElements.length; i < len; i += 1) {
+    //   fakeElements[i] = (
+    //     <Fake key={i} />
+    //   );
+    // }
 
     return (
       <div className='route-shows'>
         <header>
-          All TV
-          Most Popular
+          <Categories />
+          <Sort />
         </header>
         <div className='list'>
           {showElements}
-          {fakeElements}
         </div>
       </div>
     );

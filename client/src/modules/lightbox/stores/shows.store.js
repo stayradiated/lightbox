@@ -6,10 +6,7 @@ var actionTypes = require('../action-types');
 module.exports = new Nuclear.Store({
 
   getInitialState() {
-    return Nuclear.toImmutable({
-      Data: [],
-      Total: 0,
-    });
+    return Nuclear.toImmutable([]);
   },
 
   initialize() {

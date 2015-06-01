@@ -23,14 +23,14 @@ function handleHotSass(config) {
 
     config.module.loaders.push({
       test: /\.scss$/,
-      loader: ExtractTextPlugin.extract('css!sass'),
+      loader: ExtractTextPlugin.extract('css!autoprefixer!sass'),
     });
 
   } else {
 
     config.module.loaders.push({
       test: /\.scss$/,
-      loaders: ['style', 'css', 'sass']
+      loaders: ['style', 'css', 'autoprefixer', 'sass']
     });
     config.module.loaders.push({
       text: /\.(png|woff|woff2|eot|ttf|svg)$/,
@@ -65,7 +65,7 @@ module.exports = {
       },
       {
         test: /\.scss$/,
-        loaders: ['style', 'css', 'sass'],
+        loaders: ['style', 'css', 'autoprefixer', 'sass'],
       },
       {
         test: /\.(woff|eot|svg|ttf)$/,

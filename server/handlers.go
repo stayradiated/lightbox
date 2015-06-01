@@ -19,14 +19,6 @@ type Handlers struct {
 func (h Handlers) ReadShows(w http.ResponseWriter, r *http.Request) {
 
 	filter := r.FormValue("filter")
-	limit, err := strconv.Atoi(r.FormValue("limit"))
-	if err != nil {
-		limit = 24
-	}
-	offset, err := strconv.Atoi(r.FormValue("offset"))
-	if err != nil || offset < 0 {
-		offset = 0
-	}
 
 	shows, err := h.DB.Shows(filter)
 	if err != nil {
@@ -34,16 +26,7 @@ func (h Handlers) ReadShows(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	total := len(shows)
-	shows = shows[offset : offset+limit]
-
-	printJson(w, struct {
-		Data  []db.Show
-		Total int
-	}{
-		Data:  shows,
-		Total: total,
-	})
+	printJson(w, shows)
 }
 
 // ReadShow returns a single show

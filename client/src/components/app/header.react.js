@@ -16,10 +16,6 @@ var Header = React.createClass({
           <Link to='/'>Lightbox</Link>
         </h1>
         <h2>Discover</h2>
-        <form onSubmit={this.onSearch}>
-          <input ref='search' type='search' placeholder='Search' />
-          <button>Search</button>
-        </form>
         <div className='user-settings'>
           <button type='button' className='name'>
             George
@@ -32,6 +28,10 @@ var Header = React.createClass({
             <li><a href='#'>Logout</a></li>
           </ul>
         </div>
+        <form className='search' onSubmit={this.onSearch}>
+          <input ref='search' type='search' placeholder='Search' />
+          <button><span className='icon-search' /></button>
+        </form>
       </header>
     );
   },

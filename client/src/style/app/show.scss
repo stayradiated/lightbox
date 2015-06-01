@@ -1,4 +1,18 @@
 .route-show {
+  padding: 20px;
+
+  .fanart {
+    position: fixed;
+    top: 100px;
+    bottom: 0;
+    left: 200px;
+    right: 0;
+    background-size: cover;
+    background-position: center;
+
+    opacity: 0.2;
+    z-index: 1;
+  }
 
   .poster {
     $width: 300px;
@@ -21,6 +35,8 @@
 
 
   .seasons {
+    @include cf();
+    z-index: 5;
   }
 
   .season {

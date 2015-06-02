@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Actors>
+<Actor>
+  <id>1887</id>
+  <Image>actors/1887.jpg</Image>
+  <Name>Kyle MacLachlan</Name>
+  <Role>Special Agent Dale Cooper</Role>
+  <SortOrder>0</SortOrder>
+</Actor>
+<Actor>
+  <id>1888</id>
+  <Image>actors/1888.jpg</Image>
+  <Name>Michael Ontkean</Name>
+  <Role>Sheriff Harry S. Truman</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>1903</id>
+  <Image>actors/1903.jpg</Image>
+  <Name>Sheryl Lee</Name>
+  <Role>Laura Palmer &amp; Maddie Ferguson</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>78295</id>
+  <Image>actors/78295.jpg</Image>
+  <Name>Catherine E. Coulson</Name>
+  <Role>The Log Lady</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>78294</id>
+  <Image>actors/78294.jpg</Image>
+  <Name>Heather Graham</Name>
+  <Role>Annie Blackburn</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>78293</id>
+  <Image>actors/78293.jpg</Image>
+  <Name>Kenneth Welsh</Name>
+  <Role>Windom Earle</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>78292</id>
+  <Image>actors/78292.jpg</Image>
+  <Name>Frank Silva</Name>
+  <Role>Bob</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>78291</id>
+  <Image>actors/78291.jpg</Image>
+  <Name>Russ Tamblyn</Name>
+  <Role>Dr. Lawrence Jacoby</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>78290</id>
+  <Image>actors/78290.jpg</Image>
+  <Name>Wendy Robie</Name>
+  <Role>Nadine Hurley</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>78289</id>
+  <Image>actors/78289.jpg</Image>
+  <Name>Eric DaRe</Name>
+  <Role>Leo Johnson</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>78288</id>
+  <Image>actors/78288.jpg</Image>
+  <Name>Harry Goaz</Name>
+  <Role>Deputy Andy Brennan</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>78287</id>
+  <Image>actors/78287.jpg</Image>
+  <Name>Michael Horse</Name>
+  <Role>Deputy Tommy 'Hawk' Hill</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>344808</id>
+  <Image>actors/344808.jpg</Image>
+  <Name>Michael J. Anderson</Name>
+  <Role>The Man from Another Place</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>320219</id>
+  <Image>actors/320219.jpg</Image>
+  <Name>Chris Mulkey</Name>
+  <Role>Hank Jennings</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>1902</id>
+  <Image>actors/1902.jpg</Image>
+  <Name>Piper Laurie</Name>
+  <Role>Catherine Martell</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>1901</id>
+  <Image>actors/1901.jpg</Image>
+  <Name>Warren Frost</Name>
+  <Role>Dr. Will Hayward</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>1900</id>
+  <Image>actors/1900.jpg</Image>
+  <Name>Kimmy Robertson</Name>
+  <Role>Lucy Moran</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>1899</id>
+  <Image>actors/1899.jpg</Image>
+  <Name>Ray Wise</Name>
+  <Role>Leland Palmer</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>1898</id>
+  <Image>actors/1898.jpg</Image>
+  <Name>Joan Chen</Name>
+  <Role>Josie Packard</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>1897</id>
+  <Image>actors/1897.jpg</Image>
+  <Name>Jack Nance</Name>
+  <Role>Pete Martell</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>1896</id>
+  <Image>actors/1896.jpg</Image>
+  <Name>Everett McGill</Name>
+  <Role>Ed Hurley</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>1895</id>
+  <Image>actors/1895.jpg</Image>
+  <Name>James Marshall</Name>
+  <Role>James Hurley</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>1894</id>
+  <Image>actors/1894.jpg</Image>
+  <Name>Peggy Lipton</Name>
+  <Role>Norma Jennings</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>1893</id>
+  <Image>actors/1893.jpg</Image>
+  <Name>Richard Beymer</Name>
+  <Role>Benjamin Horne</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>1892</id>
+  <Image>actors/1892.jpg</Image>
+  <Name>Mädchen Amick</Name>
+  <Role>Shelly Johnson</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>1891</id>
+  <Image>actors/1891.jpg</Image>
+  <Name>Dana Ashbrook</Name>
+  <Role>Bobby Briggs</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>1890</id>
+  <Image>actors/1890.jpg</Image>
+  <Name>Lara Flynn Boyle</Name>
+  <Role>Donna Hayward</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>1889</id>
+  <Image>actors/1889.jpg</Image>
+  <Name>Sherilyn Fenn</Name>
+  <Role>Audrey Horne</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+</Actors>

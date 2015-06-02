@@ -5,7 +5,7 @@ var ExtractTextPlugin = require('extract-text-webpack-plugin');
 
 function getEntrySources(sources) {
   if (process.env.NODE_ENV !== 'production') {
-    sources.push('webpack-dev-server/client?http://localhost:8080');
+    sources.push('webpack-dev-server/client?http://192.168.1.100:8080');
     sources.push('webpack/hot/only-dev-server');
   }
 
@@ -53,7 +53,7 @@ module.exports = {
   output: {
     path: '.dist/',
     filename: '[name].js',
-    publicPath: 'http://localhost:8080/',
+    publicPath: 'http://192.168.1.100:8080/',
   },
 
   module: {

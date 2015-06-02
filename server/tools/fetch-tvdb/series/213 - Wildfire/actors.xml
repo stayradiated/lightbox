@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Actors>
+<Actor>
+  <id>59887</id>
+  <Image>actors/59887.jpg</Image>
+  <Name>Nicole Tubiola</Name>
+  <Role>Danielle Davis</Role>
+  <SortOrder>0</SortOrder>
+</Actor>
+<Actor>
+  <id>59883</id>
+  <Image>actors/59883.jpg</Image>
+  <Name>Nana Visitor</Name>
+  <Role>Jean Ritter</Role>
+  <SortOrder>0</SortOrder>
+</Actor>
+<Actor>
+  <id>59882</id>
+  <Image>actors/59882.jpg</Image>
+  <Name>Genevieve Padalecki</Name>
+  <Role>Kris Furillo</Role>
+  <SortOrder>0</SortOrder>
+</Actor>
+<Actor>
+  <id>59889</id>
+  <Image>actors/59889.jpg</Image>
+  <Name>James Read</Name>
+  <Role>Ken Davis</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>59888</id>
+  <Image>actors/59888.jpg</Image>
+  <Name>Andrew Hoeft</Name>
+  <Role>Todd Ritter</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>59886</id>
+  <Image>actors/59886.jpg</Image>
+  <Name>Greg Serano</Name>
+  <Role>Pablo Betart</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>59885</id>
+  <Image>actors/59885.jpg</Image>
+  <Name>Ryan Spypek</Name>
+  <Role>Junior Davis</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>59884</id>
+  <Image>actors/59884.jpg</Image>
+  <Name>Micah Alberti</Name>
+  <Role>Matt Ritter</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>59881</id>
+  <Image>actors/59881.jpg</Image>
+  <Name>Dennis Weaver</Name>
+  <Role>Henry Ritter</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+</Actors>

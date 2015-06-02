@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Actors>
+<Actor>
+  <id>313194</id>
+  <Image></Image>
+  <Name>Ben Cross</Name>
+  <Role>Benjamin Grossman</Role>
+  <SortOrder>0</SortOrder>
+</Actor>
+<Actor>
+  <id>313195</id>
+  <Image></Image>
+  <Name>John Glover</Name>
+  <Role>Max Brodsky</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>313196</id>
+  <Image></Image>
+  <Name>Bruce Greenwood</Name>
+  <Role>Helmut von Schraeder</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+</Actors>

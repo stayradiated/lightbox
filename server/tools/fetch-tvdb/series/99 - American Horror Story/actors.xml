@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Actors>
+<Actor>
+  <id>339265</id>
+  <Image>actors/339265.jpg</Image>
+  <Name>Evan Peters (Season 4)</Name>
+  <Role>Jimmy Darling</Role>
+  <SortOrder>0</SortOrder>
+</Actor>
+<Actor>
+  <id>339264</id>
+  <Image>actors/339264.jpg</Image>
+  <Name>Sarah Paulson  (Season 4)</Name>
+  <Role>Bette and Dot Tattler </Role>
+  <SortOrder>0</SortOrder>
+</Actor>
+<Actor>
+  <id>339263</id>
+  <Image>actors/339263.jpg</Image>
+  <Name>Jessica Lange  (Season 4)</Name>
+  <Role>Elsa Mars</Role>
+  <SortOrder>0</SortOrder>
+</Actor>
+<Actor>
+  <id>339268</id>
+  <Image>actors/339268.jpg</Image>
+  <Name>Kathy Bates (Season 4)</Name>
+  <Role>Ethel Darling</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>339267</id>
+  <Image>actors/339267.jpg</Image>
+  <Name>Michael Chiklis</Name>
+  <Role>Dell Toledo</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>339266</id>
+  <Image>actors/339266.jpg</Image>
+  <Name>Emma Roberts (Season 4)</Name>
+  <Role>Maggie Esmerelda</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>339262</id>
+  <Image>actors/339262.jpg</Image>
+  <Name>Angela Bassett (Season 4)</Name>
+  <Role>Desiree Dupree</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>339260</id>
+  <Image>actors/339260.jpg</Image>
+  <Name>Finn Wittrock </Name>
+  <Role>Dandy Mott</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>293411</id>
+  <Image>actors/293411.jpg</Image>
+  <Name>Frances Conroy (Season 4)</Name>
+  <Role>Gloria Mott</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>289348</id>
+  <Image>actors/289348.jpg</Image>
+  <Name>Denis O'Hare (Season 4)</Name>
+  <Role>Stanley</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>343098</id>
+  <Image>actors/343098.jpg</Image>
+  <Name>Jamie Brewer (Season 4)</Name>
+  <Role>Marjorie</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>342612</id>
+  <Image>actors/342612.jpg</Image>
+  <Name>Neil Patrick Harris</Name>
+  <Role>Chester Creb</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>339294</id>
+  <Image>actors/339294.jpg</Image>
+  <Name>Gabourey Sidibe (Season 4)</Name>
+  <Role>Regina Ross</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>339293</id>
+  <Image>actors/339293.jpg</Image>
+  <Name>John Carroll Lynch</Name>
+  <Role>Twisty the Clown</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>339292</id>
+  <Image>actors/339292.jpg</Image>
+  <Name>Rose Siggins</Name>
+  <Role>Legless Suzi</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>339291</id>
+  <Image>actors/339291.jpg</Image>
+  <Name>Patti LaBelle</Name>
+  <Role>Dora Brown</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>339290</id>
+  <Image>actors/339290.jpg</Image>
+  <Name>Skyler Samuels</Name>
+  <Role>Bonnie Lipton</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>339289</id>
+  <Image>actors/339289.jpg</Image>
+  <Name>Wes Bentley</Name>
+  <Role>Edward Mordrake</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>339288</id>
+  <Image>actors/339288.jpg</Image>
+  <Name>Jyoti Amge</Name>
+  <Role>Ma Petite</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>339287</id>
+  <Image>actors/339287.jpg</Image>
+  <Name>Erika Ervin</Name>
+  <Role>Amazon Eve</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>339286</id>
+  <Image>actors/339286.jpg</Image>
+  <Name>Mat Fraser</Name>
+  <Role>Paul the Illustrated Seal</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>343088</id>
+  <Image>actors/343088.jpg</Image>
+  <Name>Evan Peters  (Season 3)</Name>
+  <Role>Kyle Spencer</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>339285</id>
+  <Image>actors/339285.jpg</Image>
+  <Name>Dylan McDermott</Name>
+  <Role>Johnny Morgan</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>339284</id>
+  <Image>actors/339284.jpg</Image>
+  <Name>Sarah Paulson</Name>
+  <Role>Billie Dean Howard</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>339283</id>
+  <Image>actors/339283.jpg</Image>
+  <Name>Jamie Brewer</Name>
+  <Role>Adelaide Langdon</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>339282</id>
+  <Image>actors/339282.jpg</Image>
+  <Name>Denis O'Hare</Name>
+  <Role>Larry Harvey</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>339281</id>
+  <Image>actors/339281.jpg</Image>
+  <Name>Lily Rabe (Season 3)</Name>
+  <Role>Misty Day</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>339280</id>
+  <Image>actors/339280.jpg</Image>
+  <Name>Lily Rabe</Name>
+  <Role>Nora Montgomery</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>339279</id>
+  <Image>actors/339279.jpg</Image>
+  <Name>Frances Hardman Conroy</Name>
+  <Role>Moira O'Hara</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>339278</id>
+  <Image>actors/339278.jpg</Image>
+  <Name>Frances Conroy (Season 3)</Name>
+  <Role>Shachath</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>339277</id>
+  <Image>actors/339277.jpg</Image>
+  <Name>Sarah Paulson (Season 3)</Name>
+  <Role>Cordelia Foxx</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>339276</id>
+  <Image>actors/339276.jpg</Image>
+  <Name>Danny Huston</Name>
+  <Role>The Axeman</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>339275</id>
+  <Image>actors/339275.jpg</Image>
+  <Name>Denis O'Hare (Season 3)</Name>
+  <Role>Spalding</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>339274</id>
+  <Image>actors/339274.jpg</Image>
+  <Name>Frances Conroy (Season 3)</Name>
+  <Role>Myrtle Snow</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>339272</id>
+  <Image>actors/339272.jpg</Image>
+  <Name>Jessica Lange (Season 3)</Name>
+  <Role>Fiona Goode</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>339270</id>
+  <Image>actors/339270.jpg</Image>
+  <Name>Taissa Farmiga (Season 3)</Name>
+  <Role>Zoe Benson</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>324325</id>
+  <Image>actors/324325.jpg</Image>
+  <Name>Alexander Dreymon</Name>
+  <Role>Luke Ramsey</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>324324</id>
+  <Image>actors/324324.jpg</Image>
+  <Name>Patti LuPone</Name>
+  <Role>Joan Ramsey</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>324323</id>
+  <Image>actors/324323.jpg</Image>
+  <Name>Teddy Sears</Name>
+  <Role>Patrick</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>324322</id>
+  <Image>actors/324322.jpg</Image>
+  <Name>Riley Schmidt</Name>
+  <Role>Rubber Man</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>324321</id>
+  <Image>actors/324321.jpg</Image>
+  <Name>Jenna Dewan-Tatum</Name>
+  <Role>Teresa Morrison</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>324318</id>
+  <Image>actors/324318.jpg</Image>
+  <Name>Morris Chestnut</Name>
+  <Role>Luke</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>324317</id>
+  <Image>actors/324317.jpg</Image>
+  <Name>Britne Oldford</Name>
+  <Role>Alma Walker</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>324315</id>
+  <Image>actors/324315.jpg</Image>
+  <Name>Matt Ross</Name>
+  <Role>Charles Montgomery</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>324314</id>
+  <Image>actors/324314.jpg</Image>
+  <Name>Naomi Grossman</Name>
+  <Role>Pepper</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>324313</id>
+  <Image>actors/324313.jpg</Image>
+  <Name>Josh Hamilton</Name>
+  <Role>Hank Foxx</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>324311</id>
+  <Image>actors/324311.jpg</Image>
+  <Name>Kate Mara</Name>
+  <Role>Hayden McClaine</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>324310</id>
+  <Image>actors/324310.jpg</Image>
+  <Name>Gabourey Sidibe (Season 3)</Name>
+  <Role>Queenie</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>324309</id>
+  <Image>actors/324309.jpg</Image>
+  <Name>Angela Bassett (Season 3)</Name>
+  <Role>Marie Laveau</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>324308</id>
+  <Image>actors/324308.jpg</Image>
+  <Name>Kathy Bates (Season 3)</Name>
+  <Role>Marie Delphine LaLaurie</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>324307</id>
+  <Image>actors/324307.jpg</Image>
+  <Name>Jamie Brewer (Season 3)</Name>
+  <Role>Nan</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>320115</id>
+  <Image>actors/320115.jpg</Image>
+  <Name>Emma Roberts (Season 3)</Name>
+  <Role>Madison Montgomery</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>304177</id>
+  <Image>actors/304177.jpg</Image>
+  <Name>Clea Duvall</Name>
+  <Role>Wendy Peyser</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>304176</id>
+  <Image>actors/304176.jpg</Image>
+  <Name>Adam Levine</Name>
+  <Role>Leo Morrison </Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>304175</id>
+  <Image>actors/304175.jpg</Image>
+  <Name>Chloë Sevigny</Name>
+  <Role>Shelley</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>304174</id>
+  <Image>actors/304174.jpg</Image>
+  <Name>Joseph Fiennes</Name>
+  <Role>Monsignor Timothy Howard</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>304173</id>
+  <Image>actors/304173.jpg</Image>
+  <Name>Lizzie Brocheré</Name>
+  <Role>Grace Bertrand</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>304172</id>
+  <Image>actors/304172.jpg</Image>
+  <Name>Zachary Quinto (Season 2)</Name>
+  <Role>Dr. Oliver Thredson</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>304170</id>
+  <Image>actors/304170.jpg</Image>
+  <Name>Lily Rabe (Season 2)</Name>
+  <Role>Sister Mary Eunice McKee</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>304169</id>
+  <Image>actors/304169.jpg</Image>
+  <Name>Evan Peters (Season 2)</Name>
+  <Role>Kit Walker</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>304168</id>
+  <Image>actors/304168.jpg</Image>
+  <Name>Sarah Paulson (Season 2)</Name>
+  <Role>Lana Winters</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>304167</id>
+  <Image>actors/304167.jpg</Image>
+  <Name>James Cromwell</Name>
+  <Role>Dr. Arthur Arden</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>304166</id>
+  <Image>actors/304166.jpg</Image>
+  <Name>Jessica Lange (Season 2)</Name>
+  <Role>Sister Jude Martin</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>293412</id>
+  <Image>actors/293412.jpg</Image>
+  <Name>Alexandra Breckenridge</Name>
+  <Role>Moira O'Hara</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>293410</id>
+  <Image>actors/293410.jpg</Image>
+  <Name>Connie Britton</Name>
+  <Role>Vivien Harmon</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>293409</id>
+  <Image>actors/293409.jpg</Image>
+  <Name>Dylan McDermott</Name>
+  <Role>Ben Harmon</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>293408</id>
+  <Image>actors/293408.jpg</Image>
+  <Name>Jessica Lange</Name>
+  <Role>Constance Langdon</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>293274</id>
+  <Image>actors/293274.jpg</Image>
+  <Name>Zachary Quinto</Name>
+  <Role>Chad Warwick</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>289349</id>
+  <Image>actors/289349.jpg</Image>
+  <Name>Evan Peters</Name>
+  <Role>Tate Langdon</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>289346</id>
+  <Image>actors/289346.jpg</Image>
+  <Name>Taissa Farmiga</Name>
+  <Role>Violet Harmon</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+</Actors>

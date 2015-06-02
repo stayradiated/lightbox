@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Actors>
+<Actor>
+  <id>319703</id>
+  <Image>actors/319703.jpg</Image>
+  <Name>Claire Danes</Name>
+  <Role>Carrie Mathison</Role>
+  <SortOrder>0</SortOrder>
+</Actor>
+<Actor>
+  <id>319706</id>
+  <Image>actors/319706.jpg</Image>
+  <Name>Damian Lewis</Name>
+  <Role>Nicholas Brody</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>319704</id>
+  <Image>actors/319704.jpg</Image>
+  <Name>Mandy Patinkin</Name>
+  <Role>Saul Berenson</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>341359</id>
+  <Image>actors/341359.jpg</Image>
+  <Name>Numan Acar</Name>
+  <Role>Haissam Haqqani</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>339723</id>
+  <Image>actors/339723.jpg</Image>
+  <Name>Nimrat Kaur</Name>
+  <Role>Tasneem Qureshi</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>339722</id>
+  <Image>actors/339722.jpg</Image>
+  <Name>Suraj Sharma</Name>
+  <Role>Aayan Ibrahim</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>339721</id>
+  <Image>actors/339721.jpg</Image>
+  <Name>Laila Robins</Name>
+  <Role>Martha Boyd</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>339720</id>
+  <Image>actors/339720.jpg</Image>
+  <Name>Sarita Choudhury</Name>
+  <Role>Mira Berenson</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>339719</id>
+  <Image>actors/339719.jpg</Image>
+  <Name>Tracy Letts</Name>
+  <Role> Senator Andrew Lockhart</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>339718</id>
+  <Image>actors/339718.jpg</Image>
+  <Name>F. Murray Abraham</Name>
+  <Role>Dar Adal</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>335557</id>
+  <Image>actors/335557.jpg</Image>
+  <Name>Nazanin Boniadi</Name>
+  <Role>Fara Sherazi</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>319950</id>
+  <Image>actors/319950.jpg</Image>
+  <Name>Rupert Friend</Name>
+  <Role>Peter Quinn</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>319949</id>
+  <Image>actors/319949.jpg</Image>
+  <Name>Jackson Pace</Name>
+  <Role>Chris Brody</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>319707</id>
+  <Image>actors/319707.jpg</Image>
+  <Name>Diego Klattenhoff</Name>
+  <Role>Mike Faber</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>319705</id>
+  <Image>actors/319705.jpg</Image>
+  <Name>David Harewood</Name>
+  <Role>David Estes</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>318686</id>
+  <Image>actors/318686.jpg</Image>
+  <Name>Morena Baccarin</Name>
+  <Role>Jessica Brody</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>289357</id>
+  <Image>actors/289357.jpg</Image>
+  <Name>Morgan Saylor</Name>
+  <Role>Dana Brody</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+</Actors>

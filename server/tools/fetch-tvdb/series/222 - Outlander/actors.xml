@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Actors>
+<Actor>
+  <id>334043</id>
+  <Image>actors/334043.jpg</Image>
+  <Name>Caitriona Balfe</Name>
+  <Role>Claire Randall</Role>
+  <SortOrder>0</SortOrder>
+</Actor>
+<Actor>
+  <id>334041</id>
+  <Image>actors/334041.jpg</Image>
+  <Name>Sam Heughan</Name>
+  <Role>Jamie Fraser</Role>
+  <SortOrder>0</SortOrder>
+</Actor>
+<Actor>
+  <id>334048</id>
+  <Image>actors/334048.jpg</Image>
+  <Name>Tobias Menzies</Name>
+  <Role>Frank Randall</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>334047</id>
+  <Image>actors/334047.jpg</Image>
+  <Name>Tobias Menzies</Name>
+  <Role>Jonathan Randall</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>334044</id>
+  <Image>actors/334044.jpg</Image>
+  <Name>Graham McTavish</Name>
+  <Role>Dougal MacKenzie</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>334053</id>
+  <Image>actors/334053.jpg</Image>
+  <Name>Stephen Martin Walters</Name>
+  <Role>Angus Mhor</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>334052</id>
+  <Image>actors/334052.jpg</Image>
+  <Name>Grant O'Rourke</Name>
+  <Role>Rupert MacKenzie</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>334051</id>
+  <Image>actors/334051.jpg</Image>
+  <Name>Duncan Lacroix</Name>
+  <Role>Murtagh Fitzgibbons Fraser</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>334050</id>
+  <Image>actors/334050.jpg</Image>
+  <Name>Nell Hudson</Name>
+  <Role>Laoghaire MacKenzie</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>334049</id>
+  <Image>actors/334049.jpg</Image>
+  <Name>Annette Badland</Name>
+  <Role>Mrs. Glenna Fitzgibbons</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>334045</id>
+  <Image>actors/334045.jpg</Image>
+  <Name>Lotte Verbeek</Name>
+  <Role>Geillis Duncan</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>324772</id>
+  <Image>actors/324772.jpg</Image>
+  <Name>Gary Lewis</Name>
+  <Role>Colum MacKenzie</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+</Actors>

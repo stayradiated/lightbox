@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Actors>
+<Actor>
+  <id>62995</id>
+  <Image>actors/62995.jpg</Image>
+  <Name>Michael Chiklis</Name>
+  <Role>Detective Vic Mackey</Role>
+  <SortOrder>0</SortOrder>
+</Actor>
+<Actor>
+  <id>62987</id>
+  <Image>actors/62987.jpg</Image>
+  <Name>Benito Martinez</Name>
+  <Role>Councilman David Aceveda</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>62988</id>
+  <Image>actors/62988.jpg</Image>
+  <Name>CCH Pounder</Name>
+  <Role>Detective Claudette Wyms</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>94641</id>
+  <Image>actors/94641.jpg</Image>
+  <Name>Brian J. White</Name>
+  <Role>Detective Tavon Garris</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>94621</id>
+  <Image>actors/94621.jpg</Image>
+  <Name>Anthony Anderson</Name>
+  <Role>Antwon Mitchell</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>78404</id>
+  <Image>actors/78404.jpg</Image>
+  <Name>Alex O'Loughlin</Name>
+  <Role>Detective Kevin Hiatt</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>78403</id>
+  <Image>actors/78403.jpg</Image>
+  <Name>David Marciano</Name>
+  <Role>Detective Steve Billings</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>78352</id>
+  <Image>actors/78352.jpg</Image>
+  <Name>Forest Whitaker</Name>
+  <Role>Lt. Jon Kavanaugh</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>78351</id>
+  <Image>actors/78351.jpg</Image>
+  <Name>Paula Garcés</Name>
+  <Role>Officer Tina Hanlon</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>62996</id>
+  <Image>actors/62996.jpg</Image>
+  <Name>Kenny Johnson</Name>
+  <Role>Detective Curtis 'Lemonhead' Lemansky</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>62994</id>
+  <Image>actors/62994.jpg</Image>
+  <Name>Cathy Cahlin Ryan</Name>
+  <Role>Corrine Mackey</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>62993</id>
+  <Image>actors/62993.jpg</Image>
+  <Name>David Rees Snell</Name>
+  <Role>Detective Ronnie Gardocki</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>62992</id>
+  <Image>actors/62992.jpg</Image>
+  <Name>Glenn Close</Name>
+  <Role>Captain Monica Rawling</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>62991</id>
+  <Image>actors/62991.jpg</Image>
+  <Name>Jay Karnes</Name>
+  <Role>Detective Holland 'Dutch' Wagenbach</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>62990</id>
+  <Image>actors/62990.jpg</Image>
+  <Name>Michael Jace</Name>
+  <Role>Officer Julien Lowe</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>62986</id>
+  <Image>actors/62986.jpg</Image>
+  <Name>Catherine Dent</Name>
+  <Role>Officer Danielle 'Danny' Sofer</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>62985</id>
+  <Image>actors/62985.jpg</Image>
+  <Name>Walton Goggins</Name>
+  <Role>Detective Shane Vendrell</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>94631</id>
+  <Image></Image>
+  <Name>Jamie Anne Allman</Name>
+  <Role>Connie Reisler</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+</Actors>

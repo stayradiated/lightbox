@@ -55,7 +55,7 @@ func main() {
 }
 
 func GetEverything() (xstream.SeriesList, error) {
-	seriesList, err := GetAllSeriesInCategory(ALL_TV)
+	seriesList, err := GetAllSeriesInCategory(ALL_KIDS)
 	if err != nil {
 		return nil, err
 	}

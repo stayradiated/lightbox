@@ -1,14 +1,24 @@
 package main
 
 import (
+	"compress/gzip"
 	"net/http"
 
+	"github.com/carbocation/interpose"
+	"github.com/carbocation/interpose/middleware"
 	"github.com/gorilla/mux"
 )
 
-func NewRouter(handlers *Handlers) *mux.Router {
-	r := mux.NewRouter()
-	api := r.PathPrefix("/api").Subrouter()
+func NewRouter(handlers *Handlers) *interpose.Middleware {
+
+	middle := interpose.New()
+
+	middle.Use(middleware.NegroniGzip(gzip.DefaultCompression))
+
+	router := mux.NewRouter()
+	middle.UseHandler(router)
+
+	api := router.PathPrefix("/api").Subrouter()
 
 	// load routes
 	for _, route := range GetRoutes(handlers) {
@@ -26,7 +36,7 @@ func NewRouter(handlers *Handlers) *mux.Router {
 
 	// serve client files (html, css, etc)
 	client := http.FileServer(http.Dir("../client/dist"))
-	r.PathPrefix("/").Handler(client)
+	router.PathPrefix("/").Handler(client)
 
-	return r
+	return middle
 }

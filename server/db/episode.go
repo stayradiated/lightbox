@@ -68,31 +68,34 @@ func (d *DB) SeasonEpisodes(seasonID int) ([]Episode, error) {
 
 	rows, err := d.DB.Query(`
 		select
-			id,
-			season_id,
-			media_id,
-			date_created,
-			date_published,
-			number,
-			title,
-			plot,
-			runtime,
-			first_aired,
-			year,
-			parental_rating,
-			parental_rating_reason,
-			director,
-			writer,
-			guest_stars,
-			rating,
-			rating_count,
-			image,
-			imdb,
-			tvdb
+			episodes.id,
+			episodes.season_id,
+			seasons.show_id,
+			episodes.media_id,
+			episodes.date_created,
+			episodes.date_published,
+			episodes.number,
+			episodes.title,
+			episodes.plot,
+			episodes.runtime,
+			episodes.first_aired,
+			episodes.year,
+			episodes.parental_rating,
+			episodes.parental_rating_reason,
+			episodes.director,
+			episodes.writer,
+			episodes.guest_stars,
+			episodes.rating,
+			episodes.rating_count,
+			episodes.image,
+			episodes.imdb,
+			episodes.tvdb
 		from
-			episodes
+			episodes,
+			seasons
 		where
-			season_id = (?)
+			episodes.season_id = seasons.id and
+			season_id = ?
 		order by
 			number
 	`, seasonID)
@@ -108,6 +111,7 @@ func (d *DB) SeasonEpisodes(seasonID int) ([]Episode, error) {
 		if err = rows.Scan(
 			&episode.ID,
 			&episode.SeasonID,
+			&episode.ShowID,
 			&episode.MediaID,
 			&episode.DateCreated,
 			&episode.DatePublished,

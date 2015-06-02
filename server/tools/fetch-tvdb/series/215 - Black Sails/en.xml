@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data><Series>
+  <id>262407</id>
+  <Actors>|Toby Stephens|Luke Arnold|Hannah New|Louise Barnes|Hakeem Kae-Kazim|Clara Paget|Toby Schmitz|Tom Hopper|Zach McGowan|Mark Ryan|Jessica Parker Kennedy|</Actors>
+  <Airs_DayOfWeek>Saturday</Airs_DayOfWeek>
+  <Airs_Time>9:00 PM</Airs_Time>
+  <ContentRating>TV-MA</ContentRating>
+  <FirstAired>2014-01-25</FirstAired>
+  <Genre>|Action|Adventure|Drama|</Genre>
+  <IMDB_ID>tt2375692</IMDB_ID>
+  <Language>en</Language>
+  <Network>Starz!</Network>
+  <NetworkID></NetworkID>
+  <Overview>The pirate adventure Black Sails centers on the tales of Captain Flint and his men and takes place twenty years prior to Robert Louis Stevenson’s classic “Treasure Island”. Flint, the most brilliant and most feared pirate captain of his day, takes on a fast-talking young addition to his crew who goes by the name John Silver. Threatened with extinction on all sides, they fight for the survival of New Providence Island, the most notorious criminal haven of its day – a debauched paradise teeming with pirates, prostitutes, thieves and fortune seekers, a place defined by both its enlightened ideals and its stunning brutality.</Overview>
+  <Rating>8.4</Rating>
+  <RatingCount>54</RatingCount>
+  <Runtime>55</Runtime>
+  <SeriesID>176817</SeriesID>
+  <SeriesName>Black Sails</SeriesName>
+  <Status>Continuing</Status>
+  <added>2012-09-14 10:40:09</added>
+  <addedBy>342784</addedBy>
+  <banner>graphical/262407-g.jpg</banner>
+  <fanart>fanart/original/262407-3.jpg</fanart>
+  <lastupdated>1432501493</lastupdated>
+  <poster>posters/262407-1.jpg</poster>
+  <tms_wanted_old>1</tms_wanted_old>
+  <zap2it_id>EP01741653</zap2it_id>
+</Series>
+<Episode>
+  <id>4762753</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Black Sails: An Inside Look</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2013-12-23</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>A cutthroat world of murderers, outcasts and thieves, the men and women of Black Sails are all hustling to survive. We give you an inside look at the incredible efforts made to bring the golden age of piracy to life.
+</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>3</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>1</airsbefore_episode>
+  <airsbefore_season>1</airsbefore_season>
+  <filename></filename>
+  <lastupdated>1423411078</lastupdated>
+  <seasonid>500837</seasonid>
+  <seriesid>262407</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4762752</id>
+  <Combined_episodenumber>1.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>1.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Neil Marshall</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>I.</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2014-01-25</FirstAired>
+  <GuestStars>Anthony Bishop</GuestStars>
+  <IMDB_ID>tt2392996</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Whilst facing threats on all sides, including a possible mutiny, Captain Flint hires a young sailor named John Silver, who hides his most precious possession. As the Royal Navy gets ever more powerful, Eleanor keeps order on New Providence.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>68</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Jonathan E. Steinberg|Robert Levine</Writer>
+  <absolute_number>1</absolute_number>
+  <filename>episodes/262407/4762752.jpg</filename>
+  <lastupdated>1423070137</lastupdated>
+  <seasonid>500853</seasonid>
+  <seriesid>262407</seriesid>
+  <thumb_added>2014-01-19 00:21:01</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4762756</id>
+  <Combined_episodenumber>2.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>2.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Sam Miller</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>II.</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2014-02-01</FirstAired>
+  <GuestStars>Anthony Bishop</GuestStars>
+  <IMDB_ID>tt2691182</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Flint discovers a thief amongst his crew. Eleanor must make a difficult decision. John hides with Max, inside a brothel.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>62</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Jonathan E. Steinberg|Robert Levine</Writer>
+  <absolute_number>2</absolute_number>
+  <filename>episodes/262407/4762756.jpg</filename>
+  <lastupdated>1428350207</lastupdated>
+  <seasonid>500853</seasonid>
+  <seriesid>262407</seriesid>
+  <thumb_added>2014-02-02 07:29:26</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4762757</id>
+  <Combined_episodenumber>3.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>3.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Neil Marshall</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>III.</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2014-02-08</FirstAired>
+  <GuestStars>Jeremy Crutchley|Patrick Lyster|Lawrence Joffe|Jannes Eiselen|Mark Elderkin|Neels Clasen|Quentin Krog</GuestStars>
+  <IMDB_ID>tt2751182</IMDB_ID>
+  <Language>en</Language>
+  <Overview>While Flint and Gates realise they need help to find the Urca d'Lima, John and Billy have to increase the crew's morale. Vane impresses Eleanor and Gates receives a promotion.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>45</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Jonathan E. Steinberg|Robert Levine</Writer>
+  <absolute_number>3</absolute_number>
+  <filename>episodes/262407/4762757.jpg</filename>
+  <lastupdated>1428350243</lastupdated>
+  <seasonid>500853</seasonid>
+  <seriesid>262407</seriesid>
+  <thumb_added>2014-02-06 09:07:38</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4762758</id>
+  <Combined_episodenumber>4.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>4.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Sam Miller</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>IV.</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2014-02-15</FirstAired>
+  <GuestStars>Jeremy Crutchley|Lawrence Joffe|Langley Kirkwood|Neels Clasen|Patrick Lyster|Mark Elderkin|Tony Caprari</GuestStars>
+  <IMDB_ID>tt2777746</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Captain Flint is warned about Billy. Vane encounters someone from his past. Eleanor asks her father for help. The crew of The Walrus suffer a disastrous undertaking.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>43</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Brad Kane</Writer>
+  <absolute_number>4</absolute_number>
+  <filename>episodes/262407/4762758.jpg</filename>
+  <lastupdated>1428350261</lastupdated>
+  <seasonid>500853</seasonid>
+  <seriesid>262407</seriesid>
+  <thumb_added>2014-02-09 09:55:55</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4762759</id>
+  <Combined_episodenumber>5.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>5.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Marc Munden</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>V.</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2014-02-22</FirstAired>
+  <GuestStars>Langley Kirkwood|Lawrence Joffe|Jannes Eiselen|Patrick Lyster|Karl Thaning</GuestStars>
+  <IMDB_ID>tt2806892</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Bonny confesses. Rackham makes a life-altering decision. Richard forces Eleanor's hand. A chess match is organized for Flint and the Walrus crew.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>47</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Doris Egan</Writer>
+  <absolute_number>5</absolute_number>
+  <filename>episodes/262407/4762759.jpg</filename>
+  <lastupdated>1428350276</lastupdated>
+  <seasonid>500853</seasonid>
+  <seriesid>262407</seriesid>
+  <thumb_added>2014-02-16 10:44:44</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4763600</id>
+  <Combined_episodenumber>6.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>6.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>T.J. Scott</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>VI.</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2014-03-01</FirstAired>
+  <GuestStars>Langley Kirkwood|Lawrence Joffe|Andre Jacobs|Patrick Lyster|Mark Elderkin|Karl Thaning|Neels Clasen</GuestStars>
+  <IMDB_ID>tt2843802</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Chasing the Andromache is a pricey endeavor. Eleanor needs help from Silver. Billy believes Gates should confront Flint. Bonny takes a stand. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>37</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Heather Bellson</Writer>
+  <absolute_number>6</absolute_number>
+  <filename>episodes/262407/4763600.jpg</filename>
+  <lastupdated>1428350290</lastupdated>
+  <seasonid>500853</seasonid>
+  <seriesid>262407</seriesid>
+  <thumb_added>2014-02-23 09:43:15</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4769878</id>
+  <Combined_episodenumber>7.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>7.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Marc Munden</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>VII.</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2014-03-08</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt2939430</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Flint comes clean with Gates. Randall's actions cause problems for Silver. Eleanor suffers a loss. Max helps Rackham. Vane faces his biggest challenge.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>39</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Michael Angeli</Writer>
+  <absolute_number>7</absolute_number>
+  <filename>episodes/262407/4769878.jpg</filename>
+  <lastupdated>1428350303</lastupdated>
+  <seasonid>500853</seasonid>
+  <seriesid>262407</seriesid>
+  <thumb_added>2014-03-02 15:43:31</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4769879</id>
+  <Combined_episodenumber>8.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>8.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>T.J. Scott</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>VIII.</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2014-03-15</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt2843830</IMDB_ID>
+  <Language>en</Language>
+  <Overview>The hunt for the Urca begins. Things change for Eleanor. Bonny and Rackham are haunted by their past sins. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>37</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Jonathan E. Steinberg|Robert Levine|</Writer>
+  <absolute_number>8</absolute_number>
+  <filename>episodes/262407/4769879.jpg</filename>
+  <lastupdated>1428350320</lastupdated>
+  <seasonid>500853</seasonid>
+  <seriesid>262407</seriesid>
+  <thumb_added>2014-03-09 20:50:57</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5008084</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Steve Boyum</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>IX.</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2015-01-24</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3324958</IMDB_ID>
+  <Language>en</Language>
+  <Overview>The Walrus crew is stranded, with an army of Spanish soldiers standing between them and the precious Urca gold. With their crimes against their brethren no longer a secret, Flint and Silver must join forces in a desperate bid for survival.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>13</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Jonathan E. Steinberg|Robert Levine</Writer>
+  <absolute_number>9</absolute_number>
+  <filename>episodes/262407/5008084.jpg</filename>
+  <lastupdated>1429631233</lastupdated>
+  <seasonid>598940</seasonid>
+  <seriesid>262407</seriesid>
+  <thumb_added>2015-01-18 14:53:26</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5111563</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Clark Johnson</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>X.</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2015-01-31</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3600856</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Flint gives Dufresne some advice. Silver must make himself indispensable. Eleanor is asked to depose a captain. Rackham gets ambitious.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>13</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Michael S. Chernuchin</Writer>
+  <absolute_number>10</absolute_number>
+  <filename>episodes/262407/5111563.jpg</filename>
+  <lastupdated>1429631224</lastupdated>
+  <seasonid>598940</seasonid>
+  <seriesid>262407</seriesid>
+  <thumb_added>2015-01-25 07:12:36</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5111566</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Stefan Schwartz</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>XI.</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2015-02-07</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3649822</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Flint returns to Nassau and encounters a dilemma; Eleanor turns to an unlikely source for help; Rackham works to restore his reputation; Vane gets an unexpected prize.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>13</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>11</absolute_number>
+  <filename>episodes/262407/5111566.jpg</filename>
+  <lastupdated>1429631271</lastupdated>
+  <seasonid>598940</seasonid>
+  <seriesid>262407</seriesid>
+  <thumb_added>2015-02-02 04:49:51</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5111568</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Clark Johnson</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>XII.</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2015-02-14</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3600858</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Flint threatens Vane. Eleanor chooses a side. Rackham learns what Max is capable of. Silver reunites with an old friend.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.2</Rating>
+  <RatingCount>9</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Jonathan E. Steinberg|Robert Levine</Writer>
+  <absolute_number>12</absolute_number>
+  <filename>episodes/262407/5111568.jpg</filename>
+  <lastupdated>1431334938</lastupdated>
+  <seasonid>598940</seasonid>
+  <seriesid>262407</seriesid>
+  <thumb_added>2015-02-09 02:46:39</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5111569</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Alik Sakharov</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>XIII.</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2015-02-21</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3540590</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Miranda embarks on a journey to save the island. Eleanor opens old wounds. Rackham sniffs around a big secret. Vane must take matters into his own hands.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>12</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Heather Bellson</Writer>
+  <absolute_number>13</absolute_number>
+  <filename>episodes/262407/5111569.jpg</filename>
+  <lastupdated>1431334964</lastupdated>
+  <seasonid>598940</seasonid>
+  <seriesid>262407</seriesid>
+  <thumb_added>2015-02-16 09:51:13</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5111570</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Michael Nankin</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>XIV.</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2015-02-28</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3540592</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Eleanor brokers a peace. Rackham learns the hard way. Flint breaks a promise. Bonny loses control.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>11</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>14</absolute_number>
+  <filename>episodes/262407/5111570.jpg</filename>
+  <lastupdated>1431334984</lastupdated>
+  <seasonid>598940</seasonid>
+  <seriesid>262407</seriesid>
+  <thumb_added>2015-02-22 08:03:53</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5111573</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Alik Sakharov</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>XV.</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2015-03-07</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3624274</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Max cleans up after a massacre. News from the outside world changes everything for Flint and Silver. Eleanor risks her life for the sake of her future. Bonny faces a crossroads. Dufresne pushes Billy to act.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>7</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>15</absolute_number>
+  <filename>episodes/262407/5111573.jpg</filename>
+  <lastupdated>1431335014</lastupdated>
+  <seasonid>598940</seasonid>
+  <seriesid>262407</seriesid>
+  <thumb_added>2015-03-02 01:15:26</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5111574</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Steve Boyum</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>XVI.</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2015-03-14</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3624276</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Flint and Miranda prepare for the worst. Silver has his eyes opened. Eleanor discovers Max's secret. Vane makes his move.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>9</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>16</absolute_number>
+  <filename>episodes/262407/5111574.jpg</filename>
+  <lastupdated>1431335041</lastupdated>
+  <seasonid>598940</seasonid>
+  <seriesid>262407</seriesid>
+  <thumb_added>2015-02-28 05:12:39</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5111575</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Lukas Ettlin</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>XVII.</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2015-03-21</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3687004</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Flint and Miranda come to grips with their past. Bonny makes clear her intentions to Rackham. Vane collects a huge prize. Eleanor issues a declaration of war.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.3</Rating>
+  <RatingCount>6</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Brad Kane</Writer>
+  <absolute_number>17</absolute_number>
+  <filename>episodes/262407/5111575.jpg</filename>
+  <lastupdated>1431335072</lastupdated>
+  <seasonid>598940</seasonid>
+  <seriesid>262407</seriesid>
+  <thumb_added>2015-03-21 09:12:38</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5112031</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Steve Boyum</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>XVIII.</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2015-03-28</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3708414</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Flint acquires an unlikely ally. Vane's crew seeks a sea change. Silver makes a sacrifice.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.3</Rating>
+  <RatingCount>4</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Heather Bellson</Writer>
+  <absolute_number>18</absolute_number>
+  <filename>episodes/262407/5112031.jpg</filename>
+  <lastupdated>1431335111</lastupdated>
+  <seasonid>598940</seasonid>
+  <seriesid>262407</seriesid>
+  <thumb_added>2015-03-23 04:42:07</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5211438</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>XIX.</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2016-01-01</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1431520909</lastupdated>
+  <seasonid>621538</seasonid>
+  <seriesid>262407</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+</Data>

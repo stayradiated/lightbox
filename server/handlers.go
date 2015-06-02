@@ -47,6 +47,17 @@ func (h Handlers) ReadShow(w http.ResponseWriter, r *http.Request) {
 	printJson(w, show)
 }
 
+// ReadCategories returns a list of all categories
+func (h Handlers) ReadCategories(w http.ResponseWriter, r *http.Request) {
+
+	categories, err := h.DB.Categories()
+	if err != nil {
+		fmt.Fprintln(w, err)
+	}
+
+	printJson(w, categories)
+}
+
 // ReadCategory returns a list of shows in a category
 func (h Handlers) ReadCategory(w http.ResponseWriter, r *http.Request) {
 

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Actors>
+<Actor>
+  <id>70088</id>
+  <Image>actors/70088.jpg</Image>
+  <Name>Jerry Seinfeld</Name>
+  <Role>Jerry Seinfeld</Role>
+  <SortOrder>0</SortOrder>
+</Actor>
+<Actor>
+  <id>70087</id>
+  <Image>actors/70087.jpg</Image>
+  <Name>Julia Louis-Dreyfus</Name>
+  <Role>Elaine Benes</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>70086</id>
+  <Image>actors/70086.jpg</Image>
+  <Name>Jason Alexander</Name>
+  <Role>George Costanza</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>70089</id>
+  <Image>actors/70089.jpg</Image>
+  <Name>Michael Richards</Name>
+  <Role>Cosmo Kramer</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>94241</id>
+  <Image>actors/94241.jpg</Image>
+  <Name>Liz Sheridan</Name>
+  <Role>Helen Seinfeld</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>94191</id>
+  <Image>actors/94191.jpg</Image>
+  <Name>Wayne Knight</Name>
+  <Role>Newman</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>197821</id>
+  <Image>actors/197821.jpg</Image>
+  <Name>Jerry Stiller</Name>
+  <Role>Frank Costanza</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>94251</id>
+  <Image></Image>
+  <Name>Barney Martin</Name>
+  <Role>Morty Seinfeld</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>94231</id>
+  <Image></Image>
+  <Name>Estelle Harris</Name>
+  <Role>Estelle Costanza</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>94211</id>
+  <Image></Image>
+  <Name>Heidi Swedberg</Name>
+  <Role>Susan Ross</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>94201</id>
+  <Image></Image>
+  <Name>Larry David</Name>
+  <Role>George Steinbrenner</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+</Actors>

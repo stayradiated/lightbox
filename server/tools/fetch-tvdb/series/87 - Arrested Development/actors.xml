@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Actors>
+<Actor>
+  <id>77737</id>
+  <Image>actors/77737.jpg</Image>
+  <Name>Jason Bateman</Name>
+  <Role>Michael Bluth</Role>
+  <SortOrder>0</SortOrder>
+</Actor>
+<Actor>
+  <id>77735</id>
+  <Image>actors/77735.jpg</Image>
+  <Name>Jeffrey Tambor</Name>
+  <Role>George Bluth Sr.|Oscar Bluth</Role>
+  <SortOrder>0</SortOrder>
+</Actor>
+<Actor>
+  <id>77738</id>
+  <Image>actors/77738.jpg</Image>
+  <Name>Michael Cera</Name>
+  <Role>George Michael Bluth</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>77742</id>
+  <Image>actors/77742.jpg</Image>
+  <Name>Jessica Walter</Name>
+  <Role>Lucille Bluth</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>77741</id>
+  <Image>actors/77741.jpg</Image>
+  <Name>David Cross</Name>
+  <Role>Tobias Fünke</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>77740</id>
+  <Image>actors/77740.jpg</Image>
+  <Name>Tony Hale</Name>
+  <Role>Byron &quot;Buster&quot; Bluth</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>77739</id>
+  <Image>actors/77739.jpg</Image>
+  <Name>Alia Shawkat</Name>
+  <Role>Maeby Fünke</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>77736</id>
+  <Image>actors/77736.jpg</Image>
+  <Name>Will Arnett</Name>
+  <Role>George Oscar &quot;G.O.B.&quot; Bluth II</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>15368</id>
+  <Image>actors/15368.jpg</Image>
+  <Name>Portia de Rossi</Name>
+  <Role>Lindsay Fünke</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+</Actors>

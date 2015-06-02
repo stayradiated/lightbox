@@ -1,12 +1,58 @@
 .route-season {
+  position: relative;
+
+  .title-container {
+    position: absolute;
+    top: 50 + 100px;
+    left: 0;
+    right: 0;
+    padding: 14px 40px 40px 30px;
+    margin-top: -10px;
+
+    h1 {
+      float: left;
+      max-width: 70%;
+      @extend %truncate;
+      margin: 0;
+      line-height: 1.5;
+      font-size: 30px;
+      font-weight: 400;
+    }
+    h2 {
+      float: right;
+      max-width: 30%;
+      @extend %truncate;
+      margin: 0;
+      line-height: 1.5;
+      font-size: 28px;
+      font-weight: 400;
+      color: lighten(#000, 20);
+    }
+  }
 
   .episodes {
+    position: absolute;
+    top: 50 + 100 + 60px;
+    left: 0;
+    right: 0;
+
+    @include cf();
+
+    background: linear-gradient(to bottom, rgba(#fff, 0.6) 0%, rgba(#fff, 0) 100%);
+    padding: 20px 0 50px 20px;
   }
 
   .episode {
     float: left;
 
-    width: 300px;
+    width: 250px;
+    margin: 10px;
+
+    text-decoration: none;
+
+    .poster {
+      @include poster(250px, 225/400);
+    }
 
     img {
       width: 100%;
@@ -15,6 +61,22 @@
 
     h3 {
       @extend %truncate;
+      color: #000;
+      margin: 0;
+      height: 21px;
+      line-height: 21px;
+      margin-top: 10px;
+      font-size: 16px;
+      font-weight: 500;
+    }
+
+    p {
+      @extend %truncate;
+      color: lighten(#000, 30);
+      margin: 0;
+      height: 20px;
+      line-height: 20px;
+      font-size: 13px;
     }
 
   }

@@ -1,0 +1,50 @@
+.show-list {
+  padding-top: 50px;
+
+  .show {
+
+    display: block;
+    float: left;
+
+    $width: 150px;
+
+    width: $width;
+    margin: 10px;
+
+    text-decoration: none;
+
+    .poster {
+      @include poster($width, 200 / 136);
+    }
+
+    h3 {
+      $height: 20px;
+
+      display: block;
+      height: $height;
+      line-height: $height;
+
+      @extend %truncate;
+
+      color: #000;
+      font-size: 13px;
+      font-weight: 500;
+      margin: 5px 0 0;
+    }
+
+    p {
+      $height: 20px;
+
+      display: block;
+      height: $height;
+      line-height: $height;
+
+      @extend %truncate;
+
+      font-size: 12px;
+      color: lighten(#000, 30);
+      margin: 0;
+    }
+
+  }
+}

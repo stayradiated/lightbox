@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Actors>
+<Actor>
+  <id>23935</id>
+  <Image>actors/23935.jpg</Image>
+  <Name>Patricia Arquette</Name>
+  <Role>Allison Dubois</Role>
+  <SortOrder>0</SortOrder>
+</Actor>
+<Actor>
+  <id>23936</id>
+  <Image>actors/23936.jpg</Image>
+  <Name>Jake Weber</Name>
+  <Role>Joe Dubois</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>23934</id>
+  <Image>actors/23934.jpg</Image>
+  <Name>Miguel Sandoval</Name>
+  <Role>District Attorney Devalos</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>78011</id>
+  <Image>actors/78011.jpg</Image>
+  <Name>Madison Carabello</Name>
+  <Role>Marie DuBois</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>78010</id>
+  <Image>actors/78010.jpg</Image>
+  <Name>David Cubitt</Name>
+  <Role>Detective Lee Scanlon</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>23937</id>
+  <Image>actors/23937.jpg</Image>
+  <Name>Maria Lark</Name>
+  <Role>Bridget Dubois</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>23933</id>
+  <Image>actors/23933.jpg</Image>
+  <Name>Sofia Vassilieva</Name>
+  <Role>Ariel Dubois</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+</Actors>

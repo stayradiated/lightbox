@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Actors>
+<Actor>
+  <id>70164</id>
+  <Image>actors/70164.jpg</Image>
+  <Name>Mark Harmon</Name>
+  <Role>Leroy Jethro Gibbs</Role>
+  <SortOrder>0</SortOrder>
+</Actor>
+<Actor>
+  <id>70160</id>
+  <Image>actors/70160.jpg</Image>
+  <Name>Michael Weatherly</Name>
+  <Role>Anthony &quot;Tony&quot; DiNozzo</Role>
+  <SortOrder>0</SortOrder>
+</Actor>
+<Actor>
+  <id>70161</id>
+  <Image>actors/70161.jpg</Image>
+  <Name>Pauley Perrette</Name>
+  <Role>Abigail &quot;Abby&quot; Sciuto</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>70159</id>
+  <Image>actors/70159.jpg</Image>
+  <Name>David McCallum</Name>
+  <Role>Donald &quot;Ducky&quot; Mallard</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>321201</id>
+  <Image>actors/321201.jpg</Image>
+  <Name>Emily Wickersham</Name>
+  <Role>Eleanor “Ellie” Bishop</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>70165</id>
+  <Image>actors/70165.jpg</Image>
+  <Name>Cote de Pablo</Name>
+  <Role>Ziva David</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>70163</id>
+  <Image>actors/70163.jpg</Image>
+  <Name>Sean Murray</Name>
+  <Role>Timothy &quot;Tim&quot; McGee</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>219761</id>
+  <Image>actors/219761.jpg</Image>
+  <Name>Brian Dietzen</Name>
+  <Role>Jimmy Palmer</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>127861</id>
+  <Image>actors/127861.jpg</Image>
+  <Name>Rocky Carroll</Name>
+  <Role>Leon Vance</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>77850</id>
+  <Image>actors/77850.jpg</Image>
+  <Name>Lauren Holly</Name>
+  <Role>Jennifer &quot;Jenny&quot; Shepard</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>70162</id>
+  <Image>actors/70162.jpg</Image>
+  <Name>Sasha Alexander</Name>
+  <Role>Caitlin &quot;Kate&quot; Todd</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+</Actors>

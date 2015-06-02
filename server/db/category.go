@@ -1,9 +1,42 @@
 package db
 
+func (d *DB) Categories() ([]Category, error) {
+
+	rows, err := d.DB.Query(`
+		select
+			categories.id,
+			categories.name
+		from
+			categories
+		order by
+			categories.name
+	`)
+
+	if err != nil {
+		return nil, err
+	}
+
+	categories := make([]Category, 0)
+
+	for rows.Next() {
+		var category Category
+		if err := rows.Scan(
+			&category.ID,
+			&category.Name,
+		); err != nil {
+			return nil, err
+		}
+		categories = append(categories, category)
+	}
+
+	return categories, nil
+}
+
 func (d *DB) ShowCategories(showID int) ([]Category, error) {
 
 	rows, err := d.DB.Query(`
 		select
+			categories.id,
 			categories.name
 		from
 			categories,
@@ -13,6 +46,8 @@ func (d *DB) ShowCategories(showID int) ([]Category, error) {
 			categories.id = show_categories.category_id and
 			shows.id = show_categories.show_id and
 			shows.id = ?
+		order by
+			categories.name
 	`, showID)
 
 	if err != nil {
@@ -22,11 +57,14 @@ func (d *DB) ShowCategories(showID int) ([]Category, error) {
 	categories := make([]Category, 0)
 
 	for rows.Next() {
-		var category string
-		if err := rows.Scan(&category); err != nil {
+		var category Category
+		if err := rows.Scan(
+			&category.ID,
+			&category.Name,
+		); err != nil {
 			return nil, err
 		}
-		categories = append(categories, Category(category))
+		categories = append(categories, category)
 	}
 
 	return categories, nil

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Actors>
+<Actor>
+  <id>341852</id>
+  <Image>actors/341852.jpg</Image>
+  <Name>Mark Rylance</Name>
+  <Role>Thomas Cromwell</Role>
+  <SortOrder>0</SortOrder>
+</Actor>
+<Actor>
+  <id>341851</id>
+  <Image>actors/341851.jpg</Image>
+  <Name>Damian Lewis</Name>
+  <Role>King Henry VIII</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>341854</id>
+  <Image>actors/341854.jpg</Image>
+  <Name>Claire Foy</Name>
+  <Role>Anne Boleyn</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>342490</id>
+  <Image>actors/342490.jpg</Image>
+  <Name>Bernard Hill</Name>
+  <Role>Duke of Norfolk</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>342489</id>
+  <Image>actors/342489.jpg</Image>
+  <Name>Anton Lesser</Name>
+  <Role>Thomas More</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>341988</id>
+  <Image>actors/341988.jpg</Image>
+  <Name>Kate Phillips</Name>
+  <Role>Jane Seymour</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>341986</id>
+  <Image>actors/341986.jpg</Image>
+  <Name>Joanne Whalley</Name>
+  <Role>Catherine of Aragon</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>341985</id>
+  <Image>actors/341985.jpg</Image>
+  <Name>Charity Wakefield</Name>
+  <Role>Mary Boleyn</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>341983</id>
+  <Image>actors/341983.jpg</Image>
+  <Name>Jessica Raine</Name>
+  <Role>Jane Rochford</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>341982</id>
+  <Image>actors/341982.jpg</Image>
+  <Name>Jonathan Pryce</Name>
+  <Role>Cardinal Wolsey</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>341979</id>
+  <Image>actors/341979.jpg</Image>
+  <Name>Mark Gatiss</Name>
+  <Role>Stephen Gardiner</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+</Actors>

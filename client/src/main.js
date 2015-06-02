@@ -8,12 +8,13 @@ var Lightbox = require('./modules/lightbox');
 
 var { Route, DefaultRoute, NotFoundRoute } = Router;
 
-var App     = require('./components/app/main.react');
-var Show    = require('./components/show/main.react');
-var Shows   = require('./components/shows/main.react');
-var Fanart  = require('./components/fanart/main.react');
-var Season  = require('./components/season/main.react');
-var Episode = require('./components/episode/main.react');
+var App       = require('./components/app/');
+var Show      = require('./components/show/');
+var Shows     = require('./components/shows/');
+var Fanart    = require('./components/fanart/');
+var Season    = require('./components/season/');
+var Episode   = require('./components/episode/');
+var WatchList = require('./components/watchlist/');
 
 require('./style/index.scss');
 
@@ -21,7 +22,15 @@ require('./style/index.scss');
 window.React = React;
 window.Lightbox = Lightbox;
 
-Lightbox.actions.searchShows();
+Lightbox.actions.fetchShows();
+Lightbox.actions.fetchCategories();
+
+flux.observe(
+  Lightbox.getters.watchlist,
+  function (items) {
+    localStorage.setItem('watchlist', JSON.stringify(items.toJS()));
+  }
+);
 
 var routes = (
   <Route path='/' handler={App}>
@@ -31,22 +40,46 @@ var routes = (
 
     <Route name='shows' path='shows' handler={Shows} />
     <Route name='search' path='search/:query' handler={Shows} />
-    <Route name='category' path='category/:category' handler={Shows} />
+    <Route name='category' path='category/:categoryID' handler={Shows} />
+
+    <Route name='watchlist' path='watchlist' handler={WatchList} />
 
     <Route name='fanart' handler={Fanart}>
-      <Route name='show' path='/shows/:showID' handler={Show} />
-      <Route name='season' path='/season/:seasonID' handler={Season} />
-      <Route name='episode' path='/episode/:episodeID' handler={Episode} />
+      <Route name='show' path='/show/:showID' handler={Show} />
+      <Route name='season' path='/show/:showID/season/:seasonID' handler={Season} />
+      <Route name='episode' path='/show/:showID/season/:seasonID/episode/:episodeID' handler={Episode} />
     </Route>
 
     <Route name='player' path='playing' handler={Shows} />
     <Route name='activity' path='activity' handler={Shows} />
     <Route name='top' path='top-charts' handler={Shows} />
     <Route name='new' path='new-releases' handler={Shows} />
-    <Route name='watchlist' path='watchlist' handler={Shows} />
   </Route>
 );
 
 Router.run(routes, Router.HashLocation, (Root, state) => {
+
+  var params = state.params;
+
+  if (params.hasOwnProperty('showID')) {
+    Lightbox.actions.fetchShow(params.showID);
+  }
+
+  if (params.hasOwnProperty('seasonID')) {
+    Lightbox.actions.fetchSeason(params.seasonID);
+  }
+
+  if (params.hasOwnProperty('episodeID')) {
+    Lightbox.actions.fetchEpisode(params.episodeID);
+  }
+
+  if (params.hasOwnProperty('query')) { 
+    Lightbox.actions.fetchShows(params.query);
+  }
+
+  if (params.hasOwnProperty('categoryID')) {
+    Lightbox.actions.fetchCategories(params.categoryID);
+  }
+
   React.render(<Root />, document.getElementById('react'));
 });

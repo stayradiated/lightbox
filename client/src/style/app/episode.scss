@@ -1,21 +1,115 @@
 .route-episode {
 
-  .poster {
-    $width: 400px;
-    $height: $width * 225 / 400;
+  .contents {
+    position: relative
+  }
 
-    position: relative;
-    float: left;
+  .title-container {
+    position: absolute;
+    top: 50 + 100px;
+    left: 0;
+    right: 0;
+    padding: 14px 40px 40px 370px;
 
-    background-position: center;
-    background-size: cover;
+    h1 {
+      float: left;
+      max-width: 70%;
+      @extend %truncate;
+      margin: 0;
+      line-height: 1.5;
+      font-size: 30px;
+      font-weight: 400;
+      margin-top: -50px;
+    }
+    h2 {
+      float: left;
+      max-width: 70%;
+      @extend %truncate;
+      margin: 0;
+      line-height: 1.5;
+      font-size: 30px;
+      font-weight: 400;
+    }
+    h3 {
+      float: right;
+      max-width: 30%;
+      @extend %truncate;
+      margin: 0;
+      line-height: 1.5;
+      font-size: 28px;
+      font-weight: 400;
+      color: lighten(#000, 20);
+    }
+    
+  }
 
-    width: $width;
-    height: $height;
+  .metadata-container {
+    position: absolute;
+    top: 50 + 100 + 60px;
+    right: 0;
+    left: 0;
+    min-height: 80%;
+    padding: 14px 40px 40px 370px;
 
-    box-shadow:
-    inset 0 0 0 1px rgba(#000, 0.15),
-    0 1px 5px 0 rgba(#000, 0.10);
+    background: linear-gradient(to bottom, rgba(#fff, 0.6) 0%, rgba(#fff, 0) 100%);
+
+    .first-aired {
+      float: right;
+    }
+
+    .show-details {
+      min-height: 300px;
+      margin-bottom: 40px;
+    }
+
+    .runtime {
+      margin-right: 20px;
+    }
+
+    .rating {
+      display: inline-block;
+
+      span {
+        font-size: 20px;
+        margin-left: -5px;
+      }
+    }
+
+    .parental-rating {
+      margin-left: 20px;
+    }
+
+    .plot {
+      font-size: 15px;
+      line-height: 23px;
+    }
+
+    dl {
+      dt {
+        display: inline-block;
+        text-transform: uppercase;
+        font-size: 14px;
+        font-weight: 500;
+        color: lighten(#000, 30);
+      }
+      dd {
+        display: inline;
+        margin: 0 0 0 10px;
+      }
+    }
+  }
+
+  .poster-container {
+
+    position: absolute;
+    top: 50 + 40px;
+    left: 40px;
+
+    .poster {
+      position: relative;
+      @include poster(300px, 225/400);
+      float: left;
+    }
   }
 
 }

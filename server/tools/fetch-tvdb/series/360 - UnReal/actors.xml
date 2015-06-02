@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Actors>
+<Actor>
+  <id>348218</id>
+  <Image></Image>
+  <Name>Constance Zimmer</Name>
+  <Role>Quinn</Role>
+  <SortOrder>0</SortOrder>
+</Actor>
+<Actor>
+  <id>326022</id>
+  <Image></Image>
+  <Name>Shiri Appleby</Name>
+  <Role>Rachel</Role>
+  <SortOrder>0</SortOrder>
+</Actor>
+<Actor>
+  <id>326029</id>
+  <Image></Image>
+  <Name>Ashley Scott</Name>
+  <Role>Mary</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>326028</id>
+  <Image></Image>
+  <Name>Breeda Wool</Name>
+  <Role>Faith</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>326024</id>
+  <Image></Image>
+  <Name>Freddie Stroma</Name>
+  <Role>Adam</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>326027</id>
+  <Image></Image>
+  <Name>Johanna Braddy</Name>
+  <Role>Anna</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>326025</id>
+  <Image></Image>
+  <Name>Josh Kelly</Name>
+  <Role>Jeremy</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>326026</id>
+  <Image></Image>
+  <Name>Nathalie Kelley</Name>
+  <Role>Grace</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+</Actors>

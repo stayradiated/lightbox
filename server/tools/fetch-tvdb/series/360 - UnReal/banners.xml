@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Banners>
+<Banner>
+  <id>1055497</id>
+  <BannerPath>fanart/original/278264-1.jpg</BannerPath>
+  <BannerType>fanart</BannerType>
+  <BannerType2>1920x1080</BannerType2>
+  <Colors></Colors>
+  <Language>en</Language>
+  <Rating>10.0000</Rating>
+  <RatingCount>1</RatingCount>
+  <SeriesName>false</SeriesName>
+  <ThumbnailPath>_cache/fanart/original/278264-1.jpg</ThumbnailPath>
+  <VignettePath>fanart/vignette/278264-1.jpg</VignettePath>
+</Banner>
+<Banner>
+  <id>1064933</id>
+  <BannerPath>fanart/original/278264-3.jpg</BannerPath>
+  <BannerType>fanart</BannerType>
+  <BannerType2>1920x1080</BannerType2>
+  <Colors></Colors>
+  <Language>en</Language>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeriesName>true</SeriesName>
+  <ThumbnailPath>_cache/fanart/original/278264-3.jpg</ThumbnailPath>
+  <VignettePath>fanart/vignette/278264-3.jpg</VignettePath>
+</Banner>
+<Banner>
+  <id>1055498</id>
+  <BannerPath>fanart/original/278264-2.jpg</BannerPath>
+  <BannerType>fanart</BannerType>
+  <BannerType2>1920x1080</BannerType2>
+  <Colors></Colors>
+  <Language>en</Language>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeriesName>false</SeriesName>
+  <ThumbnailPath>_cache/fanart/original/278264-2.jpg</ThumbnailPath>
+  <VignettePath>fanart/vignette/278264-2.jpg</VignettePath>
+</Banner>
+<Banner>
+  <id>1069510</id>
+  <BannerPath>posters/278264-2.jpg</BannerPath>
+  <BannerType>poster</BannerType>
+  <BannerType2>680x1000</BannerType2>
+  <Language>en</Language>
+  <Rating>7.0000</Rating>
+  <RatingCount>9</RatingCount>
+</Banner>
+<Banner>
+  <id>1068950</id>
+  <BannerPath>posters/278264-1.jpg</BannerPath>
+  <BannerType>poster</BannerType>
+  <BannerType2>680x1000</BannerType2>
+  <Language>en</Language>
+  <Rating>6.4000</Rating>
+  <RatingCount>5</RatingCount>
+</Banner>
+<Banner>
+  <id>1077247</id>
+  <BannerPath>seasons/278264-1.jpg</BannerPath>
+  <BannerType>season</BannerType>
+  <BannerType2>season</BannerType2>
+  <Language>en</Language>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <Season>1</Season>
+</Banner>
+<Banner>
+  <id>1066452</id>
+  <BannerPath>graphical/278264-g.jpg</BannerPath>
+  <BannerType>series</BannerType>
+  <BannerType2>graphical</BannerType2>
+  <Language>en</Language>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+</Banner>
+</Banners>

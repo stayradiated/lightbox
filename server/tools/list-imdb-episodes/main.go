@@ -12,7 +12,7 @@ import (
 func main() {
 
 	db, err := sql.Open("mysql",
-		"lightbox:lightbox@tcp(192.168.1.100:3306)/lightbox")
+		"lightbox:lightbox@tcp(192.168.1.100:3306)/lightbox_backup")
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -28,6 +28,8 @@ func main() {
 		where
 			imdb_shows.lightbox_id = lb_seasons.series_id and
 			lb_seasons.id = lb_episodes.season_id
+		order by
+			lb_seasons.series_id
 	`)
 	if err != nil {
 		log.Fatal(err)

@@ -19,7 +19,7 @@ import (
 var getID = regexp.MustCompile(`^\d+`)
 
 func main() {
-	if err := ImportAllShows("../fetchtvdb/series"); err != nil {
+	if err := ImportAllShows("../fetch-tvdb/series"); err != nil {
 		panic(err)
 	}
 }

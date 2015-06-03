@@ -35,7 +35,7 @@ func NewRouter(handlers *Handlers) *interpose.Middleware {
 	}
 
 	// serve client files (html, css, etc)
-	client := http.FileServer(http.Dir("../client/dist"))
+	client := http.FileServer(http.Dir("../gh-pages"))
 	router.PathPrefix("/").Handler(client)
 
 	return middle

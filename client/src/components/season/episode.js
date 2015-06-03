@@ -21,7 +21,7 @@ var Episode = React.createClass({
         seasonID: episode.get('SeasonID'),
         episodeID: episode.get('ID'),
       }} className='episode'>
-        <Poster url={episode.get('Image')} />
+        <Poster id={episode.get('ID')} type='episodes' />
         <h3>{episode.get('Title')}</h3>
         <p>Episode {episode.get('Number')}</p>
       </Link>

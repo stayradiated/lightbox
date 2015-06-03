@@ -1,12 +1,9 @@
 .route-episode {
-
-  .contents {
-    position: relative
-  }
+  position: relative;
 
   .title-container {
     position: absolute;
-    top: 50 + 100px;
+    top: 90px;
     left: 0;
     right: 0;
     padding: 14px 40px 40px 370px;
@@ -19,7 +16,15 @@
       line-height: 1.5;
       font-size: 30px;
       font-weight: 400;
-      margin-top: -50px;
+      margin-top: -45px;
+
+      a {
+        text-decoration: none;
+        color: #000;
+        &:hover {
+          border-bottom: 1px solid #000;
+        }
+      }
     }
     h2 {
       float: left;
@@ -29,6 +34,7 @@
       line-height: 1.5;
       font-size: 30px;
       font-weight: 400;
+      color: lighten(#000, 30);
     }
     h3 {
       float: right;
@@ -38,20 +44,20 @@
       line-height: 1.5;
       font-size: 28px;
       font-weight: 400;
-      color: lighten(#000, 20);
+      color: lighten(#000, 30);
     }
     
   }
 
   .metadata-container {
     position: absolute;
-    top: 50 + 100 + 60px;
+    top: 100 + 60px;
     right: 0;
     left: 0;
     min-height: 80%;
-    padding: 14px 40px 40px 370px;
+    padding: 14px 40px 200px 370px;
 
-    background: linear-gradient(to bottom, rgba(#fff, 0.6) 0%, rgba(#fff, 0) 100%);
+    background: linear-gradient(to bottom, rgba(#fff, 0.8) 0%, rgba(#fff, 0) 100%);
 
     .first-aired {
       float: right;
@@ -80,8 +86,8 @@
     }
 
     .plot {
-      font-size: 15px;
-      line-height: 23px;
+      font-size: 16px;
+      line-height: 30px;
     }
 
     dl {
@@ -102,7 +108,7 @@
   .poster-container {
 
     position: absolute;
-    top: 50 + 40px;
+    top: 70px;
     left: 40px;
 
     .poster {

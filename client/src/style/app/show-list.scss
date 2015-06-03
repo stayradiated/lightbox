@@ -1,20 +1,20 @@
 .show-list {
-  padding-top: 50px;
 
   .show {
 
     display: block;
     float: left;
 
-    $width: 150px;
+    // $width: 119px;
+    $width: 187px;
 
     width: $width;
-    margin: 10px;
+    margin: 20px 0 0 20px;
 
     text-decoration: none;
 
     .poster {
-      @include poster($width, 200 / 136);
+      @include poster($width, 1000/680);
     }
 
     h3 {

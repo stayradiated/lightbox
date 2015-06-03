@@ -1,18 +1,16 @@
 .header {
 
-  $height: 50px;
-
   position: fixed;
   top: 0;
   left: 0;
   right: 0;
-
   z-index: 10;
 
-  height: 50px;
-  line-height: 50px;
+  outline: 1px solid rgba(#000, 0.2);
 
-  border-bottom: 1px solid rgba(#000, 0.07);
+  $height: 50px;
+  height: $height;
+  line-height: $height;
 
   background: #fff;
 
@@ -41,19 +39,17 @@
     }
   }
 
-  h2 {
+  .categories {
     float: left;
-    margin: 0 0 0 20px;
+    margin-left: 40px;
+  }
 
-    font-size: 24px;
-    font-weight: 400;
-
-    color: #28455D;
-
+  .profile {
+    float: right;
+    margin-right: 20px;
   }
 
   .search {
-
     float: right;
     margin-right: 20px;
 
@@ -63,7 +59,7 @@
       display: block;
       float: left;
 
-      width: 250px;
+      width: 200px;
 
       border-radius: $s_height;
       height: $s_height;
@@ -83,70 +79,43 @@
       font-style: italic;
       color: #3498db;
     }
-    
-    button {
-      float: right;
 
+    .icon {
       background: none;
       border: none;
       color: #3498db;
-      margin-left: -40px;
+      margin-left: -30px;
       outline: 0;
 
       &:hover {
         color: #333;
       }
     }
-
-
   }
 
-  .user-settings {
-    float: right;
-    position: relative;
-    margin-right: 10px;
+  .nav {
+    float: left;
 
-    button {
-      $b_height: 50px;
-
-      margin-top: ($height - $b_height) / 2;
-      height: $b_height;
-      line-height: $b_height;
-
-      background: none;
-      // border-radius: 4px;
-      outline: 0;
-      border: 0;
-
-      margin: 0;
-      font-size: 13px;
-      color: lighten(#000, 20);
-
-      &:hover {
-        background: #F5F5F5;
-      }
-      &:active {
-        background: #E6E6E6;
-      }
-    }
-
-    [class^=icon-] {
-      font-size: 10px;
+    > div {
+      float: left;
       margin: 0 10px;
-      color: #8C8C8C;
     }
 
-    &:hover {
-      .dropdown {
-        display: block;
+    .show {
+      a {
+        font-size: 14px;
+        color: lighten(#000, 30);
+        text-decoration: none;
+
+        display: inline-block;
+        @extend %truncate;
+        max-width: 200px;
+        vertical-align: top;
+
+        &:hover {
+          color: #000;
+        }
       }
     }
-
-    .dropdown {
-      @extend %dropdown;
-      right: 0;
-    }
-
   }
-
 }

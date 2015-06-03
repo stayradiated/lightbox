@@ -5,48 +5,44 @@ var flux = require('../../flux');
 var actionTypes = require('./action-types');
 var getters = require('./getters');
 
-const baseUrl = 'http://192.168.1.100:9000/api';
+const baseUrl = './api';
+const ext = '.json';
 
 exports.fetchShows = function () {
-  // flux.dispatch(actionTypes.SetShows, {});
   $.ajax({
-    url: baseUrl + '/shows',
+    url: baseUrl + '/shows' + ext,
   }).then(result => {
     flux.dispatch(actionTypes.SetShows, result);
   });
 };
 
 exports.fetchShow = function (id) {
-  // flux.dispatch(actionTypes.SetShow, {});
   $.ajax({
-    url: baseUrl + '/shows/' + id,
+    url: baseUrl + '/shows/' + id + ext,
   }).then(result => {
     flux.dispatch(actionTypes.SetShow, result);
   });
 };
 
 exports.fetchSeason = function (id) {
-  // flux.dispatch(actionTypes.SetSeason, {});
   $.ajax({
-    url: baseUrl + '/seasons/' + id,
+    url: baseUrl + '/seasons/' + id + ext,
   }).then(result => {
     flux.dispatch(actionTypes.SetSeason, result);
   });
 };
 
 exports.fetchCategory = function (id) {
-  // flux.dispatch(actionTypes.SetShows, []);
   $.ajax({
-    url: baseUrl + '/categories/' + id,
+    url: baseUrl + '/categories/' + id + ext,
   }).then(result => {
     flux.dispatch(actionTypes.SetShows, result);
   });
 };
 
 exports.fetchEpisode = function (id) {
-  // flux.dispatch(actionTypes.SetEpisode, {});
   $.ajax({
-    url: baseUrl + '/episodes/' + id,
+    url: baseUrl + '/episodes/' + id + ext,
   }).then(result => {
     flux.dispatch(actionTypes.SetEpisode, result);
   });
@@ -54,7 +50,7 @@ exports.fetchEpisode = function (id) {
 
 exports.fetchCategories = function () {
   $.ajax({
-    url: baseUrl + '/categories',
+    url: baseUrl + '/categories' + ext,
   }).then(result => {
     flux.dispatch(actionTypes.SetCategories, result);
   });
@@ -62,4 +58,12 @@ exports.fetchCategories = function () {
 
 exports.bookmarkShow = function (showID) {
   flux.dispatch(actionTypes.BookmarkShow, showID);
+};
+
+exports.unbookmarkShow = function (showID) {
+  flux.dispatch(actionTypes.UnbookmarkShow, showID);
+};
+
+exports.setWatchlist = function (data) {
+  flux.dispatch(actionTypes.SetWatchlist, data);
 };

@@ -8,22 +8,32 @@ var Lightbox = require('./modules/lightbox');
 
 var { Route, DefaultRoute, NotFoundRoute } = Router;
 
-var App       = require('./components/app/');
-var Show      = require('./components/show/');
-var Shows     = require('./components/shows/');
-var Fanart    = require('./components/fanart/');
-var Season    = require('./components/season/');
-var Episode   = require('./components/episode/');
-var WatchList = require('./components/watchlist/');
+var App         = require('./components/app/');
+var Show        = require('./components/show/');
+var Shows       = require('./components/shows/');
+var Fanart      = require('./components/fanart/');
+var Season      = require('./components/season/');
+var Player      = require('./components/player/');
+var Episode     = require('./components/episode/');
+var Activity    = require('./components/activity/');
+var TopCharts   = require('./components/top/');
+var WatchList   = require('./components/watchlist/');
+var NewReleases = require('./components/new/');
 
 require('./style/index.scss');
 
 // export for http://fb.me/react-devtools
 window.React = React;
 window.Lightbox = Lightbox;
+window.jQuery = $;
 
 Lightbox.actions.fetchShows();
 Lightbox.actions.fetchCategories();
+
+var watchlist = localStorage.getItem('watchlist');
+if (watchlist != null) {
+  Lightbox.actions.setWatchlist(JSON.parse(watchlist));
+}
 
 flux.observe(
   Lightbox.getters.watchlist,
@@ -43,6 +53,10 @@ var routes = (
     <Route name='category' path='category/:categoryID' handler={Shows} />
 
     <Route name='watchlist' path='watchlist' handler={WatchList} />
+    <Route name='new' path='new-releases' handler={NewReleases} />
+    <Route name='top' path='top-charts' handler={TopCharts} />
+    <Route name='player' path='playing' handler={Player} />
+    <Route name='activity' path='activity' handler={Activity} />
 
     <Route name='fanart' handler={Fanart}>
       <Route name='show' path='/show/:showID' handler={Show} />
@@ -50,14 +64,11 @@ var routes = (
       <Route name='episode' path='/show/:showID/season/:seasonID/episode/:episodeID' handler={Episode} />
     </Route>
 
-    <Route name='player' path='playing' handler={Shows} />
-    <Route name='activity' path='activity' handler={Shows} />
-    <Route name='top' path='top-charts' handler={Shows} />
-    <Route name='new' path='new-releases' handler={Shows} />
   </Route>
 );
 
 Router.run(routes, Router.HashLocation, (Root, state) => {
+  React.render(<Root />, document.getElementById('react'));
 
   var params = state.params;
 
@@ -78,8 +89,6 @@ Router.run(routes, Router.HashLocation, (Root, state) => {
   }
 
   if (params.hasOwnProperty('categoryID')) {
-    Lightbox.actions.fetchCategories(params.categoryID);
+    Lightbox.actions.fetchCategory(params.categoryID);
   }
-
-  React.render(<Root />, document.getElementById('react'));
 });

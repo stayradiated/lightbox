@@ -9,7 +9,25 @@ body {
   width: 100%;
 }
 
-.app > [class^="route-"] {
+.route-container {
   margin-left: 200px;
   margin-top: 50px;
+}
+
+.app-route-enter {
+  opacity: 0.01;
+  transition: opacity 0.3s ease-in;
+}
+
+.app-route-enter.app-route-enter-active {
+  opacity: 1;
+}
+
+.app-route-leave {
+  opacity: 1;
+  transition: opacity 0.3s ease-in;
+}
+
+.app-route-leave.app-route-leave-active {
+  opacity: 0.01;
 }

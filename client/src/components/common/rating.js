@@ -5,12 +5,17 @@ var React = require('react');
 var Rating = React.createClass({
 
   propTypes: {
-    rating: React.PropTypes.number.isRequired,
+    rating: React.PropTypes.number,
   },
 
   render() {
     var stars = [];
-    var rating = this.props.rating / 2;
+
+    var rating = 2.5;
+
+    if (this.props.rating != null) {
+      rating = this.props.rating / 2;
+    }
 
     var fullStars = Math.floor(rating);
     var halfStars = 0;
@@ -20,8 +25,6 @@ var Rating = React.createClass({
       halfStars += 1;
     }
     var emptyStars = 5 - fullStars - halfStars;
-
-    console.log(rating, fullStars, halfStars, emptyStars);
 
     var i;
     for (i = 0; i < fullStars; i += 1) {
@@ -41,7 +44,7 @@ var Rating = React.createClass({
     }
 
     return (
-      <div className='rating'>{stars}</div>
+      <span className='rating'>{stars}</span>
     );
   }
 

@@ -12,23 +12,23 @@ var Fanart = React.createClass({
 
 	getDataBindings() {
 		return {
-			fanart: Lightbox.getters.fanart,
+			show: Lightbox.getters.show,
 		};
 	},
 
 	render() {
-    var url = '';
+    var show = this.state.show;
 
-    if (this.state.fanart != null) {
-      url = 'url(' + this.state.fanart + ')';
+    var style = {};
+
+    if (show.has('ID')) {
+      style.backgroundImage = 'url(/images/fanart/large/' + show.get('ID') + '.jpg)';
     }
-
-    console.log('Rendering Fanart', url, this.state.fanart);
 
 		return (
 			<div className='route-fanart'>
         <RouteHandler />
-        <div className='background' style={{ backgroundImage: url }} />
+        <div className='background' style={style} />
 			</div>
 		);
 	}

@@ -15,27 +15,27 @@ func GetRoutes(h *Handlers) Routes {
 	return Routes{
 		Route{
 			"ReadShows",
-			"GET", "/shows", h.ReadShows,
+			"GET", "/shows.json", h.ReadShows,
 		},
 		Route{
 			"ReadShow",
-			"GET", "/shows/{show:[0-9]+}", h.ReadShow,
+			"GET", "/shows/{show:[0-9]+}.json", h.ReadShow,
 		},
 		Route{
 			"ReadSeason",
-			"GET", "/seasons/{season:[0-9]+}", h.ReadSeason,
+			"GET", "/seasons/{season:[0-9]+}.json", h.ReadSeason,
 		},
 		Route{
 			"ReadCategory",
-			"GET", "/categories/{category:[0-9]+}", h.ReadCategory,
+			"GET", "/categories/{category:[0-9]+}.json", h.ReadCategory,
 		},
 		Route{
 			"ReadCategories",
-			"GET", "/categories", h.ReadCategories,
+			"GET", "/categories.json", h.ReadCategories,
 		},
 		Route{
 			"ReadEpisode",
-			"GET", "/episodes/{episode:[0-9]+}", h.ReadEpisode,
+			"GET", "/episodes/{episode:[0-9]+}.json", h.ReadEpisode,
 		},
 	}
 }

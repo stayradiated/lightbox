@@ -3,7 +3,7 @@
 
   .title-container {
     position: absolute;
-    top: 50 + 100px;
+    top: 100px;
     left: 0;
     right: 0;
     padding: 14px 40px 40px 30px;
@@ -17,22 +17,32 @@
       line-height: 1.5;
       font-size: 30px;
       font-weight: 400;
+      margin-top: -45px;
+
+      a {
+        text-decoration: none;
+        color: #000;
+
+        &:hover {
+          border-bottom: 1px solid #000;
+        }
+      }
     }
     h2 {
-      float: right;
+      float: left;
       max-width: 30%;
       @extend %truncate;
       margin: 0;
       line-height: 1.5;
-      font-size: 28px;
+      font-size: 30px;
       font-weight: 400;
-      color: lighten(#000, 20);
+      color: lighten(#000, 30);
     }
   }
 
   .episodes {
     position: absolute;
-    top: 50 + 100 + 60px;
+    top: 100 + 60px;
     left: 0;
     right: 0;
 
@@ -51,7 +61,7 @@
     text-decoration: none;
 
     .poster {
-      @include poster(250px, 225/400);
+      @include poster(249px, 225/400);
     }
 
     img {

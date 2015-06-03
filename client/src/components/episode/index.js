@@ -2,18 +2,18 @@
 
 var React = require('react');
 var Router = require('react-router');
-var moment = require('moment');
+var XDate = require('xdate');
+var ImmutableRenderMixin = require('react-immutable-render-mixin');
 var { Link } = Router;
 
 var flux     = require('../../flux');
 var Lightbox = require('../../modules/lightbox');
 var Rating = require('../common/rating');
-var Header = require('../common/header/');
 var Poster = require('../common/poster/');
 var Runtime = require('../common/runtime');
 
 var Episode = React.createClass({
-  mixins: [flux.ReactMixin],
+  mixins: [flux.ReactMixin, ImmutableRenderMixin],
 
   getDataBindings() {
     return {
@@ -32,74 +32,74 @@ var Episode = React.createClass({
       return null;
     }
 
-    console.log(episode.toJS());
-
-    var playVideo =
-      "https://www.lightbox.co.nz/#/play-video/series/" + episode.get('ShowID') +
-      "/season/" + episode.get('SeasonID') + 
-      "/episode/" + episode.get('ID') + 
-      "/media/" + episode.get('MediaID');
-
-    var firstAired = moment(episode.get('FirstAired')).format("MMMM D, YYYY");
+    var firstAired = (new XDate(episode.get('FirstAired'))).toString("MMMM d, yyyy");
 
     return (
 
       <div className='route-episode'>
 
-        <Header show={show} season={season} episode={episode} />
-
-        <div className='contents'>
-
-          <div className='title-container'>
-            <h1>
-              <Link to='show' params={{showID: show.get('ID')}}>
-                {show.get('Title')}
-              </Link>
-            </h1>
-            <h2>{episode.get('Title')}</h2>
-            <h3>S{season.get('Number')} - E{episode.get('Number')}</h3>
-          </div>
-
-          <div className='metadata-container'>
-
-            <div className='first-aired'>
-              {firstAired}
-            </div>
-
-            <div className='labels'>
-              <div><Runtime runtime={episode.get('Runtime')} /></div>
-              <Rating rating={episode.get('Rating')} />
-              <div>{episode.get('ParentalRating')} - {episode.get('ParentalRatingReason')}</div>
-            </div>
-
-            <dl>
-              <dt>Director:</dt>
-              <dd>{episode.get('Director')}</dd>
-            </dl>
-
-            <dl>
-              <dt>Writer:</dt>
-              <dd>{episode.get('Writer')}</dd>
-            </dl>
-
-            <p><a target='_blank' href={playVideo}>Play Video</a></p>
-
-            <div className='plot'>
-              <p>{episode.get('Plot')}</p>
-            </div>
-          </div>
-
-          <div className='poster-container'>
-            <Poster url={episode.get('Image')} />
-          </div>
-
+        <div className='title-container'>
+          <h1>
+            <Link to='show' params={{showID: show.get('ID')}}>
+              {show.get('Title')}
+            </Link>
+          </h1>
+          <h2>{episode.get('Title')}</h2>
+          <h3>S{season.get('Number')} - E{episode.get('Number')}</h3>
         </div>
 
+        <div className='metadata-container'>
+
+          <div className='first-aired'>
+            {firstAired}
+          </div>
+
+          <div className='labels'>
+            <span><Runtime runtime={episode.get('Runtime')} /></span>
+            <Rating rating={episode.get('Rating')} />
+            <span title={episode.get('ParentalRatingReason')}>Rated {episode.get('ParentalRating')}</span>
+          </div>
+
+          <dl>
+            <dt>Director:</dt>
+            <dd>{episode.get('Director')}</dd>
+          </dl>
+
+          <dl>
+            <dt>Writer:</dt>
+            <dd>{episode.get('Writer')}</dd>
+          </dl>
+
+          <div className='plot'>
+            <p>{episode.get('Plot')}</p>
+          </div>
+        </div>
+
+        <div className='poster-container'>
+          <Poster
+            id={episode.get('ID')}
+            type='episodes'
+            size='small'
+            playOnly={true}
+            onPlay={this.onPlay}
+          />
+        </div>
 
       </div>
 
     );
+  },
 
+  onPlay() {
+    var episode = this.state.episode;
+
+    var link =
+      "https://www.lightbox.co.nz/#/play-video/series/" + episode.get('ShowID') +
+      "/season/" + episode.get('SeasonID') + 
+      "/episode/" + episode.get('ID') + 
+      "/media/" + episode.get('MediaID');
+
+    window.open(link);
   },
 
 });

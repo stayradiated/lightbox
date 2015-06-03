@@ -1,2 +1,5 @@
 /server/bin/*
 /client/node_modules
+/gh-pages/*.(eot|svg|woff|ttf|js|css)
+/gh-pages/api
+/gh-pages/images

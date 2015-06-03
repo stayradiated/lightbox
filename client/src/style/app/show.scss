@@ -1,12 +1,9 @@
 .route-show {
-
-  .contents {
-    position: relative;
-  }
+  position: relative;
 
   .title-container {
     position: absolute;
-    top: 50 + 100px;
+    top: 100px;
     left: 0;
     right: 0;
     padding: 14px 40px 40px 370px;
@@ -34,7 +31,7 @@
 
   .metadata-container {
     position: absolute;
-    top: 50 + 100 + 60px;
+    top: 100 + 60px;
     right: 0;
     left: 0;
     min-height: 80%;
@@ -108,12 +105,12 @@
   .poster-container {
 
     position: absolute;
-    top: 50 + 40px;
+    top: 40px;
     left: 40px;
 
     .poster {
       position: relative;
-      @include poster(300px, 200/136);
+      @include poster(300px, 1000/680);
       float: left;
     }
   }
@@ -131,7 +128,7 @@
     text-decoration: none;
 
     .poster {
-      @include poster(130px, 200/136);
+      @include poster(150px, 578/400);
     }
 
     h3 {

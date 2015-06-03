@@ -16,12 +16,17 @@ module.exports = new Nuclear.Store({
 
   initialize() {
     this.on(actionTypes.BookmarkShow, addShowToWatchlist);
+    this.on(actionTypes.UnbookmarkShow, removeShowFromWatchlist);
+    this.on(actionTypes.SetWatchlist, setWatchlist);
   },
 
 });
 
-function addShowToWatchlist(state, showID) {
+function setWatchlist(state, data) {
+  return Nuclear.toImmutable(data);
+}
 
+function addShowToWatchlist(state, showID) {
   var exists = state.some(item => {
     return item.get('ShowID') === showID;
   });
@@ -34,4 +39,10 @@ function addShowToWatchlist(state, showID) {
     'Date': Date.now(),
     'ShowID': showID,
   }));
+}
+
+function removeShowFromWatchlist(state, showID) {
+  return state.filter(item => {
+    return item.get('ID') !== showID;
+  });
 }

@@ -17,9 +17,14 @@ var Show = React.createClass({
   render() {
     var show = this.props.show;
 
+    if (! show.has('ID')) {
+      console.log('FOUND NULL SHOW');
+      return null;
+    }
+
     return (
       <Link to='show' params={{showID: show.get('ID')}} className='show'>
-        <Poster url={show.get('Poster')} onAdd={this.onAdd} />
+        <Poster id={show.get('ID')} type='shows' onAdd={this.onAdd} />
         <h3>{show.get('Title')}</h3>
         <p>{show.get('Year')}</p>
       </Link>

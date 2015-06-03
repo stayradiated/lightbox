@@ -5,7 +5,6 @@ var React = require('react');
 var flux     = require('../../flux');
 var Lightbox = require('../../modules/lightbox');
 var Sort     = require('./sort');
-var Header   = require('../common/header/');
 var ShowList = require('../common/showlist');
 
 var Shows = React.createClass({
@@ -39,11 +38,14 @@ var Shows = React.createClass({
   },
 
   render() {
-    var shows = this.filterShows(this.context.router.getCurrentParams().query);
+    var query = this.context.router.getCurrentParams().query;
+    // var shows = this.filterShows(query).sortBy(show => 0 - show.get('Released').getTime());
+    var shows = this.filterShows(query).sort((a, b) => {
+      return a.get('Title').localeCompare(b.get('Title'));
+    }).slice(0, 30);
 
     return (
       <div className='route-shows'>
-        <Header />
         <ShowList shows={shows} />
       </div>
     );

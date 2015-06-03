@@ -13,7 +13,8 @@ $font-family: roboto, sans-serif;
 
 // mixins
 @import 'modules/extends';
-@import 'modules/mixins';
+@import 'modules/poster';
+@import 'modules/dropdown';
 @import 'modules/type';
 
 // app styles
@@ -25,5 +26,4 @@ $font-family: roboto, sans-serif;
 @import 'app/season';
 @import 'app/episode';
 @import 'app/fanart';
-@import 'app/show-header';
 @import 'app/show-list';

@@ -16,5 +16,9 @@ module.exports = new Nuclear.Store({
 });
 
 function setShows(state, shows) {
-  return Nuclear.toImmutable(shows);
+  return Nuclear.toImmutable(shows).map(show => {
+    return show
+      .set('Released', new Date(show.get('Released')))
+      .set('DateCreated', new Date(show.get('DateCreated')));
+  });
 }

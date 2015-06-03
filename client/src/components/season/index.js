@@ -7,7 +7,6 @@ var { Link } = Router;
 var flux     = require('../../flux');
 var Lightbox = require('../../modules/lightbox');
 var Episode  = require('./episode');
-var Header = require('../common/header/');
 
 var Season = React.createClass({
   mixins: [flux.ReactMixin],
@@ -39,10 +38,12 @@ var Season = React.createClass({
     return (
       <div className='route-season'>
 
-        <Header show={show} season={season} />
-
         <div className='title-container'>
-          <h1>{show.get('Title')}</h1>
+          <h1>
+            <Link to='show' params={{showID: show.get('ID')}}>
+              {show.get('Title')}
+            </Link>
+          </h1>
           <h2>Season {season.get('Number')}</h2>
         </div>
         

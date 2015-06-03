@@ -45,7 +45,7 @@ flux.observe(
 var routes = (
   <Route path='/' handler={App}>
 
-    <DefaultRoute handler={Shows} />
+    <DefaultRoute handler={TopCharts} />
     <NotFoundRoute handler={Shows} />
 
     <Route name='shows' path='shows' handler={Shows} />

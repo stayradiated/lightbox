@@ -22,11 +22,11 @@ var Poster = React.createClass({
 
   render() {
 
-    var url = "/default.jpg";
+    var url = "./default.jpg";
 
     if (true) {
       url = [
-        'images',
+        './images',
         this.props.type,
         this.props.size,
         this.props.id + '.jpg',

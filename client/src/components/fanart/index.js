@@ -22,7 +22,7 @@ var Fanart = React.createClass({
     var style = {};
 
     if (show.has('ID')) {
-      style.backgroundImage = 'url(/images/fanart/large/' + show.get('ID') + '.jpg)';
+      style.backgroundImage = 'url(./images/fanart/large/' + show.get('ID') + '.jpg)';
     }
 
 		return (

@@ -17,6 +17,10 @@ exports.fetchShows = function () {
 };
 
 exports.fetchShow = function (id) {
+  if (flux.evaluate(getters.show).get('ID') == id) {
+    return;
+  }
+
   flux.dispatch(actionTypes.ResetShow);
 
   $.ajax({
@@ -27,6 +31,10 @@ exports.fetchShow = function (id) {
 };
 
 exports.fetchSeason = function (id) {
+  if (flux.evaluate(getters.season).get('ID') == id) {
+    return;
+  }
+
   flux.dispatch(actionTypes.ResetSeason);
 
   $.ajax({
@@ -45,6 +53,10 @@ exports.fetchCategory = function (id) {
 };
 
 exports.fetchEpisode = function (id) {
+  if (flux.evaluate(getters.episode).get('ID') == id) {
+    return;
+  }
+
   flux.dispatch(actionTypes.ResetEpisode);
 
   $.ajax({

@@ -25,7 +25,9 @@ var App = React.createClass({
       <div className='app'>
         <Header />
         <Sidebar active={activeTab} />
-        <RouteHandler />
+        <div className='route-container'>
+          <RouteHandler />
+        </div>
       </div>
     );
 

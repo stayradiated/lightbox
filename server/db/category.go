@@ -1,6 +1,6 @@
 package db
 
-func (d *DB) Categories() ([]Category, error) {
+func (d *DB) Categories() (map[string]string, error) {
 
 	rows, err := d.DB.Query(`
 		select
@@ -16,17 +16,17 @@ func (d *DB) Categories() ([]Category, error) {
 		return nil, err
 	}
 
-	categories := make([]Category, 0)
+	categories := make(map[string]string)
 
 	for rows.Next() {
-		var category Category
+		var id, name string
 		if err := rows.Scan(
-			&category.ID,
-			&category.Name,
+			&id,
+			&name,
 		); err != nil {
 			return nil, err
 		}
-		categories = append(categories, category)
+		categories[id] = name
 	}
 
 	return categories, nil

@@ -25,25 +25,26 @@ var Shows = React.createClass({
     var shows = this.state.shows;
     var category = this.state.category;
 
-    console.log('QUERY', query);
-    console.log('SHOWS', shows.toJS());
-    console.log('CATEGORY', category.toJS());
-
     if (shows == null) {
       shows = [];
     }
 
-    if (query == null) {
-      return shows;
-    }
-
-    query = query.toLowerCase();
+    query = query ? query.toLowerCase() : null;
 
     return shows.filter(show => {
-      return
-        show.get('Title').toLowerCase().indexOf(query) >= 0
-      &&
-        show.get('Categories').contains(category.get('ID'));
+      if (query != null) {
+        if (show.get('Title').toLowerCase().indexOf(query) < 0) {
+          return false;
+        }
+      }
+
+      if (show.has('Categories')) {
+        if (!show.get('Categories').contains(category.get('ID'))) {
+          return false;
+        }
+      }
+
+      return true;
     });
   },
 

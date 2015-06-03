@@ -23,7 +23,7 @@ var Show = React.createClass({
 
   render() {
     var show = this.state.show;
-    var categoryList = this.state.categories;
+    var categories = this.state.categories;
 
     if (! show.has('ID')) {
       return null;
@@ -33,17 +33,14 @@ var Show = React.createClass({
       show = show.set('Categories', []);
     }
 
-    var categories = show.get('Categories').map(categoryID => {
-      var category = categoryList.find(c => {
-        c.get('ID') === categoryID;
-      });
-      if (category == null) {
-        return null;
-      }
+    var categoryList = show.get('Categories').map(categoryID => {
+
+      var categoryName = categories.get(categoryID);
+
       return (
         <li key={categoryID}>
           <Link to='category' params={{categoryID: categoryID}}>
-            {category.get('Name')}
+            {categoryName}
           </Link>
         </li>
       );
@@ -74,7 +71,7 @@ var Show = React.createClass({
         <div className='metadata-container'>
           <div className='show-details'>
             <div className='categories'>
-              <ul>{categories}</ul>
+              <ul>{categoryList}</ul>
             </div>
             <div className='labels'>
               <Runtime runtime={show.get('Runtime')} />

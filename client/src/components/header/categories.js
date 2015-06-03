@@ -25,18 +25,14 @@ var Categories = React.createClass({
       return null;
     }
 
-    var items = categories.map(category => {
+    var items = categories.map((name, id) => {
       return {
-        label: category.get('Name'),
-        onClick: this.onClick.bind(null, category),
+        label: name,
+        onClick: this.onClick.bind(null, id),
       };
-    }).toJS();
+    }).toList().toJS();
 
-    var category = categories.find(category => {
-      return category.get('ID') === activeCategory.get('ID');
-    });
-    
-    var activeCategoryName = category ? category.get('Name') : 'Categories';
+    var activeCategoryName = categories.get(activeCategory.get('ID')) || 'Categories';
 
     return (
       <div className='categories'>
@@ -47,8 +43,8 @@ var Categories = React.createClass({
     );
   },
 
-  onClick(category) {
-    Lightbox.actions.setCategory(category.get('ID'));
+  onClick(categoryID) {
+    Lightbox.actions.setCategory(categoryID);
   },
 
 });

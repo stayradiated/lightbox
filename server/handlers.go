@@ -3,6 +3,7 @@ package main
 import (
 	"encoding/json"
 	"fmt"
+	"log"
 	"net/http"
 	"strconv"
 
@@ -55,7 +56,9 @@ func (h Handlers) ReadCategories(w http.ResponseWriter, r *http.Request) {
 		fmt.Fprintln(w, err)
 	}
 
-	printJson(w, categories)
+	if err := printJson(w, categories); err != nil {
+		log.Println(err)
+	}
 }
 
 // ReadCategory returns a list of shows in a category
@@ -113,7 +116,7 @@ func (h Handlers) ReadEpisode(w http.ResponseWriter, r *http.Request) {
 }
 
 // printJson
-func printJson(w http.ResponseWriter, obj interface{}) {
+func printJson(w http.ResponseWriter, obj interface{}) error {
 	w.Header().Set("Content-Type", "application/json; charset=UTF-8")
-	json.NewEncoder(w).Encode(obj)
+	return json.NewEncoder(w).Encode(obj)
 }

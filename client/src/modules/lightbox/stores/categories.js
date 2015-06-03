@@ -6,7 +6,7 @@ var actionTypes = require('../action-types');
 module.exports = new Nuclear.Store({
 
   getInitialState() {
-    return Nuclear.toImmutable([]);
+    return Nuclear.toImmutable({});
   },
 
   initialize() {
@@ -16,5 +16,9 @@ module.exports = new Nuclear.Store({
 });
 
 function setCategories(state, categories) {
-  return Nuclear.toImmutable(categories);
+  state = Nuclear.toImmutable({});
+  for (var key in categories) {
+    state = state.set(parseInt(key, 10), categories[key]);
+  }
+  return state;
 }

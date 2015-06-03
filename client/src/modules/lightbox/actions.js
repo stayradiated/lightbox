@@ -17,6 +17,8 @@ exports.fetchShows = function () {
 };
 
 exports.fetchShow = function (id) {
+  flux.dispatch(actionTypes.ResetShow);
+
   $.ajax({
     url: baseUrl + '/shows/' + id + ext,
   }).then(result => {
@@ -25,6 +27,8 @@ exports.fetchShow = function (id) {
 };
 
 exports.fetchSeason = function (id) {
+  flux.dispatch(actionTypes.ResetSeason);
+
   $.ajax({
     url: baseUrl + '/seasons/' + id + ext,
   }).then(result => {
@@ -41,6 +45,8 @@ exports.fetchCategory = function (id) {
 };
 
 exports.fetchEpisode = function (id) {
+  flux.dispatch(actionTypes.ResetEpisode);
+
   $.ajax({
     url: baseUrl + '/episodes/' + id + ext,
   }).then(result => {

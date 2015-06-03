@@ -6,15 +6,20 @@ var actionTypes = require('../action-types');
 module.exports = new Nuclear.Store({
 
   getInitialState() {
-    return Nuclear.toImmutable({});
+    return resetSeason();
   },
 
   initialize() {
     this.on(actionTypes.SetSeason, setSeason);
+    this.on(actionTypes.ResetSeason, resetSeason);
   },
 
 });
 
 function setSeason(state, season) {
   return Nuclear.toImmutable(season);
+}
+
+function resetSeason(state) {
+  return Nuclear.toImmutable({});
 }

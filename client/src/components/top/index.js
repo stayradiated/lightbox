@@ -22,7 +22,6 @@ var TopCharts = React.createClass({
 
     return (
       <div className='route-new'>
-        <h1>Top Charts</h1>
         <ShowList shows={shows} />
       </div>
     );

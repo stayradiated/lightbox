@@ -22,7 +22,6 @@ var WatchList = React.createClass({
 
     return (
       <div className='route-watchlist'>
-        <h1>Watch List</h1>
         <ShowList shows={shows} />
       </div>
     );

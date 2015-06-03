@@ -22,7 +22,6 @@ var NewReleases = React.createClass({
 
     return (
       <div className='route-new'>
-        <h1>New Releases</h1>
         <ShowList shows={shows} />
       </div>
     );

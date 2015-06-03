@@ -5,52 +5,50 @@ var { Link } = require('react-router');
 
 var flux     = require('../../flux');
 var Lightbox = require('../../modules/lightbox');
-var Dropdown = require('../common/dropdown-split-button');
+var Dropdown = require('../common/dropdown-button');
 
 var Categories = React.createClass({
   mixins: [flux.ReactMixin],
 
-  /*
-  contextTypes: {
-    router: React.PropTypes.func,
-  },
-  */
-
   getDataBindings() {
     return {
+      category: Lightbox.getters.category,
       categories: Lightbox.getters.categories,
     };
   },
 
   render() {
+    var activeCategory = this.state.category;
     var categories = this.state.categories;
-    var activeCategory = categories.find(category => {
-      return category.get('ID') === 0;
-    });
 
     if (categories == null || activeCategory == null) {
       return null;
     }
 
-    var categoryDropdown = <Dropdown
-      active={activeCategory}
-      items={categories}
-      linkTo='category'
-      itemParams={category => {
-        return {
-          categoryID: category.get('ID'),
-        };
-      }}
-      itemName={category => {
-        return category.get('Name');
-      }}
-    />;
+    var items = categories.map(category => {
+      return {
+        label: category.get('Name'),
+        onClick: this.onClick.bind(null, category),
+      };
+    }).toJS();
+
+    var category = categories.find(category => {
+      return category.get('ID') === activeCategory.get('ID');
+    });
+    
+    var activeCategoryName = category ? category.get('Name') : 'Categories';
 
     return (
       <div className='categories'>
-        {categoryDropdown}
+        <Dropdown items={items}>
+          {activeCategoryName}
+        </Dropdown>
       </div>
     );
+  },
+
+  onClick(category) {
+    Lightbox.actions.setCategory(category.get('ID'));
   },
 
 });

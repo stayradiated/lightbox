@@ -74,6 +74,10 @@ exports.fetchCategories = function () {
   });
 };
 
+exports.setCategory = function (categoryID) {
+  flux.dispatch(actionTypes.SetCategory, categoryID);
+};
+
 exports.bookmarkShow = function (showID) {
   flux.dispatch(actionTypes.BookmarkShow, showID);
 };

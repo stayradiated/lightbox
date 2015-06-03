@@ -34,6 +34,11 @@ func (d *DB) Shows(filter string) ([]Show, error) {
 		); err != nil {
 			return nil, err
 		}
+		categories, err := d.ShowCategories(show.ID)
+		if err != nil {
+			return nil, err
+		}
+		show.Categories = categories
 		shows = append(shows, show)
 	}
 

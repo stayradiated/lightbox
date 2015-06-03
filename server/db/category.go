@@ -32,35 +32,29 @@ func (d *DB) Categories() ([]Category, error) {
 	return categories, nil
 }
 
-func (d *DB) ShowCategories(showID int) ([]Category, error) {
+func (d *DB) ShowCategories(showID int) ([]int, error) {
 
 	rows, err := d.DB.Query(`
 		select
-			categories.id,
-			categories.name
+			show_categories.category_id
 		from
-			categories,
 			show_categories,
 			shows
 		where 
-			categories.id = show_categories.category_id and
 			shows.id = show_categories.show_id and
 			shows.id = ?
-		order by
-			categories.name
 	`, showID)
 
 	if err != nil {
 		return nil, err
 	}
 
-	categories := make([]Category, 0)
+	categories := make([]int, 0)
 
 	for rows.Next() {
-		var category Category
+		var category int
 		if err := rows.Scan(
-			&category.ID,
-			&category.Name,
+			&category,
 		); err != nil {
 			return nil, err
 		}

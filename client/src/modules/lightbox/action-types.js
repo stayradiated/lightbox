@@ -5,6 +5,7 @@ module.exports = keyMirror({
   SetShows: null,
   SetSeason: null,
   SetEpisode: null,
+  SetCategory: null,
   SetCategories: null,
 
   ResetShow: null,

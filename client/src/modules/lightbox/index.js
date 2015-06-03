@@ -1,12 +1,13 @@
 var flux = require('../../flux');
 
 flux.registerStores({
-  show:        require('./stores/show.store'),
-  shows:       require('./stores/shows.store'),
-  season:      require('./stores/season.store'),
-  episode:     require('./stores/episode.store'),
-  categories:  require('./stores/categories.store'),
-  watchlist:   require('./stores/watchlist.store'),
+  show:        require('./stores/show'),
+  shows:       require('./stores/shows'),
+  season:      require('./stores/season'),
+  episode:     require('./stores/episode'),
+  category:    require('./stores/category'),
+  categories:  require('./stores/categories'),
+  watchlist:   require('./stores/watchlist'),
 });
 
 module.exports = {

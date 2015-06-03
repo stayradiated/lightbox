@@ -45,22 +45,22 @@ type Season struct {
 }
 
 type Show struct {
-	ID             int        `json:",omitempty"`
-	Title          string     `json:",omitempty"`
-	Year           int        `json:",omitempty"`
-	Released       time.Time  `json:",omitempty"`
-	Runtime        int        `json:",omitempty"`
-	Writer         string     `json:",omitempty"`
-	Actors         string     `json:",omitempty"`
-	Plot           string     `json:",omitempty"`
-	Poster         string     `json:",omitempty"`
-	Fanart         string     `json:",omitempty"`
-	Rating         float64    `json:",omitempty"`
-	RatingCount    int        `json:",omitempty"`
-	Categories     []Category `json:",omitempty"`
-	DateCreated    time.Time  `json:",omitempty"`
-	ParentalRating string     `json:",omitempty"`
-	IMDB           string     `json:",omitempty"`
-	TVDB           int        `json:",omitempty"`
-	Seasons        []Season   `json:",omitempty"`
+	ID             int       `json:",omitempty"`
+	Title          string    `json:",omitempty"`
+	Year           int       `json:",omitempty"`
+	Released       time.Time `json:",omitempty"`
+	Runtime        int       `json:",omitempty"`
+	Writer         string    `json:",omitempty"`
+	Actors         string    `json:",omitempty"`
+	Plot           string    `json:",omitempty"`
+	Poster         string    `json:",omitempty"`
+	Fanart         string    `json:",omitempty"`
+	Rating         float64   `json:",omitempty"`
+	RatingCount    int       `json:",omitempty"`
+	Categories     []int     `json:",omitempty"`
+	DateCreated    time.Time `json:",omitempty"`
+	ParentalRating string    `json:",omitempty"`
+	IMDB           string    `json:",omitempty"`
+	TVDB           int       `json:",omitempty"`
+	Seasons        []Season  `json:",omitempty"`
 }

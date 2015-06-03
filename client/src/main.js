@@ -87,8 +87,4 @@ Router.run(routes, Router.HashLocation, (Root, state) => {
   if (params.hasOwnProperty('query')) { 
     Lightbox.actions.fetchShows(params.query);
   }
-
-  if (params.hasOwnProperty('categoryID')) {
-    Lightbox.actions.fetchCategory(params.categoryID);
-  }
 });

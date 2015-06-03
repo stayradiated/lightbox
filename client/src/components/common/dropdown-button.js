@@ -19,7 +19,7 @@ var DropdownButton = React.createClass({
 
     var items = this.props.items.map((item, i) => {
       return (
-        <li key={i}><a>{item.label}</a></li>
+        <li key={i}><a onClick={item.onClick}>{item.label}</a></li>
       );
     });
 

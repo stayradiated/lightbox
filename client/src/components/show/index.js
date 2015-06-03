@@ -17,11 +17,13 @@ var Show = React.createClass({
   getDataBindings() {
     return {
       show: Lightbox.getters.show,
+      categories: Lightbox.getters.categories,
     };
   },
 
   render() {
     var show = this.state.show;
+    var categoryList = this.state.categories;
 
     if (! show.has('ID')) {
       return null;
@@ -31,17 +33,16 @@ var Show = React.createClass({
       show = show.set('Categories', []);
     }
 
-    var categories = show.get('Categories').filter(category => {
-      switch (category.get('Name')) {
-        case "All TV":
-        case "All Kids":
-          return false;
+    var categories = show.get('Categories').map(categoryID => {
+      var category = categoryList.find(c => {
+        c.get('ID') === categoryID;
+      });
+      if (category == null) {
+        return null;
       }
-      return true;
-    }).map(category => {
       return (
-        <li key={category.get('ID')}>
-          <Link to='category' params={{categoryID: category.get('ID')}}>
+        <li key={categoryID}>
+          <Link to='category' params={{categoryID: categoryID}}>
             {category.get('Name')}
           </Link>
         </li>

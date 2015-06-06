@@ -47,7 +47,7 @@ var Season = React.createClass({
           <h2>Season {season.get('Number')}</h2>
         </div>
         
-        <div className='episodes'>
+        <div className='metadata-container'>
           {episodeElements}
         </div>
 

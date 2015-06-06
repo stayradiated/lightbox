@@ -9,21 +9,21 @@ var Search = React.createClass({
 
   render() {
     return (
-      <div className='search'>
+      <form className='search' onSubmit={this.onSearch}>
         <input
           ref='search'
           type='search'
           placeholder='Search'
-          onChange={lodash.debounce(this.onSearch, 300)}
         />
-        <span className='icon icon-search' />
-      </div>
+        <button><span className='icon icon-search' /></button>
+      </form>
     );
   },
 
   onSearch(e) {
+    e.preventDefault();
     var query = this.refs.search.getDOMNode().value;
-    this.transitionTo('search', { query });
+    this.transitionTo('shows', {categoryID: 0}, { query });
   },
 
 });

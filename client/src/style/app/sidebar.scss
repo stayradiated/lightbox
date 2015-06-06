@@ -1,6 +1,4 @@
 .sidebar {
-
-  $fg: #ECF0F1;
   $tab_height: 40px;
 
   position: fixed;
@@ -8,12 +6,13 @@
   left: 0;
   bottom: 0;
   width: 200px;
+  z-index: 8;
 
-  background: #11171C;
-  color: $fg;
+  background: linear-gradient(to left, rgba(#000, 0.4), rgba(#000, 0.35)), url('./debut_dark.png');
+  color: $c_fg;
 
   ul {
-    margin: 0 15px;
+    margin: 15px;
     padding: 0;
   }
 
@@ -22,7 +21,9 @@
     margin-bottom: 2px;
 
     &.active a {
-      background: #1C242B;
+      // background: #1C242B;
+      // background: #2F2F2F;
+      background: rgba($c_fg, 0.05);
     }
   }
 
@@ -30,23 +31,43 @@
     display: block;
 
     font-weight: bold;
-    font-size: 13px;
+    font-size: $font-normal;
     line-height: $tab_height;
     border-radius: 4px;
     padding: 0 10px;
 
-    color: $fg;
+    color: $c_fg;
     text-decoration: none;
 
     &:hover {
-      background: darken(#1C242B, 3);
+      background: rgba($c_fg, 0.02);
     }
   }
 
-  span:before {
+  .icon {
     font-size: 16px;
-    color: #92D0FA;
+    color: $c_hl;
     margin-right: 8px;
+  }
+
+  hr {
+    background: rgba($c_bg, 0.3);
+    border: 0;
+    height: 1px;
+    border-bottom: 1px solid rgba($c_fg, 0.1);
+    margin: 15px;
+  }
+
+  .categories {
+
+    li {
+    }
+
+    a {
+      $height: 25px;
+      line-height: $height;
+    }
+
   }
 
 }

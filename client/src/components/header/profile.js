@@ -16,7 +16,7 @@ var Profile = React.createClass({
     return (
       <div className='profile'>
         <DropdownButton items={profileItems}>
-          George 
+          George Czabania 
           <span className='icon icon-down-open' />
         </DropdownButton>
       </div>

@@ -1,5 +1,6 @@
 body {
-  background: #F8F9FA;
+  background: url('./debut_dark.png') fixed;
+  // background: #1F1F1F;
 }
 
 .app {
@@ -12,6 +13,7 @@ body {
 .route-container {
   margin-left: 200px;
   margin-top: 50px;
+  padding: 40px;
 }
 
 .app-route-enter {

@@ -32,7 +32,7 @@ var Episode = React.createClass({
       return null;
     }
 
-    var firstAired = (new XDate(episode.get('FirstAired'))).toString("MMMM d, yyyy");
+    var firstAired = (new XDate(episode.get('FirstAired'))).toString('MMMM d, yyyy');
 
     return (
 
@@ -45,7 +45,7 @@ var Episode = React.createClass({
             </Link>
           </h1>
           <h2>{episode.get('Title')}</h2>
-          <h3>S{season.get('Number')} - E{episode.get('Number')}</h3>
+          <h3>S{season.get('Number')} &#8226; E{episode.get('Number')}</h3>
         </div>
 
         <div className='metadata-container'>
@@ -56,19 +56,30 @@ var Episode = React.createClass({
 
           <div className='labels'>
             <span><Runtime runtime={episode.get('Runtime')} /></span>
+            <span className='parental-rating' title={episode.get('ParentalRatingReason')}>{episode.get('ParentalRating')}</span>
             <Rating rating={episode.get('Rating')} />
-            <span title={episode.get('ParentalRatingReason')}>Rated {episode.get('ParentalRating')}</span>
           </div>
 
-          <dl>
-            <dt>Director:</dt>
-            <dd>{episode.get('Director')}</dd>
-          </dl>
+          { episode.has('Director') ? (
+            <dl>
+              <dt>Director:</dt>
+              <dd>{episode.get('Director')}</dd>
+            </dl>
+          ) : null }
 
-          <dl>
-            <dt>Writer:</dt>
-            <dd>{episode.get('Writer')}</dd>
-          </dl>
+          { episode.has('Writer') ? (
+            <dl>
+              <dt>Writer:</dt>
+              <dd>{episode.get('Writer')}</dd>
+            </dl>
+          ) : null }
+
+          { episode.has('GuestStars') ? (
+            <dl>
+              <dt>Guest Stars:</dt>
+              <dd>{episode.get('GuestStars').split(', ').slice(0, 3).join(', ')}</dd>
+            </dl>
+          ) : null }
 
           <div className='plot'>
             <p>{episode.get('Plot')}</p>
@@ -94,10 +105,10 @@ var Episode = React.createClass({
     var episode = this.state.episode;
 
     var link =
-      "https://www.lightbox.co.nz/#/play-video/series/" + episode.get('ShowID') +
-      "/season/" + episode.get('SeasonID') + 
-      "/episode/" + episode.get('ID') + 
-      "/media/" + episode.get('MediaID');
+      'https://www.lightbox.co.nz/#/play-video/series/' + episode.get('ShowID') +
+      '/season/' + episode.get('SeasonID') + 
+      '/episode/' + episode.get('ID') + 
+      '/media/' + episode.get('MediaID');
 
     window.open(link);
   },

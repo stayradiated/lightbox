@@ -19,10 +19,12 @@ var Nav = React.createClass({
       show: Lightbox.getters.show,
       season: Lightbox.getters.season,
       episode: Lightbox.getters.episode,
+      categories: Lightbox.getters.categories,
     };
   },
 
   render() {
+    var categoryID = parseInt(this.context.router.getCurrentParams().categoryID, 10);
     var routes = this.context.router.getCurrentRoutes();
     var route = routes[routes.length-1].name;
 
@@ -33,11 +35,24 @@ var Nav = React.createClass({
     var showElement = null;
     var seasonElement = null;
     var episodeElement = null;
+    var categoryElement = null;
+
+    if (this.state.categories != null && this.state.categories.has(categoryID)) {
+      var category = this.state.categories.get(categoryID);
+
+      categoryElement = (
+        <div className='text' key={categoryID}>
+          <Link to='shows' params={{categoryID: categoryID}}>
+            {category.get('Name')}
+          </Link>
+        </div>
+      );
+    }
 
     if (activeShow.has('ID')) {
 
       showElement = (
-        <div className='show' key={activeShow.get('ID')}>
+        <div className='text' key={activeShow.get('ID')}>
           <Link to='show' params={{showID: activeShow.get('ID')}}>
             {activeShow.get('Title')}
           </Link>
@@ -81,7 +96,7 @@ var Nav = React.createClass({
                   };
                 }}
                 itemName={episode => {
-                  return episode.get('Number') + '. ' +episode.get('Title');
+                  return episode.get('Title');
                 }}
               />
             </div>
@@ -107,6 +122,7 @@ var Nav = React.createClass({
         items.push(episodeElement);
         break;
       case 'shows':
+        items.push(categoryElement);
         break;
     }
 

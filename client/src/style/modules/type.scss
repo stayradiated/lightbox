@@ -1,3 +1,46 @@
 body {
+  color: $c_fg;
   font-family: $font-family;
+}
+
+h1, h2, h3, h4 {
+  @extend %truncate;
+  margin: 0;
+
+  a {
+    text-decoration: none;
+    color: $c_fg;
+
+    &:hover {
+      border-bottom: 1px solid $c_fg;
+    }
+  }
+}
+
+h1, h2, h3 {
+  font-weight: 200;
+  line-height: 1.5;
+}
+
+h1 {
+  font-size: $font-huge;
+}
+
+h2, h3 {
+  font-size: $font-huge;
+  color: $c_fr;
+}
+
+h4 {
+  font-size: $font-large;
+  font-weight: 500;
+}
+
+h5 {
+  font-weight: 400;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
 }

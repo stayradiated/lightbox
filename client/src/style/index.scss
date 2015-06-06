@@ -1,8 +1,20 @@
 
 // colors
+$c_hl: #FFDF00;
+$c_hv: #D7B707;
+$c_fg: #ffffff;
+$c_fr: rgba($c_fg, 0.7);
+$c_bg: #000000;
+$c_br: rgba($c_bg, 0.2);
+$c_hd: #1F1F1F;
 
 // fonts
 $font-family: roboto, sans-serif;
+
+$font-small: 13px;
+$font-normal: 14px;
+$font-large: 16px;
+$font-huge: 30px;
 
 // layout
 
@@ -21,9 +33,12 @@ $font-family: roboto, sans-serif;
 @import 'app/main';
 @import 'app/header';
 @import 'app/sidebar';
+@import 'app/fanart';
 @import 'app/shows';
 @import 'app/show';
 @import 'app/season';
 @import 'app/episode';
-@import 'app/fanart';
+@import 'app/show-item';
 @import 'app/show-list';
+@import 'app/show-row';
+@import 'app/lists';

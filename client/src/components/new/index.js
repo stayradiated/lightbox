@@ -18,10 +18,11 @@ var NewReleases = React.createClass({
 	render() {
     var shows = this.state.shows.sortBy(show => {
       return 0 - show.get('Released').getTime();
-    }).slice(0, 30);
+    });
 
     return (
       <div className='route-new'>
+        <h1>New Releases</h1>
         <ShowList shows={shows} />
       </div>
     );

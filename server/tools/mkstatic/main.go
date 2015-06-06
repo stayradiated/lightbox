@@ -20,6 +20,14 @@ func main() {
 		panic(err)
 	}
 
+	if err := DownloadFile("api/categories.json"); err != nil {
+		panic(err)
+	}
+
+	if err := DownloadFile("api/lists.json"); err != nil {
+		panic(err)
+	}
+
 	for _, show := range shows {
 
 		var fullShow db.Show
@@ -52,21 +60,6 @@ func main() {
 
 			}
 
-		}
-
-	}
-
-	var categories []db.Category
-	if err := DownloadAndParseJSON("api/categories.json", &categories); err != nil {
-		panic(err)
-	}
-
-	for _, category := range categories {
-
-		if err := DownloadFile(
-			fmt.Sprintf("api/categories/%d.json", category.ID),
-		); err != nil {
-			panic(err)
 		}
 
 	}

@@ -17,7 +17,8 @@
     top: 35%;
     bottom: 35%;
     left: 0;
-    background: rgba(#000, 0.3);
+    background: rgba($c_fg, 0.3);
+    transition: background 0.3s ease;
   }
 }
 
@@ -34,8 +35,7 @@
   position: relative;
 
   .button {
-    font-size: 12px;
-    color: lighten(#000, 30);
+    font-size: $font-normal;
 
     background: none;
     outline: 0;
@@ -46,11 +46,20 @@
     .icon {
       font-size: 14px;
       margin: 0 0 0 5px;
-      color: #8C8C8C;
+      color: rgba($c_fg, 0.3);
+      transition: color 0.3s ease;
     }
 
     &:hover {
-      color: #000;
+      $color: rgba($c_fg, 0.7);
+
+      .icon {
+        color: $color;
+      }
+
+      &:before {
+        background: $color;
+      }
     }
   }
 
@@ -60,12 +69,12 @@
     max-width: 200px;
     vertical-align: top;
 
-    font-size: 14px;
-    color: lighten(#000, 30);
+    font-size: $font-normal;
+    color: lighten(#fff, 30);
     text-decoration: none;
 
     &:hover {
-      color: #000;
+      color: #fff;
     }
   }
 
@@ -86,9 +95,8 @@
     margin: 2px 0 0;
     padding: 5px 0;
 
-    background: #fff;
-    outline: 1px solid rgba(#000, 0.2);
-    box-sizing: border-box;
+    background: lighten($c_hd, 15);
+    border: 1px solid lighten($c_bg, 20);
   }
 
   li {
@@ -96,26 +104,31 @@
     list-style-type: none;
 
     &.active a {
-      font-weight: bold;
+      // font-weight: bold;
+      color: $c_fg;
     }
   }
 
   li > a {
     display: block;
-    font-size: 13px;
+    font-size: $font-normal;
     line-height: 21px;
     padding: 5px 10px;
     text-decoration: none;
 
-    color: lighten(#000, 20);
+    color: $c_fr;
 
     cursor: pointer;
 
     @extend %truncate;
 
     &:hover {
-      background: #0081C2;
-      color: #fff;
+      background: lighten($c_hd, 10);
+      color: $c_fg;
+    }
+
+    .icon {
+      margin-left: 10px;
     }
   }
 

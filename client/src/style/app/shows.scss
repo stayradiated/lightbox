@@ -1,42 +1,15 @@
 .route-shows {
 
-  header {
-    $height: 50px;
-
-    position: fixed;
-    top: 51px;
-    left: 200px;
-    right: 0;
-    height: $height;
-
-    line-height: $height;
-    padding: 0 20px;
-
-    z-index: 9;
-
-    background: rgba(#fff, 0.98);
-    box-shadow: 0 2px 14px rgba(#000, 0.1);
-
-    .sort {
-      float: right;
-      position: relative;
-
-      p {
-        margin: 0;
-      }
-
-      &:hover {
-        .dropdown {
-          display: block;
-        }
-      }
-      .dropdown {
-        @extend %dropdown;
-        right: 0;
-      }
-      a {
-        cursor: pointer;
-      }
-    }
+  h2 {
+    margin-top: 20px;
   }
+
+  .show-list, .show-row {
+    margin-top: 10px;
+  }
+
+  section {
+    margin-top: -40px;
+  }
+
 }

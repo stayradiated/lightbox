@@ -1,11 +1,17 @@
 package db
 
-func (d *DB) Categories() (map[string]string, error) {
+import (
+	"database/sql"
+	"strconv"
+)
+
+func (d *DB) Categories() (map[string]Category, error) {
 
 	rows, err := d.DB.Query(`
 		select
 			categories.id,
-			categories.name
+			categories.name,
+			categories.list_id
 		from
 			categories
 		order by
@@ -16,17 +22,24 @@ func (d *DB) Categories() (map[string]string, error) {
 		return nil, err
 	}
 
-	categories := make(map[string]string)
+	categories := make(map[string]Category)
 
 	for rows.Next() {
-		var id, name string
+		var category Category
+		var listID sql.NullInt64
 		if err := rows.Scan(
-			&id,
-			&name,
+			&category.ID,
+			&category.Name,
+			&listID,
 		); err != nil {
 			return nil, err
 		}
-		categories[id] = name
+		if listID.Valid {
+			category.List = int(listID.Int64)
+		} else {
+			category.List = -1
+		}
+		categories[strconv.Itoa(category.ID)] = category
 	}
 
 	return categories, nil

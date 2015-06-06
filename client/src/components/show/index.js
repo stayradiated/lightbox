@@ -33,14 +33,22 @@ var Show = React.createClass({
       show = show.set('Categories', []);
     }
 
-    var categoryList = show.get('Categories').map(categoryID => {
+    var categoryList = show.get('Categories').filter(categoryID => {
+      switch (categoryID) {
+        case 0:
+        case 37:
+        case 36:
+          return false;
+      }
+      return true;
+    }).map(categoryID => {
 
-      var categoryName = categories.get(categoryID);
+      var category = categories.get(categoryID);
 
       return (
         <li key={categoryID}>
-          <Link to='category' params={{categoryID: categoryID}}>
-            {categoryName}
+          <Link to='shows' params={{categoryID: categoryID}}>
+            {category.get('Name')}
           </Link>
         </li>
       );
@@ -65,7 +73,7 @@ var Show = React.createClass({
 
         <div className='title-container'>
           <h1>{show.get('Title')}</h1>
-          <h2>{show.get('Year')}</h2>
+          <h3>{show.get('Released').getFullYear()}</h3>
         </div>
 
         <div className='metadata-container'>
@@ -75,11 +83,25 @@ var Show = React.createClass({
             </div>
             <div className='labels'>
               <Runtime runtime={show.get('Runtime')} />
-              <span className='rating'>
-                <Rating rating={show.get('Rating')} />
-              </span>
-              <span className='parental-rating'>Rated {show.get('ParentalRating')}</span>
+              <span className='parental-rating'>{show.get('ParentalRating')}</span>
+              <Rating rating={show.get('Rating')} />
             </div>
+
+            { show.has('Writer') ? (
+              <dl>
+                <dt>Creators:</dt>
+                <dd>{show.get('Writer')}</dd>
+              </dl>
+            ) : null }
+
+
+            { show.has('Actors') ? (
+              <dl>
+                <dt>Stars:</dt>
+                <dd>{show.get('Actors').split(", ").slice(0,3).join(", ")}</dd>
+              </dl>
+            ) : null }
+
             <div className='plot'>
               <p>{show.get('Plot')}</p>
             </div>

@@ -2,11 +2,13 @@
 
 var React = require('react');
 var classNames = require('classnames');
+var { noop } = require('lodash');
 
 var DropdownButton = React.createClass({
 
   propTypes: {
     items: React.PropTypes.array.isRequired,
+    onChange: React.PropTypes.func,
   },
 
   getInitialState() {
@@ -16,10 +18,15 @@ var DropdownButton = React.createClass({
   },
 
   render() {
+    var onChange = this.props.onChange || noop;
 
     var items = this.props.items.map((item, i) => {
       return (
-        <li key={i}><a onClick={item.onClick}>{item.label}</a></li>
+        <li key={i}>
+          <a onClick={onChange.bind(null, item)}>
+            {item.label}
+          </a>
+        </li>
       );
     });
 

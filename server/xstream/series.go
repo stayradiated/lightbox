@@ -18,6 +18,11 @@ type MapString struct {
 	En      string `json:"en"`
 }
 
+type Dates struct {
+	Published string `json:"published"`
+	Created   string `json:"created"`
+}
+
 type Category struct {
 	ID     int       `json:"id"`
 	Parent int       `json:"parent"`
@@ -67,13 +72,10 @@ type Stream struct {
 }
 
 type Episode struct {
-	ID     int       `json:"id"`
-	Type   string    `json:"type"`
-	Titles MapString `json:"titles"`
-	Dates  struct {
-		Published string `json:"published"`
-		Created   string `json:"created"`
-	} `json:"dates"`
+	ID               int       `json:"id"`
+	Type             string    `json:"type"`
+	Titles           MapString `json:"titles"`
+	Dates            Dates     `json:"dates"`
 	Descriptions     MapString `json:"descriptions"`
 	LongDescriptions MapString `json:"long_descriptions"`
 	Images           []Image   `json:"images"`
@@ -126,9 +128,7 @@ type Series struct {
 	ParentalControl  ParentalControl `json:"parental_control"`
 }
 
-type SeriesList []Series
-
-type CategoryResponse struct {
-	Series SeriesList `json:"series"`
-	Count  int        `json:"count"`
+type SeriesList struct {
+	Series []Series `json:"series"`
+	Count  int      `json:"count"`
 }

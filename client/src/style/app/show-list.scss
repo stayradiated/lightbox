@@ -1,50 +1,28 @@
 .show-list {
 
-  .show {
+  margin-right: -60px;
 
-    display: block;
+  .show-item {
     float: left;
+  }
 
-    // $width: 119px;
-    $width: 187px;
+  .sort {
+    float: right;
+    position: relative;
 
-    width: $width;
-    margin: 20px 0 0 20px;
 
-    text-decoration: none;
+    margin-right: 60px;
+    margin-top: -50px;
 
-    .poster {
-      @include poster($width, 1000/680);
+
+    .dropdown {
+      @extend %dropdown;
+      right: 0;
     }
+  }
 
-    h3 {
-      $height: 20px;
 
-      display: block;
-      height: $height;
-      line-height: $height;
-
-      @extend %truncate;
-
-      color: #000;
-      font-size: 13px;
-      font-weight: 500;
-      margin: 5px 0 0;
-    }
-
-    p {
-      $height: 20px;
-
-      display: block;
-      height: $height;
-      line-height: $height;
-
-      @extend %truncate;
-
-      font-size: 12px;
-      color: lighten(#000, 30);
-      margin: 0;
-    }
-
+  .shows {
+    @include cf();
   }
 }

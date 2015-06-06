@@ -4,63 +4,82 @@ var React = require('react');
 
 var flux     = require('../../flux');
 var Lightbox = require('../../modules/lightbox');
-var Sort     = require('./sort');
 var ShowList = require('../common/showlist');
+var List     = require('../common/list');
 
 var Shows = React.createClass({
   mixins: [flux.ReactMixin],
 
-  contextTypes: {
-    router: React.PropTypes.func,
-  },
-
   getDataBindings() {
     return {
       shows: Lightbox.getters.shows,
-      category: Lightbox.getters.category,
+      showsSearch: Lightbox.getters.showsSearch,
+      categories: Lightbox.getters.categories,
+      lists: Lightbox.getters.shows,
     };
   },
 
-  filterShows(query) {
+  getShows() {
+    var query = this.props.query.query;
+    var categoryID = this.getCategoryID();
     var shows = this.state.shows;
-    var category = this.state.category;
 
     if (shows == null) {
       shows = [];
     }
 
-    query = query ? query.toLowerCase() : null;
+    // filter by query
+    if (query != null) {
+      return this.state.showsSearch(query);
+    }
 
-    return shows.filter(show => {
-      if (query != null) {
-        if (show.get('Title').toLowerCase().indexOf(query) < 0) {
-          return false;
+    // filter by category
+    if (categoryID >= 0) {
+      return shows.filter(show => {
+        if (show.has('Categories')) {
+          if (!show.get('Categories').contains(categoryID)) {
+            return false;
+          }
         }
-      }
+        return true;
+      });
+    }
 
-      if (show.has('Categories')) {
-        if (!show.get('Categories').contains(category.get('ID'))) {
-          return false;
-        }
-      }
+    return shows;
+  },
 
-      return true;
-    });
+  getCategoryID() {
+    return parseInt(this.props.params.categoryID, 10);
   },
 
   render() {
-    var query = this.context.router.getCurrentParams().query;
+    var shows = this.getShows();
 
-    // var shows = this.filterShows(query);
-    // .sortBy(show => 0 - show.get('Rating'));
+    var category = this.state.categories.get(this.getCategoryID());
 
-    var shows = this.filterShows(query);
-    // .sort((a, b) => {
-    //   return a.get('Title').localeCompare(b.get('Title'));
-    // }).slice(0, 30);
+    var title = 'All TV';
+
+    var showRow = null;
+    if (category != null) {
+      title = category.get('Name');
+      var listID = category.get('List');
+      if (listID >= 0) {
+        showRow = (
+          <List listID={listID} />
+        );
+      }
+    }
 
     return (
       <div className='route-shows'>
+        <h1>{title}</h1>
+        { showRow ? (
+          <div className='most-popular'>
+            <h2>Most Popular</h2>
+            {showRow}
+          </div>
+        ) : null }
+        <h2>All Shows</h2>
         <ShowList shows={shows} />
       </div>
     );

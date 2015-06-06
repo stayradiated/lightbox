@@ -17,7 +17,7 @@ exports.fetchShows = function () {
 };
 
 exports.fetchShow = function (id) {
-  if (flux.evaluate(getters.show).get('ID') == id) {
+  if (flux.evaluate(getters.show).get('ID') === id) {
     return;
   }
 
@@ -31,7 +31,7 @@ exports.fetchShow = function (id) {
 };
 
 exports.fetchSeason = function (id) {
-  if (flux.evaluate(getters.season).get('ID') == id) {
+  if (flux.evaluate(getters.season).get('ID') === id) {
     return;
   }
 
@@ -53,7 +53,7 @@ exports.fetchCategory = function (id) {
 };
 
 exports.fetchEpisode = function (id) {
-  if (flux.evaluate(getters.episode).get('ID') == id) {
+  if (flux.evaluate(getters.episode).get('ID') === id) {
     return;
   }
 
@@ -74,8 +74,16 @@ exports.fetchCategories = function () {
   });
 };
 
-exports.setCategory = function (categoryID) {
-  flux.dispatch(actionTypes.SetCategory, categoryID);
+exports.fetchLists = function () {
+  $.ajax({
+    url: baseUrl + '/lists' + ext,
+  }).then(result => {
+    flux.dispatch(actionTypes.SetLists, result);
+  });
+};
+
+exports.setSort = function (sortBy) {
+  flux.dispatch(actionTypes.SetSort, sortBy);
 };
 
 exports.bookmarkShow = function (showID) {

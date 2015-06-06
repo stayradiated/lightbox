@@ -2,9 +2,16 @@ package db
 
 import "time"
 
+type List struct {
+	ID    int
+	Title string
+	Shows []int
+}
+
 type Category struct {
 	ID   int
 	Name string
+	List int
 }
 
 type Episode struct {
@@ -19,7 +26,6 @@ type Episode struct {
 	Plot                 string    `json:",omitempty"`
 	Runtime              int       `json:",omitempty"`
 	FirstAired           time.Time `json:",omitempty"`
-	Year                 int       `json:",omitempty"`
 	ParentalRating       string    `json:",omitempty"`
 	ParentalRatingReason string    `json:",omitempty"`
 	Director             string    `json:",omitempty"`
@@ -47,7 +53,6 @@ type Season struct {
 type Show struct {
 	ID             int       `json:",omitempty"`
 	Title          string    `json:",omitempty"`
-	Year           int       `json:",omitempty"`
 	Released       time.Time `json:",omitempty"`
 	Runtime        int       `json:",omitempty"`
 	Writer         string    `json:",omitempty"`

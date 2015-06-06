@@ -6,13 +6,13 @@ func (d *DB) Shows(filter string) ([]Show, error) {
 
 	rows, err := d.DB.Query(`
 		select
-			id, title, year, rating, parental_rating, released, date_created
+			id, title, rating, parental_rating, released, date_created
 		from
 			shows
 		where
 			title like (?)
 		order by
-			rating desc
+			title asc
 	`, filter)
 
 	if err != nil {
@@ -26,7 +26,6 @@ func (d *DB) Shows(filter string) ([]Show, error) {
 		if err := rows.Scan(
 			&show.ID,
 			&show.Title,
-			&show.Year,
 			&show.Rating,
 			&show.ParentalRating,
 			&show.Released,
@@ -53,7 +52,6 @@ func (d *DB) Show(showID int) (Show, error) {
 		select
 			id,
 			title,
-			year,
 			released,
 			runtime,
 			writer,
@@ -74,7 +72,6 @@ func (d *DB) Show(showID int) (Show, error) {
 	`, showID).Scan(
 		&show.ID,
 		&show.Title,
-		&show.Year,
 		&show.Released,
 		&show.Runtime,
 		&show.Writer,

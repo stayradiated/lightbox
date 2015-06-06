@@ -22,8 +22,8 @@ var Episode = React.createClass({
         episodeID: episode.get('ID'),
       }} className='episode'>
         <Poster id={episode.get('ID')} type='episodes' />
-        <h3>{episode.get('Title')}</h3>
-        <p>Episode {episode.get('Number')}</p>
+        <h4>{episode.get('Title')}</h4>
+        <h5>Episode {episode.get('Number')}</h5>
       </Link>
     );
   },

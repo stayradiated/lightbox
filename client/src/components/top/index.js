@@ -18,10 +18,11 @@ var TopCharts = React.createClass({
 	render() {
     var shows = this.state.shows.sortBy(show => {
       return 0 - show.get('Rating');
-    }).slice(0, 30);
+    });
 
     return (
       <div className='route-new'>
+        <h1>Top Charts</h1>
         <ShowList shows={shows} />
       </div>
     );

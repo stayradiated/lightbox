@@ -37,5 +37,9 @@ func GetRoutes(h *Handlers) Routes {
 			"ReadEpisode",
 			"GET", "/episodes/{episode:[0-9]+}.json", h.ReadEpisode,
 		},
+		Route{
+			"ReadLists",
+			"GET", "/lists.json", h.ReadLists,
+		},
 	}
 }

@@ -2,7 +2,7 @@
 
   .background {
     position: fixed;
-    top: 50px;
+    top: 0;
     bottom: 0;
     left: 200px;
     right: 0;
@@ -12,8 +12,114 @@
     // filter: blur(5px);
     // background: none !important;
 
-    opacity: 0.3;
+    opacity: 0.2;
     z-index: -1;
   }
+
+  h1, h2 {
+    float: left;
+    max-width: 70%;
+  }
+
+  h3 {
+    float: right;
+    max-width: 30%;
+  }
+
+  .title-container {
+    position: absolute;
+    top: 110px;
+    left: 0;
+    right: 0;
+    padding: 0;
+  }
+
+  .metadata-container {
+    position: absolute;
+    top: 160px;
+    right: -40px;
+    left: -40px;
+    // min-height: 80%;
+    padding: 20px 40px;
+    background: linear-gradient(to bottom, rgba($c_bg, 0.3) 0%, rgba($c_bg, 0) 100%);
+  }
+
+  .show-details {
+    min-height: 300px;
+    margin-bottom: 40px;
+  }
+
+  .plot {
+    max-width: 800px;
+    font-size: $font-large;
+    line-height: 1.8;
+  }
+
+  .rating {
+    margin-left: 25px;
+
+    span {
+      display: inline-block;
+      font-size: 20px;
+      line-height: 31px;
+      margin-left: -3px;
+      color: $c_hl;
+    }
+  }
+
+  .parental-rating {
+    margin-left: 20px;
+  }
+
+  .first-aired {
+    float: right;
+    color: $c_fr;
+  }
+
+  .runtime, .parental-rating {
+    border-radius: 5px;
+    background: $c_br;
+    padding: 8px 15px;
+    font-size: $font-small;
+    font-weight: 600;
+    cursor: default;
+  }
+
+  dl {
+    dt {
+      display: inline-block;
+      text-transform: uppercase;
+      font-size: $font-small;
+      font-weight: 500;
+      color: rgba(#fff, 0.5);
+    }
+    dd {
+      display: inline;
+      margin: 0 0 0 10px;
+      font-size: $font-normal;
+    }
+  }
+
+  .poster-container {
+    position: absolute;
+    top: 70px;
+    left: 0;
+  }
+
+  h4 {
+    color: $c_fg;
+    height: 25px;
+    line-height: 25px;
+    margin-top: 5px;
+  }
+
+  h5 {
+    font-size: $font-small;
+    @extend %truncate;
+    color: rgba(#fff, 0.5);
+    margin: -2px 0 0;
+    line-height: 1.5;
+  }
+
 
 }

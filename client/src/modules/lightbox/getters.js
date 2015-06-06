@@ -1,12 +1,14 @@
 'use strict';
 
+exports.sort       = ['sort'];
 exports.show       = ['show'];
-exports.shows      = ['shows'];
+exports.shows      = ['shows', 'Shows'];
+exports.showsSearch  = ['shows', 'Search'];
 exports.season     = ['season'];
 exports.episode    = ['episode'];
-exports.category   = ['category'];
 exports.categories = ['categories'];
 exports.watchlist  = ['watchlist'];
+exports.lists      = ['lists'];
 
 exports.fanart = ['show', 'Fanart'];
 
@@ -14,9 +16,7 @@ exports.watchlistShows = [
   exports.watchlist,
   exports.shows,
   (watchlist, shows) => {
-    console.log(watchlist.toJS());
     return watchlist.map(item => {
-      console.log('item', item);
       var show = shows.find(show => {
         return show.get('ID') === item.get('ShowID');
       });

@@ -36,9 +36,6 @@ var Categories = React.createClass({
 
     return (
       <div className='categories'>
-        <Dropdown items={items}>
-          {activeCategoryName}
-        </Dropdown>
       </div>
     );
   },

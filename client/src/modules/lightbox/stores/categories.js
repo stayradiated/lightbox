@@ -18,7 +18,10 @@ module.exports = new Nuclear.Store({
 function setCategories(state, categories) {
   state = Nuclear.toImmutable({});
   for (var key in categories) {
-    state = state.set(parseInt(key, 10), categories[key]);
+    state = state.set(
+      parseInt(key, 10),
+      Nuclear.toImmutable(categories[key])
+    );
   }
   return state;
 }

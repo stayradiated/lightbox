@@ -17,7 +17,12 @@ module.exports = new Nuclear.Store({
 });
 
 function setEpisode(state, episode) {
-  return Nuclear.toImmutable(episode);
+  return Nuclear.toImmutable(episode).withMutations(episode => {
+    return episode
+      .set('DateCreated', new Date(episode.get('DateCreated')))
+      .set('DatePublished', new Date(episode.get('DatePublished')))
+      .set('FirstAired', new Date(episode.get('FirstAired')));
+  });
 }
 
 function resetEpisiode(state) {

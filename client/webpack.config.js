@@ -26,7 +26,7 @@ module.exports = {
         loaders: ['react-hot', 'jsx', 'babel'],
       },
       {
-        test: /\.(woff|eot|svg|ttf)$/,
+        test: /\.(woff|eot|svg|ttf|png)$/,
         loaders: ['url?limit=8192'],
       },
     ]

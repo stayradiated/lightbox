@@ -6,7 +6,6 @@ var { Link } = require('react-router');
 var Nav        = require('./nav');
 var Search     = require('./search');
 var Profile    = require('./profile');
-var Categories = require('./categories');
 
 var Header = React.createClass({
   
@@ -16,7 +15,6 @@ var Header = React.createClass({
         <h1 className='logo'>
           <Link to='/'>Lightbox</Link>
         </h1>
-        <Categories />
         <Nav />
         <Profile />
         <Search />

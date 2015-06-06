@@ -115,6 +115,27 @@ func (h Handlers) ReadEpisode(w http.ResponseWriter, r *http.Request) {
 	printJson(w, episode)
 }
 
+// ReadLists
+func (h Handlers) ReadLists(w http.ResponseWriter, r *http.Request) {
+
+	lists, err := h.DB.Lists()
+	if err != nil {
+		fmt.Fprintln(w, err)
+		return
+	}
+
+	for i, list := range lists {
+		shows, err := h.DB.ListShows(list.ID)
+		if err != nil {
+			fmt.Fprintln(w, err)
+			return
+		}
+		lists[i].Shows = shows
+	}
+
+	printJson(w, lists)
+}
+
 // printJson
 func printJson(w http.ResponseWriter, obj interface{}) error {
 	w.Header().Set("Content-Type", "application/json; charset=UTF-8")

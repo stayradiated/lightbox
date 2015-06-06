@@ -2,16 +2,36 @@
 
 var React = require('react');
 
-var Activity = React.createClass({
+var flux     = require('../../flux');
+var Lightbox = require('../../modules/lightbox');
+var List     = require('../common/list');
+
+var Recommended = React.createClass({
+  mixins: [flux.ReactMixin],
+
+  getDataBindings() {
+    return {
+      lists: Lightbox.getters.lists,
+    };
+  },
 
 	render() {
+    var lists = this.state.lists;
+
     return (
-      <div className='route-activity'>
-        <h1>Activity</h1>
+      <div className='route-lists'>
+        <h1>Recommended</h1>
+        {
+          lists.map(list => {
+            return (
+              <List key={list.get('ID')} listID={list.get('ID')} showTitle={true}/>
+            );
+          })
+        }
       </div>
     );
 	},
 
 });
 
-module.exports = Activity;
+module.exports = Recommended;

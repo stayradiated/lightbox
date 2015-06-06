@@ -1,0 +1,46 @@
+.show-item {
+
+  display: block;
+
+  // $width: 119px;
+  $width: 187px;
+
+  width: $width;
+  margin: 20px 20px 0 0;
+
+  text-decoration: none;
+
+  .poster {
+    @include poster($width, 1000/680);
+  }
+
+  h3 {
+    $height: $font-large * 1.5;
+
+    display: block;
+    height: $height;
+    line-height: $height;
+
+    @extend %truncate;
+
+    color: #fff;
+    font-size: $font-large;
+    font-weight: 500;
+    margin: 5px 0 0;
+  }
+
+  p {
+    $height: $font-small * 1.5;
+
+    display: block;
+    height: $height;
+    line-height: $height;
+
+    @extend %truncate;
+
+    font-size: $font-small;
+    color: darken(#fff, 50);
+    margin: 0;
+  }
+
+}

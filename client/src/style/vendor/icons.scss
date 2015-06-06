@@ -1,10 +1,10 @@
 @font-face {
-  font-family: 'icons';
-  src: url('font/icons.eot');
-  src: url('font/icons.eot') format('embedded-opentype'),
-       url('font/icons.woff') format('woff'),
-       url('font/icons.ttf') format('truetype'),
-       url('font/icons.svg') format('svg');
+  font-family: 'lightbox';
+  src: url('./font/lightbox.eot');
+  src: url('./font/lightbox.eot') format('embedded-opentype'),
+       url('./font/lightbox.woff') format('woff'),
+       url('./font/lightbox.ttf') format('truetype'),
+       url('./font/lightbox.svg') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -13,14 +13,14 @@
 /*
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
-    font-family: 'icons';
-    src: url('./font/icons.svg?45074198#icons') format('svg');
+    font-family: 'lightbox';
+    src: url('./font/lightbox.svg') format('svg');
   }
 }
 */
  
  [class^="icon-"]:before, [class*=" icon-"]:before {
-  font-family: "icons";
+  font-family: "lightbox";
   font-style: normal;
   font-weight: normal;
   speak: none;
@@ -185,3 +185,9 @@
 .icon-phone-squared:before { content: '\e880'; } /* '' */
 .icon-signal:before { content: '\e881'; } /* '' */
 .icon-wifi:before { content: '\e882'; } /* '' */
+.icon-right-big:before { content: '\e883'; } /* '' */
+.icon-left-big:before { content: '\e884'; } /* '' */
+.icon-thumbs-up:before { content: '\e885'; } /* '' */
+.icon-thumbs-up-alt:before { content: '\e886'; } /* '' */
+.icon-thumbs-down:before { content: '\e887'; } /* '' */
+.icon-thumbs-down-alt:before { content: '\e888'; } /* '' */

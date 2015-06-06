@@ -18,10 +18,9 @@ var WatchList = React.createClass({
 	render() {
     var shows = this.state.shows;
 
-    console.log(shows.toJS());
-
     return (
       <div className='route-watchlist'>
+        <h1>Watchlist</h1>
         <ShowList shows={shows} />
       </div>
     );

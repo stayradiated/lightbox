@@ -2,16 +2,28 @@
 
 var React = require('react');
 
-var Show = require('./show');
+var flux = require('../../../flux');
+var Lightbox = require('../../../modules/lightbox');
+var Show = require('../show/');
+var Sort = require('./sort');
 
 var ShowList = React.createClass({
+  mixins: [flux.ReactMixin],
 
   propTypes: {
     shows: React.PropTypes.object,
   },
 
+  getDataBindings() {
+    return {
+      sort: Lightbox.getters.sort,
+    };
+  },
+
   render() {
-    var shows = this.props.shows;
+    var sort = this.state.sort;
+    var sortFn = sort.get('List').get(sort.get('By'));
+    var shows = sortFn(this.props.shows).slice(0, 50);
 
     var showElements = shows.map(show => {
       return (
@@ -21,9 +33,16 @@ var ShowList = React.createClass({
 
     return (
       <div className='show-list'>
-        {showElements}
+        <Sort sort={sort} onChange={this.setSortFn} />
+        <div className='elements'>
+          {showElements}
+        </div>
       </div>
     );
+  },
+
+  setSortFn(sortFn) {
+    this.setState({ sortFn });
   },
 
 });

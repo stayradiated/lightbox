@@ -3,6 +3,7 @@ package main
 import (
 	"database/sql"
 	"encoding/xml"
+	"flag"
 	"fmt"
 	"io/ioutil"
 	"log"
@@ -19,7 +20,18 @@ import (
 var getID = regexp.MustCompile(`^\d+`)
 
 func main() {
-	if err := ImportAllShows("../fetch-tvdb/series"); err != nil {
+
+	var dir string
+
+	flag.StringVar(&dir, "f", "", "Path to fetch-tvdb output")
+	flag.Parse()
+
+	if dir == "" {
+		fmt.Println("WARNING: Must specify -f")
+		return
+	}
+
+	if err := ImportAllShows(dir); err != nil {
 		panic(err)
 	}
 }

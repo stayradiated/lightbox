@@ -52,7 +52,7 @@ func main() {
 	var seriesID, seasonID, episodeID, listID int
 
 	flag.BoolVar(&everything, "everything", false, "everything")
-	flag.BoolVar(&hotspots, "hotstops", false, "hotspots")
+	flag.BoolVar(&hotspots, "hotspots", false, "hotspots")
 	flag.IntVar(&seriesID, "series", -1, "series id")
 	flag.IntVar(&seasonID, "season", -1, "season id")
 	flag.IntVar(&episodeID, "episode", -1, "episode id")
@@ -65,7 +65,7 @@ func main() {
 	if listID >= 0 {
 		data, err = GetSectionList(listID)
 	} else if hotspots {
-
+		// TODO: implement hotspots
 	} else if everything && seriesID >= 0 {
 		data, err = GetFullEpisodeInfo(seriesID)
 	} else if everything == true {

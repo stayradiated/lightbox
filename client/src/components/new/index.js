@@ -1,10 +1,10 @@
-'use strict';
+"use strict";
 
-var React = require('react');
+var React = require("react");
 
-var flux = require('../../flux');
-var Lightbox = require('../../modules/lightbox');
-var ShowList = require('../common/showlist');
+var flux = require("../../flux");
+var Lightbox = require("../../modules/lightbox");
+var ShowList = require("../common/showlist");
 
 var NewReleases = React.createClass({
   mixins: [flux.ReactMixin],
@@ -17,11 +17,11 @@ var NewReleases = React.createClass({
 
 	render() {
     var shows = this.state.shows.sortBy(show => {
-      return 0 - show.get('Released').getTime();
+      return 0 - show.get("Released").getTime();
     });
 
     return (
-      <div className='route-new'>
+      <div className="route-new">
         <h1>New Releases</h1>
         <ShowList shows={shows} />
       </div>

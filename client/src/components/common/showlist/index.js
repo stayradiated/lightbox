@@ -1,11 +1,11 @@
-'use strict';
+"use strict";
 
-var React = require('react');
+var React = require("react");
 
-var flux = require('../../../flux');
-var Lightbox = require('../../../modules/lightbox');
-var Show = require('../show/');
-var Sort = require('./sort');
+var flux = require("../../../flux");
+var Lightbox = require("../../../modules/lightbox");
+var Show = require("../show/");
+var Sort = require("./sort");
 
 var ShowList = React.createClass({
   mixins: [flux.ReactMixin],
@@ -22,19 +22,19 @@ var ShowList = React.createClass({
 
   render() {
     var sort = this.state.sort;
-    var sortFn = sort.get('List').get(sort.get('By'));
+    var sortFn = sort.get("List").get(sort.get("By"));
     var shows = sortFn(this.props.shows).slice(0, 50);
 
     var showElements = shows.map(show => {
       return (
-        <Show key={show.get('ID')} show={show} />
+        <Show key={show.get("ID")} show={show} />
       );
     });
 
     return (
-      <div className='show-list'>
+      <div className="show-list">
         <Sort sort={sort} onChange={this.setSortFn} />
-        <div className='elements'>
+        <div className="elements">
           {showElements}
         </div>
       </div>

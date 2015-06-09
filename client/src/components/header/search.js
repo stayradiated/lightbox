@@ -1,21 +1,20 @@
-'use strict';
+"use strict";
 
-var lodash = require('lodash');
-var React = require('react');
-var { Navigation } = require('react-router');
+var React = require("react");
+var { Navigation } = require("react-router");
 
 var Search = React.createClass({
   mixins: [Navigation],
 
   render() {
     return (
-      <form className='search' onSubmit={this.onSearch}>
+      <form className="search" onSubmit={this.onSearch}>
         <input
-          ref='search'
-          type='search'
-          placeholder='Search'
+          ref="search"
+          type="search"
+          placeholder="Search"
         />
-        <button><span className='icon icon-search' /></button>
+        <button><span className="icon icon-search" /></button>
       </form>
     );
   },
@@ -23,7 +22,7 @@ var Search = React.createClass({
   onSearch(e) {
     e.preventDefault();
     var query = this.refs.search.getDOMNode().value;
-    this.transitionTo('shows', {categoryID: 0}, { query });
+    this.transitionTo("shows", {categoryID: 0}, { query });
   },
 
 });

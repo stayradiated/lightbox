@@ -1,7 +1,11 @@
-'use strict';
+"use strict";
 
-var Nuclear = require('nuclear-js');
-var actionTypes = require('../action-types');
+var Nuclear = require("nuclear-js");
+var actionTypes = require("../action-types");
+
+function setLists(state, lists) {
+  return Nuclear.toImmutable(lists);
+}
 
 module.exports = new Nuclear.Store({
 
@@ -14,7 +18,3 @@ module.exports = new Nuclear.Store({
   },
 
 });
-
-function setLists(state, lists) {
-  return Nuclear.toImmutable(lists);
-}

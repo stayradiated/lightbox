@@ -1,12 +1,12 @@
-'use strict';
+"use strict";
 
-var React = require('react');
-var Router = require('react-router');
+var React = require("react");
+var Router = require("react-router");
 var { Link } = Router;
 
-var Lightbox = require('../../../modules/lightbox');
+var Lightbox = require("../../../modules/lightbox");
 
-var Poster = require('../poster/');
+var Poster = require("../poster/");
 
 var Show = React.createClass({
 
@@ -17,19 +17,19 @@ var Show = React.createClass({
   render() {
     var show = this.props.show;
 
-    if (! show.has('ID')) {
+    if (!show.has("ID")) {
       return null;
     }
-    
-    var year = show.get('Released').getFullYear();
+
+    var year = show.get("Released").getFullYear();
     if (year === 1) {
       year = "";
     }
 
     return (
-      <Link to='show' params={{showID: show.get('ID')}} className='show-item'>
-        <Poster id={show.get('ID')} type='shows' onAdd={this.onAdd} />
-        <h3>{show.get('Title')}</h3>
+      <Link to="show" params={{showID: show.get("ID")}} className="show-item">
+        <Poster id={show.get("ID")} type="shows" onAdd={this.onAdd} />
+        <h3>{show.get("Title")}</h3>
         <p>{year}</p>
       </Link>
     );
@@ -37,7 +37,7 @@ var Show = React.createClass({
 
   onAdd(e) {
     e.preventDefault();
-    Lightbox.actions.bookmarkShow(this.props.show.get('ID'));
+    Lightbox.actions.bookmarkShow(this.props.show.get("ID"));
   },
 
 });

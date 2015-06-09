@@ -1,4 +1,4 @@
-var Nuclear = require('nuclear-js');
+var Nuclear = require("nuclear-js");
 
 module.exports = new Nuclear.Reactor({
   debug: false,

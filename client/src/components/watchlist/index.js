@@ -1,10 +1,10 @@
-'use strict';
+"use strict";
 
-var React = require('react');
+var React = require("react");
 
-var flux = require('../../flux');
-var Lightbox = require('../../modules/lightbox');
-var ShowList = require('../common/showlist');
+var flux = require("../../flux");
+var Lightbox = require("../../modules/lightbox");
+var ShowList = require("../common/showlist");
 
 var WatchList = React.createClass({
   mixins: [flux.ReactMixin],
@@ -19,7 +19,7 @@ var WatchList = React.createClass({
     var shows = this.state.shows;
 
     return (
-      <div className='route-watchlist'>
+      <div className="route-watchlist">
         <h1>Watchlist</h1>
         <ShowList shows={shows} />
       </div>

@@ -1,12 +1,14 @@
-'use strict';
+"use strict";
 
-var React = require('react');
+var React = require("react");
 
-var flux     = require('../../flux');
-var Lightbox = require('../../modules/lightbox');
-var List     = require('../common/list');
+var flux = require("../../flux");
+var Lightbox = require("../../modules/lightbox");
+var List = require("../common/list");
 
 var Recommended = React.createClass({
+  displayName: "Recommended",
+
   mixins: [flux.ReactMixin],
 
   getDataBindings() {
@@ -19,12 +21,12 @@ var Recommended = React.createClass({
     var lists = this.state.lists;
 
     return (
-      <div className='route-lists'>
+      <div className="route-lists">
         <h1>Recommended</h1>
         {
           lists.map(list => {
             return (
-              <List key={list.get('ID')} listID={list.get('ID')} showTitle={true}/>
+              <List key={list.get("ID")} listID={list.get("ID")} showTitle={true}/>
             );
           })
         }

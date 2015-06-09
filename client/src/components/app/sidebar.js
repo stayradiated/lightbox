@@ -1,8 +1,8 @@
-'use strict';
+"use strict";
 
-var React = require('react');
-var classNames = require('classnames');
-var { Link } = require('react-router');
+var React = require("react");
+var classNames = require("classnames");
+var { Link } = require("react-router");
 
 var Sidebar = React.createClass({
 
@@ -14,45 +14,47 @@ var Sidebar = React.createClass({
 
     var contents = [
       // {
-      //   name: 'Playing',
-      //   icon: 'icon-play-circled2',
-      //   href: 'player',
+      //   name: "Playing",
+      //   icon: "icon-play-circled2",
+      //   href: "player",
       // },
       // {
-      //   name: 'Activity',
-      //   icon: 'icon-history',
-      //   href: 'activity',
+      //   name: "Activity",
+      //   icon: "icon-history",
+      //   href: "activity",
       // },
       {
-        name: 'Recommended',
-        icon: 'icon-thumbs-up',
-        href: 'activity',
+        name: "Recommended",
+        icon: "icon-thumbs-up",
+        href: "activity",
       },
       // {
-      //   name: 'Top Charts',
-      //   icon: 'icon-chart-bar',
-      //   href: 'top',
+      //   name: "Top Charts",
+      //   icon: "icon-chart-bar",
+      //   href: "top",
       // },
       // {
-      //   name: 'New Releases',
-      //   icon: 'icon-calendar-empty',
-      //   href: 'new',
+      //   name: "New Releases",
+      //   icon: "icon-calendar-empty",
+      //   href: "new",
       // },
       {
-        name: 'Watchlist',
-        icon: 'icon-list',
-        href: 'watchlist',
+        name: "Watchlist",
+        icon: "icon-list",
+        href: "watchlist",
       },
       {
-        name: 'Browse',
-        icon: 'icon-compass',
-        href: 'shows',
-        params: {categoryID: 37},
+        name: "Browse",
+        icon: "icon-compass",
+        href: "shows",
+        params: {
+          categoryID: 37
+        },
       },
     ];
 
     return (
-      <aside className='sidebar'>
+      <aside className="sidebar">
         <ul>
           {
             contents.map(tab => {
@@ -61,7 +63,7 @@ var Sidebar = React.createClass({
                   active: this.props.active === tab.href,
                 })}>
                   <Link to={tab.href} params={tab.params}>
-                    <span className={'icon ' + tab.icon} />
+                    <span className={"icon " + tab.icon} />
                     {tab.name}
                   </Link>
                 </li>
@@ -70,23 +72,23 @@ var Sidebar = React.createClass({
           }
         </ul>
         <hr />
-        <ul className='categories'>
+        <ul className="categories">
           <li>
-            <Link to='shows' params={{categoryID: 37 }}>All TV</Link>
+            <Link to="shows" params={{categoryID: 37 }}>All TV</Link>
             <ul>
-              <li><Link to='shows' params={{categoryID: 20 }}>Comedy</Link></li>
-              <li><Link to='shows' params={{categoryID: 21 }}>Crime</Link></li>
-              <li><Link to='shows' params={{categoryID: 1 }}>Drama</Link></li>
-              <li><Link to='shows' params={{categoryID: 34 }}>Factual</Link></li>
-              <li><Link to='shows' params={{categoryID: 39 }}>New Zealand</Link></li>
-              <li><Link to='shows' params={{categoryID: 26 }}>Reality</Link></li>
-              <li><Link to='shows' params={{categoryID: 38 }}>Sci-Fi / Fantasy</Link></li>
+              <li><Link to="shows" params={{categoryID: 20 }}>Comedy</Link></li>
+              <li><Link to="shows" params={{categoryID: 21 }}>Crime</Link></li>
+              <li><Link to="shows" params={{categoryID: 1 }}>Drama</Link></li>
+              <li><Link to="shows" params={{categoryID: 34 }}>Factual</Link></li>
+              <li><Link to="shows" params={{categoryID: 39 }}>New Zealand</Link></li>
+              <li><Link to="shows" params={{categoryID: 26 }}>Reality</Link></li>
+              <li><Link to="shows" params={{categoryID: 38 }}>Sci-Fi / Fantasy</Link></li>
             </ul>
           </li>
           <li>
-            <Link to='shows' params={{categoryID: 36 }}>Kids TV</Link>
+            <Link to="shows" params={{categoryID: 36 }}>Kids TV</Link>
             <ul>
-              <li><Link to='shows' params={{categoryID: 35 }}>Pre-school</Link></li>
+              <li><Link to="shows" params={{categoryID: 35 }}>Pre-school</Link></li>
             </ul>
           </li>
         </ul>

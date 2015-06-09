@@ -1,11 +1,9 @@
-'use strict';
+"use strict";
 
-var React = require('react');
-var { Link } = require('react-router');
+var React = require("react");
 
-var flux     = require('../../flux');
-var Lightbox = require('../../modules/lightbox');
-var Dropdown = require('../common/dropdown-button');
+var flux     = require("../../flux");
+var Lightbox = require("../../modules/lightbox");
 
 var Categories = React.createClass({
   mixins: [flux.ReactMixin],
@@ -18,6 +16,8 @@ var Categories = React.createClass({
   },
 
   render() {
+
+    /*
     var activeCategory = this.state.category;
     var categories = this.state.categories;
 
@@ -32,10 +32,11 @@ var Categories = React.createClass({
       };
     }).toList().toJS();
 
-    var activeCategoryName = categories.get(activeCategory.get('ID')) || 'Categories';
+    var activeCategoryName = categories.get(activeCategory.get("ID")) || "Categories";
+    */
 
     return (
-      <div className='categories'>
+      <div className="categories">
       </div>
     );
   },

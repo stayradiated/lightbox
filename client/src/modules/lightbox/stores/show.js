@@ -1,7 +1,19 @@
-'use strict';
+"use strict";
 
-var Nuclear = require('nuclear-js');
-var actionTypes = require('../action-types');
+var Nuclear = require("nuclear-js");
+var actionTypes = require("../action-types");
+
+function setShow(_, data) {
+  return Nuclear.toImmutable(data).withMutations(show => {
+    return show
+      .set("Released", new Date(show.get("Released")))
+      .set("DateCreated", new Date(show.get("DateCreated")));
+  });
+}
+
+function resetShow() {
+  return Nuclear.toImmutable({});
+}
 
 module.exports = new Nuclear.Store({
 
@@ -15,15 +27,3 @@ module.exports = new Nuclear.Store({
   },
 
 });
-
-function setShow(state, show) {
-  return Nuclear.toImmutable(show).withMutations(show => {
-    return show
-      .set('Released', new Date(show.get('Released')))
-      .set('DateCreated', new Date(show.get('DateCreated')));
-  });
-}
-
-function resetShow(state) {
-  return Nuclear.toImmutable({});
-}

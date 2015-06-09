@@ -1,7 +1,7 @@
-'use strict';
+"use strict";
 
-var React = require('react');
-var classNames = require('classnames');
+var React = require("react");
+var classNames = require("classnames");
 
 var Poster = React.createClass({
 
@@ -16,7 +16,7 @@ var Poster = React.createClass({
 
   getDefaultProps() {
     return {
-      size: 'small',
+      size: "small",
     };
   },
 
@@ -24,29 +24,29 @@ var Poster = React.createClass({
 
     var url = "./default.jpg";
 
-    if (true) {
-      url = [
-        './images',
-        this.props.type,
-        this.props.size,
-        this.props.id + '.jpg',
-      ].join('/');
-    }
+    // if (true) {
+    url = [
+      "./images",
+      this.props.type,
+      this.props.size,
+      this.props.id + ".jpg",
+    ].join("/");
+    // }
 
     var classes = classNames({
-      'poster': true,
-      'large': this.props.size === 'large',
-      'small': this.props.size === 'small',
-      'play-only': this.props.playOnly,
+      "poster": true,
+      "large": this.props.size === "large",
+      "small": this.props.size === "small",
+      "play-only": this.props.playOnly,
     });
 
     return (
       <div className={classes} style={{
-        backgroundImage: 'url(' + url + ')'
+        backgroundImage: "url(" + url + ")"
       }}>
-        <div className='overlay'>
-          <button className='icon icon-play' onClick={this.props.onPlay} />
-          <button className='icon icon-plus' onClick={this.props.onAdd} />
+        <div className="overlay">
+          <button className="icon icon-play" onClick={this.props.onPlay} />
+          <button className="icon icon-plus" onClick={this.props.onAdd} />
         </div>
       </div>
     );

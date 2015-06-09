@@ -1,7 +1,18 @@
-'use strict';
+"use strict";
 
-var Nuclear = require('nuclear-js');
-var actionTypes = require('../action-types');
+var Nuclear = require("nuclear-js");
+var actionTypes = require("../action-types");
+
+function setCategories(state, categories) {
+  state = Nuclear.toImmutable({});
+  for (var key in categories) {
+    state = state.set(
+      parseInt(key, 10),
+      Nuclear.toImmutable(categories[key])
+    );
+  }
+  return state;
+}
 
 module.exports = new Nuclear.Store({
 
@@ -15,13 +26,3 @@ module.exports = new Nuclear.Store({
 
 });
 
-function setCategories(state, categories) {
-  state = Nuclear.toImmutable({});
-  for (var key in categories) {
-    state = state.set(
-      parseInt(key, 10),
-      Nuclear.toImmutable(categories[key])
-    );
-  }
-  return state;
-}

@@ -1,10 +1,9 @@
-'use strict';
+"use strict";
 
-var React = require('react');
-var { Link } = require('react-router');
+var React = require("react");
 
-var Dropdown = require('../dropdown-button');
-var Lightbox = require('../../../modules/lightbox');
+var Dropdown = require("../dropdown-button");
+var Lightbox = require("../../../modules/lightbox");
 
 var Sort = React.createClass({
   propTypes: {
@@ -13,9 +12,9 @@ var Sort = React.createClass({
   },
 
   render() {
-    var sortBy = this.props.sort.get('By');
+    var sortBy = this.props.sort.get("By");
 
-    var items = this.props.sort.get('List').reduce((a, v, k) => {
+    var items = this.props.sort.get("List").reduce((a, v, k) => {
       a.push({
         label: k,
       });
@@ -23,10 +22,10 @@ var Sort = React.createClass({
     }, []);
 
     return (
-      <div className='sort'>
+      <div className="sort">
         <Dropdown items={items} onChange={this.onChange}>
           Sort by {sortBy}
-          <span className='icon icon-down-dir' />
+          <span className="icon icon-down-dir" />
         </Dropdown>
       </div>
     );

@@ -1,11 +1,11 @@
-'use strict';
+"use strict";
 
-var React = require('react');
+var React = require("react");
 
-var flux     = require('../../flux');
-var Lightbox = require('../../modules/lightbox');
-var ShowList = require('../common/showlist');
-var List     = require('../common/list');
+var flux     = require("../../flux");
+var Lightbox = require("../../modules/lightbox");
+var ShowList = require("../common/showlist");
+var List     = require("../common/list");
 
 var Shows = React.createClass({
   mixins: [flux.ReactMixin],
@@ -36,8 +36,8 @@ var Shows = React.createClass({
     // filter by category
     if (categoryID >= 0) {
       return shows.filter(show => {
-        if (show.has('Categories')) {
-          if (!show.get('Categories').contains(categoryID)) {
+        if (show.has("Categories")) {
+          if (!show.get("Categories").contains(categoryID)) {
             return false;
           }
         }
@@ -57,12 +57,12 @@ var Shows = React.createClass({
 
     var category = this.state.categories.get(this.getCategoryID());
 
-    var title = 'All TV';
+    var title = "All TV";
 
     var showRow = null;
     if (category != null) {
-      title = category.get('Name');
-      var listID = category.get('List');
+      title = category.get("Name");
+      var listID = category.get("List");
       if (listID >= 0) {
         showRow = (
           <List listID={listID} />
@@ -71,10 +71,10 @@ var Shows = React.createClass({
     }
 
     return (
-      <div className='route-shows'>
+      <div className="route-shows">
         <h1>{title}</h1>
         { showRow ? (
-          <div className='most-popular'>
+          <div className="most-popular">
             <h2>Most Popular</h2>
             {showRow}
           </div>

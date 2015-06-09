@@ -38,5 +38,21 @@
     "react-immutable-render-mixin": "^0.8.1",
     "react-router": "^0.13.3",
     "xdate": "^0.8.0"
+  },
+  "eslintConfig": {
+    "env": {
+      "browser": true,
+      "es6": true,
+      "node": true
+    },
+    "plugins": [ "react" ],
+    "ecmaFeatures": {
+      "jsx": true
+    },
+    "rules": {
+      "comma-dangle": "always-multiline",
+      "no-multi-spaces": 0,
+      "key-spacing": 0
+    }
   }
 }

@@ -1,6 +1,6 @@
-'use strict';
+"use strict";
 
-var React = require('react');
+var React = require("react");
 
 var Rating = React.createClass({
 
@@ -29,22 +29,22 @@ var Rating = React.createClass({
     var i;
     for (i = 0; i < fullStars; i += 1) {
       stars.push(
-        <span key={i} className='icon-star' />
+        <span key={i} className="icon-star" />
       );
     }
     for (i = 0; i < halfStars; i += 1) {
       stars.push(
-        <span key={fullStars+i} className='icon-star-half-alt' />
+        <span key={fullStars + i} className="icon-star-half-alt" />
       );
     }
     for (i = 0; i < emptyStars; i += 1) {
       stars.push(
-        <span key={fullStars+halfStars+i} className='icon-star-empty' />
+        <span key={fullStars + halfStars + i} className="icon-star-empty" />
       );
     }
 
     return (
-      <span className='rating'>{stars}</span>
+      <span className="rating">{stars}</span>
     );
   }
 

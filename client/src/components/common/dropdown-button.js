@@ -1,8 +1,8 @@
-'use strict';
+"use strict";
 
-var React = require('react');
-var classNames = require('classnames');
-var { noop } = require('lodash');
+var React = require("react");
+var classNames = require("classnames");
+var { noop } = require("lodash");
 
 var DropdownButton = React.createClass({
 
@@ -31,13 +31,14 @@ var DropdownButton = React.createClass({
     });
 
     var classes = classNames({
-      'dropdown-button': true,
-      'open': this.state.open,
+      "open": this.state.open,
+
+      "dropdown-button": true,
     });
 
     return (
       <span className={classes}>
-        <a className='button' onClick={this.onButtonClick}>
+        <a className="button" onClick={this.onButtonClick}>
           {this.props.children}
         </a>
         <ul>
@@ -67,11 +68,11 @@ var DropdownButton = React.createClass({
   },
 
   addEventListener() {
-    document.addEventListener('click', this.onDocumentClick);
+    document.addEventListener("click", this.onDocumentClick);
   },
 
   removeEventListener() {
-    document.removeEventListener('click', this.onDocumentClick);
+    document.removeEventListener("click", this.onDocumentClick);
   },
 
   shouldComponentUpdate(nextProps, nextState) {

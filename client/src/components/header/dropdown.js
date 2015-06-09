@@ -1,8 +1,8 @@
-'use strict';
+"use strict";
 
-var React = require('react');
-var { Link } = require('react-router');
-var classNames = require('classnames');
+var React = require("react");
+var { Link } = require("react-router");
+var classNames = require("classnames");
 
 var Dropdown = React.createClass({
 
@@ -19,11 +19,11 @@ var Dropdown = React.createClass({
     var items = this.props.list.map(item => {
 
       var classes = classNames({
-        active: item.get('ID') === this.props.active.get('ID'),
+        active: item.get("ID") === this.props.active.get("ID"),
       });
 
       return (
-        <li key={item.get('ID')} className={classes}>
+        <li key={item.get("ID")} className={classes}>
           <Link to={this.props.linkTo} params={this.props.itemParams(item)}>
             {this.props.itemName(item)}
           </Link>
@@ -33,11 +33,11 @@ var Dropdown = React.createClass({
     });
 
     return (
-      <div className='dropdown'>
+      <div className="dropdown">
         <Link to={this.props.linkTo} params={this.props.itemParams(this.props.active)}>
           {this.props.itemName(this.props.active)}
         </Link>
-        <span className='icon icon-down-dir' />
+        <span className="icon icon-down-dir" />
         <ul>{items}</ul>
       </div>
     );

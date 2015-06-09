@@ -1,6 +1,6 @@
-'use strict';
+"use strict";
 
-var React = require('react');
+var React = require("react");
 
 var Runtime = React.createClass({
 
@@ -20,15 +20,15 @@ var Runtime = React.createClass({
     var time = [];
 
     if (hours > 0) {
-      time.push(hours + "h");
+      time.push(hours + " hr");
     }
 
     if (minutes > 0) {
-      time.push(minutes + "m");
+      time.push(minutes + " min");
     }
 
     return (
-      <span className='runtime'>{time.join(" ")}</span>
+      <span className="runtime">{time.join(" ")}</span>
     );
   },
 

@@ -20,11 +20,13 @@ func main() {
 		panic(err)
 	}
 
+	fmt.Println(list.ID, list.Titles.Default)
 	db.InsertList(list.ID, list.Titles.Default)
 
 	for i, series := range list.Elements.Series {
-		fmt.Println(series.ID)
+		fmt.Printf("%d, ", series.ID)
 		db.InsertListShow(list.ID, series.ID, i)
 	}
+	fmt.Println()
 
 }

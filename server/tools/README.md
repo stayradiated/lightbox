@@ -35,6 +35,10 @@ new table are logged.
 
 Probably could be replaced with a pure SQL script.
 
+## Fetch
+
+Interface for the Lightbox xstream API.
+
 ## Fetch Images
 
 Downloads all images referred to in the database.
@@ -102,9 +106,9 @@ getting used as the OMDB api wasn't always returning episode info.
 
 ## Import Lightbox
 
-Parses JSON output of `scrape` and inserts information into the database.
+Parses JSON output of `fetch` and inserts information into the database.
 
-    > ./import-lightbox -f ../scrape/output.json
+    > ./import-lightbox -f ../fetch/output.json
 
 Handles:
 
@@ -114,10 +118,10 @@ Handles:
 
 ## Import Lightbox Images
 
-Parses JSON output of `scrape` in a similar way as `import-lightbox` but just
+Parses JSON output of `fetch` in a similar way as `import-lightbox` but just
 focuses on the `images` information.
 
-    > ./import-lightbox-images -f ../scrape/output.json
+    > ./import-lightbox-images -f ../fetch/output.json
 
 Handles:
 
@@ -127,9 +131,9 @@ Handles:
 
 ## Import Lightbox List
 
-Parses JSON input on `stdin` from `scrape` and inserts it into the database.
+Parses JSON input on `stdin` from `fetch` and inserts it into the database.
 
-    > for i in {0..30} do ../scrape/scrape -list $i | ./import-lightbox-list
+    > for i in {0..30} do ../fetch/fetch -list $i | ./import-lightbox-list
     > done
 
 ## Import TVDB
@@ -167,8 +171,6 @@ Designed to be used with `import-imdb`.
 ## Make Seasons
 
 ## Make Satic
-
-## Scrape
 
 ## Season Banner
 
